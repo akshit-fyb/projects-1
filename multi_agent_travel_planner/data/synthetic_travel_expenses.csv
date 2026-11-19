@@ -1,0 +1,2501 @@
+destination,travellers,days,accommodation,transport,season,activity,meal_preference,total_cost
+Manali,1,8,3-Star Hotel,Flight,Regular,Adventure,Premium,42289.07
+Agra,3,3,3-Star Hotel,Flight,Peak,Culture,Premium,37276.95
+Agra,3,9,Hostel,Train,Peak,Relaxation,Standard,48522.95
+Rishikesh,5,9,Hostel,Bus,Regular,Relaxation,Budget,47989.44
+Jaipur,3,10,3-Star Hotel,Flight,Regular,Sightseeing,Premium,85889.5
+Shimla,3,3,Budget Hotel,Bus,Regular,Adventure,Budget,18327.74
+Varanasi,5,5,Budget Hotel,Car,Peak,Adventure,Budget,45445.01
+Shimla,2,4,Budget Hotel,Bus,Off-season,Culture,Standard,15795.43
+Varanasi,1,4,Hostel,Train,Peak,Culture,Premium,11014.17
+Rishikesh,2,8,4-Star Hotel,Flight,Regular,Relaxation,Budget,49753.24
+Shimla,4,7,4-Star Hotel,Bus,Off-season,Relaxation,Premium,79459.38
+Goa,1,3,3-Star Hotel,Flight,Regular,Culture,Standard,18498.57
+Rishikesh,1,8,3-Star Hotel,Car,Regular,Relaxation,Standard,27962.48
+Agra,4,2,Hostel,Car,Regular,Relaxation,Budget,12885.88
+Varanasi,1,4,Budget Hotel,Bus,Regular,Relaxation,Premium,10256.49
+Shimla,1,7,4-Star Hotel,Train,Off-season,Adventure,Standard,37092.19
+Varanasi,2,3,Budget Hotel,Car,Regular,Adventure,Premium,16248.25
+Manali,4,3,4-Star Hotel,Bus,Peak,Culture,Standard,40390.62
+Varanasi,1,5,Budget Hotel,Bus,Peak,Adventure,Standard,14547.16
+Udaipur,2,3,3-Star Hotel,Car,Regular,Relaxation,Budget,15750.98
+Goa,4,10,Budget Hotel,Flight,Peak,Adventure,Budget,112179.36
+Goa,1,2,4-Star Hotel,Car,Regular,Culture,Budget,13213.62
+Jaipur,5,7,3-Star Hotel,Train,Off-season,Culture,Budget,41040.89
+Rishikesh,4,5,Hostel,Flight,Peak,Adventure,Premium,71863.42
+Jaipur,4,5,Hostel,Car,Regular,Culture,Budget,26848.0
+Jaipur,4,2,Hostel,Train,Off-season,Culture,Budget,8331.11
+Shimla,3,5,Budget Hotel,Bus,Peak,Relaxation,Standard,39006.79
+Goa,3,9,Hostel,Bus,Peak,Adventure,Standard,76457.44
+Goa,1,7,3-Star Hotel,Train,Regular,Adventure,Premium,37018.66
+Shimla,5,5,4-Star Hotel,Train,Off-season,Culture,Standard,51375.32
+Goa,2,6,Hostel,Flight,Peak,Culture,Budget,32070.91
+Udaipur,4,8,Hostel,Car,Off-season,Sightseeing,Standard,45146.85
+Goa,2,2,3-Star Hotel,Bus,Peak,Relaxation,Budget,13706.67
+Agra,5,4,Budget Hotel,Train,Peak,Adventure,Premium,58550.92
+Udaipur,5,10,3-Star Hotel,Train,Regular,Relaxation,Budget,79188.96
+Agra,1,10,Budget Hotel,Bus,Regular,Relaxation,Premium,30018.68
+Shimla,3,4,Hostel,Flight,Peak,Sightseeing,Standard,39024.32
+Goa,4,8,Budget Hotel,Car,Regular,Relaxation,Budget,56564.91
+Manali,1,9,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,43662.2
+Udaipur,1,3,Budget Hotel,Bus,Regular,Culture,Premium,9889.5
+Varanasi,3,3,Budget Hotel,Flight,Peak,Adventure,Standard,29628.82
+Jaipur,5,3,Budget Hotel,Bus,Off-season,Sightseeing,Premium,28208.03
+Varanasi,5,9,4-Star Hotel,Car,Regular,Adventure,Budget,80256.81
+Manali,3,10,4-Star Hotel,Car,Off-season,Adventure,Budget,74831.75
+Varanasi,2,10,Hostel,Train,Regular,Culture,Standard,27528.44
+Varanasi,1,7,Budget Hotel,Flight,Off-season,Culture,Standard,13728.73
+Udaipur,1,7,3-Star Hotel,Bus,Regular,Sightseeing,Premium,30579.33
+Udaipur,5,2,Budget Hotel,Flight,Regular,Culture,Premium,43407.77
+Goa,2,6,Budget Hotel,Flight,Peak,Adventure,Budget,42793.83
+Varanasi,1,5,4-Star Hotel,Flight,Regular,Adventure,Standard,26511.47
+Manali,3,4,4-Star Hotel,Car,Peak,Adventure,Standard,53035.07
+Varanasi,5,2,4-Star Hotel,Car,Peak,Relaxation,Budget,25513.89
+Goa,5,3,Hostel,Bus,Peak,Adventure,Budget,35230.85
+Agra,3,3,Hostel,Bus,Off-season,Culture,Budget,8558.28
+Udaipur,3,7,Hostel,Bus,Off-season,Relaxation,Budget,25148.98
+Shimla,4,9,4-Star Hotel,Train,Off-season,Relaxation,Standard,80297.37
+Agra,2,4,Budget Hotel,Bus,Off-season,Relaxation,Budget,11575.22
+Varanasi,5,6,Budget Hotel,Train,Off-season,Sightseeing,Standard,31493.27
+Manali,4,2,Hostel,Flight,Off-season,Adventure,Premium,32701.19
+Shimla,3,9,Hostel,Flight,Peak,Adventure,Premium,107644.1
+Agra,2,6,3-Star Hotel,Flight,Off-season,Relaxation,Standard,28458.89
+Shimla,2,4,4-Star Hotel,Train,Regular,Culture,Standard,29864.28
+Rishikesh,2,5,Hostel,Train,Regular,Culture,Budget,13578.7
+Udaipur,2,4,Budget Hotel,Train,Regular,Sightseeing,Premium,23764.04
+Udaipur,3,6,4-Star Hotel,Flight,Regular,Relaxation,Budget,56465.04
+Rishikesh,4,7,Hostel,Car,Peak,Culture,Standard,52465.44
+Jaipur,3,9,Hostel,Car,Off-season,Culture,Premium,51872.98
+Varanasi,3,2,3-Star Hotel,Car,Off-season,Culture,Premium,13067.68
+Udaipur,3,7,4-Star Hotel,Bus,Peak,Sightseeing,Premium,91175.97
+Varanasi,4,7,4-Star Hotel,Flight,Peak,Sightseeing,Budget,66110.35
+Agra,1,7,Hostel,Car,Off-season,Sightseeing,Standard,8951.93
+Udaipur,3,6,3-Star Hotel,Car,Peak,Relaxation,Premium,70062.46
+Jaipur,4,2,4-Star Hotel,Flight,Off-season,Relaxation,Budget,24964.52
+Udaipur,4,5,4-Star Hotel,Train,Peak,Sightseeing,Premium,79478.34
+Shimla,3,4,3-Star Hotel,Flight,Off-season,Relaxation,Standard,33654.9
+Varanasi,4,5,Hostel,Bus,Peak,Culture,Standard,33048.93
+Jaipur,4,6,4-Star Hotel,Car,Peak,Adventure,Premium,100510.28
+Udaipur,3,3,Hostel,Flight,Peak,Relaxation,Premium,43210.83
+Varanasi,1,8,Hostel,Car,Off-season,Adventure,Standard,13896.84
+Manali,5,6,3-Star Hotel,Train,Peak,Adventure,Budget,72885.28
+Manali,3,2,3-Star Hotel,Train,Peak,Culture,Premium,23285.59
+Manali,1,2,3-Star Hotel,Flight,Off-season,Relaxation,Premium,11605.15
+Agra,2,4,3-Star Hotel,Bus,Peak,Relaxation,Budget,19278.35
+Shimla,2,7,4-Star Hotel,Flight,Off-season,Sightseeing,Premium,57135.11
+Manali,5,9,Hostel,Bus,Off-season,Relaxation,Standard,63486.5
+Goa,5,10,Hostel,Flight,Off-season,Culture,Premium,124888.95
+Shimla,3,3,4-Star Hotel,Car,Peak,Adventure,Budget,38952.6
+Agra,5,8,Hostel,Car,Peak,Adventure,Budget,65688.18
+Manali,4,7,Hostel,Train,Peak,Culture,Premium,86186.67
+Manali,3,8,Hostel,Car,Off-season,Sightseeing,Premium,52760.27
+Goa,3,6,4-Star Hotel,Bus,Off-season,Adventure,Premium,67481.98
+Goa,2,10,4-Star Hotel,Car,Regular,Adventure,Budget,79691.49
+Rishikesh,3,10,3-Star Hotel,Car,Peak,Adventure,Standard,85251.29
+Rishikesh,1,3,3-Star Hotel,Car,Regular,Relaxation,Standard,11384.07
+Varanasi,4,7,Hostel,Train,Off-season,Culture,Standard,29967.7
+Varanasi,5,7,Hostel,Train,Regular,Relaxation,Budget,33578.73
+Varanasi,1,4,Budget Hotel,Bus,Regular,Adventure,Standard,8781.62
+Goa,3,7,3-Star Hotel,Car,Peak,Culture,Standard,71272.1
+Jaipur,3,7,Budget Hotel,Flight,Regular,Sightseeing,Standard,45230.41
+Varanasi,1,10,4-Star Hotel,Car,Peak,Culture,Premium,61653.58
+Udaipur,3,9,Budget Hotel,Car,Peak,Sightseeing,Budget,51058.09
+Shimla,3,5,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,40178.48
+Udaipur,3,9,Hostel,Train,Peak,Relaxation,Budget,44452.26
+Rishikesh,4,3,3-Star Hotel,Train,Off-season,Sightseeing,Standard,15993.25
+Agra,3,4,Hostel,Flight,Peak,Adventure,Premium,44406.07
+Jaipur,2,2,4-Star Hotel,Car,Regular,Relaxation,Standard,16401.73
+Shimla,3,9,Budget Hotel,Car,Off-season,Culture,Budget,39053.36
+Varanasi,4,3,Hostel,Car,Peak,Relaxation,Premium,34381.56
+Shimla,1,5,Budget Hotel,Train,Off-season,Relaxation,Premium,17353.71
+Varanasi,5,2,Budget Hotel,Bus,Off-season,Sightseeing,Premium,15262.5
+Jaipur,4,6,Hostel,Train,Regular,Relaxation,Standard,36832.09
+Goa,3,7,4-Star Hotel,Bus,Peak,Relaxation,Standard,85666.49
+Shimla,4,6,3-Star Hotel,Flight,Off-season,Culture,Standard,55512.35
+Varanasi,4,9,Budget Hotel,Flight,Regular,Culture,Premium,77841.12
+Rishikesh,2,5,Budget Hotel,Flight,Regular,Sightseeing,Premium,28578.83
+Manali,2,3,4-Star Hotel,Train,Peak,Culture,Standard,29624.85
+Goa,4,6,Budget Hotel,Bus,Off-season,Culture,Premium,57522.93
+Jaipur,1,8,3-Star Hotel,Car,Off-season,Adventure,Budget,24225.86
+Udaipur,5,8,4-Star Hotel,Flight,Regular,Relaxation,Standard,109007.11
+Agra,3,9,Budget Hotel,Car,Peak,Culture,Premium,74277.02
+Agra,5,7,4-Star Hotel,Car,Regular,Culture,Standard,70176.25
+Manali,5,8,Hostel,Flight,Off-season,Relaxation,Premium,97368.48
+Manali,5,6,Budget Hotel,Bus,Off-season,Culture,Premium,64928.65
+Shimla,1,9,Budget Hotel,Train,Peak,Sightseeing,Standard,32459.35
+Jaipur,3,9,3-Star Hotel,Car,Peak,Adventure,Premium,103340.79
+Manali,5,8,4-Star Hotel,Train,Off-season,Adventure,Budget,76820.89
+Udaipur,2,9,Hostel,Flight,Peak,Culture,Premium,64478.11
+Varanasi,3,2,Hostel,Bus,Regular,Sightseeing,Premium,11976.27
+Goa,4,10,3-Star Hotel,Car,Off-season,Relaxation,Standard,85057.63
+Goa,4,9,Budget Hotel,Bus,Peak,Culture,Standard,87869.63
+Udaipur,3,9,Budget Hotel,Car,Regular,Sightseeing,Budget,39365.2
+Udaipur,3,9,3-Star Hotel,Bus,Regular,Adventure,Premium,89297.42
+Udaipur,1,7,4-Star Hotel,Train,Regular,Culture,Budget,35075.15
+Manali,2,3,Budget Hotel,Train,Peak,Sightseeing,Standard,18542.66
+Manali,2,6,Budget Hotel,Bus,Off-season,Culture,Budget,18331.38
+Varanasi,5,8,Budget Hotel,Train,Regular,Relaxation,Premium,75687.82
+Varanasi,3,4,Budget Hotel,Train,Peak,Adventure,Budget,22427.61
+Goa,4,7,4-Star Hotel,Car,Peak,Sightseeing,Standard,100279.39
+Shimla,2,9,Budget Hotel,Bus,Off-season,Sightseeing,Budget,25922.88
+Manali,4,5,Budget Hotel,Car,Peak,Culture,Premium,71215.7
+Varanasi,4,10,3-Star Hotel,Flight,Peak,Adventure,Premium,129233.13
+Rishikesh,3,7,Hostel,Bus,Regular,Adventure,Budget,28782.7
+Shimla,5,10,4-Star Hotel,Car,Regular,Sightseeing,Budget,97149.72
+Goa,5,6,Hostel,Bus,Off-season,Culture,Budget,34536.19
+Shimla,4,5,Hostel,Train,Off-season,Relaxation,Budget,25137.38
+Varanasi,3,5,Budget Hotel,Car,Off-season,Relaxation,Budget,18166.58
+Jaipur,1,2,Budget Hotel,Bus,Off-season,Adventure,Premium,5972.88
+Goa,3,9,Hostel,Train,Off-season,Adventure,Standard,51036.2
+Agra,5,6,Hostel,Train,Off-season,Culture,Budget,24739.53
+Goa,3,2,3-Star Hotel,Bus,Off-season,Sightseeing,Premium,16847.73
+Shimla,2,3,Hostel,Car,Off-season,Culture,Budget,10264.82
+Manali,1,2,4-Star Hotel,Bus,Off-season,Relaxation,Budget,7747.57
+Rishikesh,4,9,Hostel,Bus,Regular,Sightseeing,Standard,47237.63
+Goa,5,8,3-Star Hotel,Flight,Regular,Adventure,Budget,100571.18
+Goa,5,7,Hostel,Train,Peak,Culture,Standard,80766.81
+Manali,3,9,3-Star Hotel,Train,Peak,Sightseeing,Budget,62638.45
+Goa,5,2,3-Star Hotel,Bus,Regular,Culture,Budget,19962.96
+Udaipur,4,8,Budget Hotel,Train,Off-season,Culture,Budget,38764.03
+Goa,1,7,4-Star Hotel,Car,Off-season,Sightseeing,Premium,43198.82
+Shimla,4,6,3-Star Hotel,Bus,Peak,Sightseeing,Budget,48306.36
+Goa,3,7,4-Star Hotel,Bus,Off-season,Culture,Premium,71471.39
+Agra,1,7,Hostel,Flight,Peak,Adventure,Standard,21126.55
+Udaipur,2,7,Budget Hotel,Bus,Regular,Sightseeing,Budget,21046.46
+Jaipur,5,9,Hostel,Bus,Regular,Sightseeing,Budget,44747.52
+Agra,4,8,Hostel,Car,Regular,Culture,Standard,46374.6
+Shimla,1,5,Budget Hotel,Car,Peak,Culture,Premium,24327.54
+Varanasi,3,5,Hostel,Bus,Peak,Adventure,Standard,28812.87
+Shimla,3,3,3-Star Hotel,Flight,Regular,Sightseeing,Premium,37191.89
+Goa,5,10,3-Star Hotel,Bus,Off-season,Relaxation,Premium,127383.82
+Goa,4,5,4-Star Hotel,Train,Peak,Culture,Premium,92003.53
+Manali,5,7,3-Star Hotel,Car,Peak,Culture,Premium,125359.22
+Shimla,3,2,3-Star Hotel,Flight,Peak,Relaxation,Premium,39285.05
+Rishikesh,5,5,Budget Hotel,Car,Off-season,Sightseeing,Premium,48665.67
+Varanasi,2,7,3-Star Hotel,Flight,Regular,Culture,Budget,30010.41
+Rishikesh,3,6,Hostel,Train,Regular,Culture,Premium,38565.99
+Goa,2,3,Budget Hotel,Train,Regular,Relaxation,Budget,13551.22
+Manali,1,2,Hostel,Train,Peak,Culture,Budget,5431.49
+Agra,5,3,Budget Hotel,Flight,Off-season,Adventure,Budget,28971.5
+Manali,1,6,Budget Hotel,Train,Off-season,Sightseeing,Budget,13022.12
+Jaipur,2,4,3-Star Hotel,Car,Regular,Relaxation,Budget,18981.13
+Goa,1,10,Budget Hotel,Flight,Peak,Relaxation,Premium,53257.82
+Goa,5,4,3-Star Hotel,Flight,Off-season,Adventure,Budget,51993.04
+Rishikesh,3,6,4-Star Hotel,Bus,Peak,Culture,Standard,54477.14
+Manali,2,7,Budget Hotel,Train,Off-season,Sightseeing,Premium,33333.78
+Udaipur,1,8,4-Star Hotel,Train,Regular,Relaxation,Standard,45275.3
+Manali,2,10,3-Star Hotel,Bus,Peak,Adventure,Budget,65119.44
+Rishikesh,4,5,Hostel,Train,Peak,Culture,Budget,28346.9
+Jaipur,3,9,4-Star Hotel,Bus,Peak,Sightseeing,Premium,104442.75
+Agra,2,3,3-Star Hotel,Car,Off-season,Adventure,Budget,11842.2
+Manali,2,6,Hostel,Flight,Peak,Adventure,Standard,41822.25
+Rishikesh,2,3,4-Star Hotel,Car,Regular,Adventure,Budget,20638.49
+Manali,2,6,4-Star Hotel,Train,Peak,Sightseeing,Budget,47422.35
+Jaipur,1,10,4-Star Hotel,Train,Off-season,Adventure,Budget,43467.75
+Varanasi,3,6,Hostel,Car,Regular,Relaxation,Standard,27166.51
+Shimla,2,6,Hostel,Flight,Peak,Relaxation,Premium,49669.72
+Shimla,5,5,3-Star Hotel,Flight,Regular,Culture,Budget,56992.5
+Udaipur,5,3,Hostel,Car,Peak,Culture,Premium,51628.86
+Agra,3,10,Budget Hotel,Train,Regular,Relaxation,Budget,37367.25
+Varanasi,3,3,Budget Hotel,Bus,Regular,Relaxation,Budget,11424.06
+Rishikesh,3,8,Hostel,Train,Peak,Culture,Budget,34576.71
+Goa,4,10,3-Star Hotel,Car,Regular,Sightseeing,Standard,90747.36
+Agra,3,2,Hostel,Bus,Peak,Relaxation,Premium,15144.28
+Goa,3,6,3-Star Hotel,Flight,Peak,Adventure,Premium,97065.49
+Jaipur,4,8,Budget Hotel,Train,Peak,Culture,Standard,63701.24
+Varanasi,4,10,Hostel,Car,Peak,Culture,Standard,65872.63
+Jaipur,3,5,Budget Hotel,Car,Regular,Culture,Standard,28615.19
+Shimla,4,7,Budget Hotel,Bus,Peak,Sightseeing,Standard,61564.08
+Varanasi,5,9,4-Star Hotel,Train,Off-season,Sightseeing,Premium,84576.37
+Varanasi,4,3,Hostel,Car,Off-season,Relaxation,Budget,14408.06
+Goa,5,6,4-Star Hotel,Car,Peak,Culture,Budget,85641.9
+Shimla,2,7,3-Star Hotel,Flight,Regular,Culture,Budget,40506.73
+Udaipur,3,2,3-Star Hotel,Flight,Regular,Adventure,Premium,30104.87
+Udaipur,1,10,4-Star Hotel,Flight,Regular,Adventure,Standard,62759.66
+Goa,3,7,4-Star Hotel,Train,Regular,Culture,Standard,66885.78
+Shimla,2,9,Budget Hotel,Bus,Peak,Relaxation,Premium,67244.7
+Manali,1,6,4-Star Hotel,Car,Peak,Sightseeing,Premium,49151.98
+Udaipur,2,4,3-Star Hotel,Bus,Regular,Culture,Budget,18836.25
+Goa,2,9,Budget Hotel,Train,Off-season,Culture,Premium,47907.26
+Goa,1,9,Hostel,Bus,Regular,Adventure,Premium,32680.38
+Udaipur,3,10,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,61613.03
+Varanasi,5,10,Hostel,Bus,Regular,Adventure,Standard,73329.27
+Udaipur,2,4,4-Star Hotel,Bus,Off-season,Culture,Premium,29233.96
+Jaipur,3,3,Budget Hotel,Car,Off-season,Culture,Premium,20845.84
+Agra,4,7,Hostel,Car,Regular,Adventure,Premium,63399.55
+Manali,4,8,Hostel,Flight,Regular,Sightseeing,Budget,52580.3
+Goa,2,2,Budget Hotel,Train,Regular,Sightseeing,Standard,10930.19
+Shimla,5,9,Budget Hotel,Train,Peak,Culture,Premium,141886.49
+Rishikesh,1,6,Hostel,Train,Peak,Culture,Premium,18837.04
+Goa,2,3,3-Star Hotel,Bus,Peak,Relaxation,Budget,20996.52
+Goa,1,5,3-Star Hotel,Bus,Off-season,Sightseeing,Budget,16269.78
+Manali,2,3,Budget Hotel,Bus,Regular,Culture,Premium,18002.24
+Manali,3,9,Budget Hotel,Flight,Peak,Culture,Standard,78728.38
+Rishikesh,2,8,3-Star Hotel,Train,Peak,Culture,Budget,38775.08
+Agra,3,3,3-Star Hotel,Flight,Regular,Adventure,Standard,27051.15
+Udaipur,2,3,4-Star Hotel,Flight,Off-season,Relaxation,Budget,23296.36
+Manali,5,3,Hostel,Flight,Regular,Culture,Premium,54076.54
+Jaipur,5,10,4-Star Hotel,Train,Regular,Sightseeing,Premium,128919.22
+Rishikesh,5,4,3-Star Hotel,Bus,Off-season,Adventure,Standard,32195.03
+Manali,2,8,3-Star Hotel,Car,Regular,Adventure,Premium,62879.43
+Agra,4,4,4-Star Hotel,Bus,Regular,Adventure,Standard,36361.93
+Goa,1,5,Hostel,Flight,Peak,Adventure,Standard,22985.84
+Jaipur,4,8,Hostel,Car,Off-season,Adventure,Standard,51229.57
+Goa,4,7,Hostel,Bus,Off-season,Culture,Premium,63356.04
+Shimla,5,10,Hostel,Flight,Regular,Relaxation,Standard,102018.86
+Goa,2,8,Budget Hotel,Bus,Regular,Adventure,Budget,37711.43
+Varanasi,3,3,Budget Hotel,Bus,Off-season,Sightseeing,Standard,11130.07
+Udaipur,2,2,Hostel,Flight,Off-season,Adventure,Standard,15517.47
+Goa,5,9,4-Star Hotel,Train,Regular,Adventure,Budget,111170.3
+Udaipur,3,7,4-Star Hotel,Bus,Off-season,Sightseeing,Budget,40898.66
+Jaipur,4,6,4-Star Hotel,Flight,Peak,Sightseeing,Premium,100479.3
+Rishikesh,3,10,Hostel,Bus,Regular,Sightseeing,Budget,31307.34
+Varanasi,2,6,4-Star Hotel,Flight,Off-season,Relaxation,Premium,38276.43
+Shimla,4,4,4-Star Hotel,Train,Regular,Adventure,Budget,42416.37
+Varanasi,3,5,4-Star Hotel,Bus,Peak,Sightseeing,Standard,39671.34
+Rishikesh,5,10,4-Star Hotel,Train,Regular,Adventure,Premium,141395.59
+Shimla,2,6,Budget Hotel,Train,Regular,Relaxation,Standard,27722.27
+Goa,1,5,Budget Hotel,Car,Off-season,Relaxation,Standard,16294.59
+Goa,5,3,3-Star Hotel,Bus,Peak,Relaxation,Standard,44031.15
+Shimla,5,10,3-Star Hotel,Flight,Off-season,Culture,Premium,129981.79
+Manali,5,5,4-Star Hotel,Car,Off-season,Culture,Premium,71632.15
+Varanasi,5,8,4-Star Hotel,Car,Off-season,Culture,Budget,52491.83
+Manali,2,6,Budget Hotel,Bus,Peak,Sightseeing,Premium,43568.13
+Rishikesh,5,9,3-Star Hotel,Bus,Peak,Relaxation,Budget,77877.38
+Shimla,3,8,Hostel,Car,Off-season,Culture,Budget,28073.42
+Jaipur,4,9,Hostel,Car,Peak,Sightseeing,Premium,94995.78
+Varanasi,1,2,4-Star Hotel,Car,Peak,Culture,Standard,12787.53
+Agra,4,7,Hostel,Train,Regular,Culture,Premium,54848.61
+Varanasi,5,9,Hostel,Train,Regular,Sightseeing,Budget,38035.52
+Manali,1,2,3-Star Hotel,Train,Off-season,Culture,Premium,8955.1
+Agra,4,8,Budget Hotel,Train,Peak,Culture,Budget,44799.98
+Shimla,5,6,Hostel,Car,Off-season,Culture,Standard,45416.68
+Rishikesh,1,2,3-Star Hotel,Bus,Off-season,Adventure,Standard,7208.51
+Jaipur,2,2,Hostel,Train,Peak,Adventure,Premium,14842.1
+Varanasi,1,5,4-Star Hotel,Flight,Regular,Adventure,Standard,25895.09
+Jaipur,4,2,Budget Hotel,Car,Peak,Adventure,Premium,31340.94
+Agra,2,10,3-Star Hotel,Train,Peak,Adventure,Budget,51037.31
+Varanasi,5,3,Budget Hotel,Bus,Off-season,Sightseeing,Premium,23675.5
+Manali,4,6,4-Star Hotel,Flight,Regular,Culture,Standard,76471.68
+Jaipur,3,4,Budget Hotel,Flight,Off-season,Relaxation,Budget,21400.21
+Jaipur,3,9,3-Star Hotel,Bus,Peak,Sightseeing,Premium,88055.58
+Agra,5,9,Budget Hotel,Flight,Peak,Culture,Budget,75748.91
+Rishikesh,3,8,4-Star Hotel,Car,Peak,Sightseeing,Premium,89949.65
+Rishikesh,1,5,4-Star Hotel,Train,Regular,Adventure,Standard,26963.88
+Udaipur,1,10,3-Star Hotel,Bus,Peak,Culture,Standard,48939.03
+Manali,2,10,Budget Hotel,Bus,Off-season,Relaxation,Budget,31382.51
+Rishikesh,1,4,3-Star Hotel,Car,Peak,Relaxation,Premium,21071.54
+Goa,1,7,4-Star Hotel,Bus,Off-season,Sightseeing,Budget,34971.41
+Goa,3,9,3-Star Hotel,Car,Regular,Relaxation,Budget,63516.13
+Udaipur,1,2,3-Star Hotel,Flight,Peak,Sightseeing,Standard,16010.72
+Rishikesh,2,8,3-Star Hotel,Train,Peak,Relaxation,Standard,46551.53
+Rishikesh,1,8,3-Star Hotel,Bus,Off-season,Sightseeing,Standard,22778.66
+Shimla,4,10,4-Star Hotel,Bus,Peak,Relaxation,Budget,109995.16
+Shimla,1,6,3-Star Hotel,Bus,Regular,Culture,Standard,23748.26
+Goa,5,5,Hostel,Flight,Regular,Culture,Standard,64308.91
+Udaipur,4,2,Hostel,Car,Off-season,Culture,Standard,18044.3
+Manali,4,2,Budget Hotel,Train,Peak,Adventure,Standard,25183.91
+Udaipur,3,7,3-Star Hotel,Car,Peak,Relaxation,Standard,66175.57
+Shimla,4,8,Budget Hotel,Car,Regular,Adventure,Standard,72487.85
+Udaipur,2,6,3-Star Hotel,Train,Regular,Culture,Premium,39421.25
+Rishikesh,2,3,3-Star Hotel,Train,Off-season,Culture,Premium,16472.13
+Goa,4,4,Hostel,Car,Peak,Sightseeing,Premium,60448.9
+Manali,2,4,4-Star Hotel,Flight,Off-season,Adventure,Budget,31200.48
+Jaipur,5,3,3-Star Hotel,Flight,Peak,Sightseeing,Premium,64524.63
+Shimla,2,4,4-Star Hotel,Train,Off-season,Adventure,Budget,25199.08
+Udaipur,3,6,4-Star Hotel,Car,Peak,Sightseeing,Budget,57442.39
+Agra,3,9,Hostel,Car,Peak,Sightseeing,Standard,46291.29
+Goa,2,5,Hostel,Train,Off-season,Sightseeing,Standard,15448.84
+Varanasi,2,3,Hostel,Flight,Off-season,Sightseeing,Budget,10503.55
+Udaipur,3,8,4-Star Hotel,Train,Regular,Relaxation,Budget,59460.61
+Goa,4,10,3-Star Hotel,Train,Regular,Sightseeing,Premium,118150.29
+Rishikesh,2,6,4-Star Hotel,Flight,Peak,Culture,Premium,62935.54
+Udaipur,3,5,3-Star Hotel,Bus,Regular,Adventure,Standard,38943.45
+Shimla,4,4,3-Star Hotel,Car,Peak,Relaxation,Budget,43166.8
+Manali,1,10,4-Star Hotel,Flight,Peak,Culture,Premium,87113.74
+Jaipur,4,10,3-Star Hotel,Train,Off-season,Relaxation,Standard,62742.34
+Varanasi,2,3,3-Star Hotel,Car,Off-season,Sightseeing,Budget,9719.58
+Udaipur,1,8,4-Star Hotel,Flight,Regular,Sightseeing,Premium,52408.25
+Udaipur,5,10,Hostel,Bus,Peak,Relaxation,Budget,76954.06
+Goa,5,4,4-Star Hotel,Car,Peak,Adventure,Budget,70359.12
+Agra,4,4,Hostel,Train,Regular,Relaxation,Standard,23166.06
+Agra,5,3,3-Star Hotel,Flight,Regular,Culture,Premium,46792.73
+Agra,2,3,Budget Hotel,Car,Peak,Relaxation,Budget,13514.15
+Udaipur,2,8,4-Star Hotel,Flight,Off-season,Sightseeing,Standard,49950.89
+Jaipur,3,6,Hostel,Bus,Off-season,Culture,Standard,22178.28
+Agra,1,5,3-Star Hotel,Car,Peak,Sightseeing,Premium,24434.08
+Jaipur,1,8,Hostel,Flight,Off-season,Relaxation,Premium,21827.42
+Rishikesh,3,6,Hostel,Train,Off-season,Sightseeing,Budget,17063.51
+Jaipur,4,4,Hostel,Flight,Peak,Culture,Premium,57922.86
+Manali,3,5,Budget Hotel,Train,Off-season,Sightseeing,Premium,36823.1
+Rishikesh,1,3,3-Star Hotel,Flight,Regular,Adventure,Budget,12914.4
+Rishikesh,4,9,Hostel,Flight,Off-season,Adventure,Premium,76782.88
+Manali,3,4,3-Star Hotel,Bus,Off-season,Relaxation,Premium,32018.11
+Agra,1,10,3-Star Hotel,Flight,Off-season,Sightseeing,Premium,31631.43
+Varanasi,5,8,Hostel,Train,Peak,Sightseeing,Standard,58677.74
+Jaipur,5,4,3-Star Hotel,Car,Off-season,Adventure,Budget,33453.11
+Udaipur,5,9,3-Star Hotel,Car,Regular,Relaxation,Standard,92562.81
+Shimla,2,6,4-Star Hotel,Bus,Peak,Adventure,Premium,70033.29
+Goa,5,10,Budget Hotel,Flight,Peak,Sightseeing,Premium,188281.07
+Rishikesh,1,10,Budget Hotel,Train,Regular,Culture,Standard,22909.66
+Agra,3,9,3-Star Hotel,Train,Peak,Sightseeing,Budget,48629.3
+Agra,2,8,Budget Hotel,Flight,Peak,Relaxation,Budget,33826.45
+Jaipur,5,2,Budget Hotel,Car,Regular,Relaxation,Premium,27774.4
+Varanasi,3,2,Budget Hotel,Car,Regular,Culture,Standard,12599.44
+Shimla,3,10,4-Star Hotel,Flight,Off-season,Relaxation,Standard,84243.48
+Goa,2,8,3-Star Hotel,Car,Off-season,Culture,Premium,53625.58
+Goa,4,4,3-Star Hotel,Bus,Regular,Adventure,Premium,55186.06
+Rishikesh,1,7,Budget Hotel,Bus,Peak,Adventure,Premium,26407.17
+Varanasi,1,7,Hostel,Car,Regular,Sightseeing,Standard,13160.3
+Manali,5,7,4-Star Hotel,Flight,Peak,Sightseeing,Standard,120773.93
+Goa,5,4,Hostel,Flight,Peak,Culture,Premium,90311.29
+Goa,2,2,Hostel,Bus,Off-season,Sightseeing,Budget,7755.03
+Manali,4,7,Hostel,Bus,Off-season,Culture,Premium,57845.97
+Manali,3,6,Budget Hotel,Car,Peak,Adventure,Standard,54333.47
+Rishikesh,1,3,3-Star Hotel,Train,Regular,Sightseeing,Standard,9453.35
+Shimla,4,9,Budget Hotel,Train,Off-season,Relaxation,Budget,44576.15
+Varanasi,5,8,3-Star Hotel,Car,Peak,Relaxation,Budget,65432.43
+Shimla,1,4,Budget Hotel,Bus,Peak,Culture,Premium,17862.18
+Jaipur,3,7,Budget Hotel,Train,Regular,Adventure,Standard,41072.35
+Varanasi,3,8,Budget Hotel,Bus,Peak,Culture,Premium,58367.94
+Shimla,5,4,Hostel,Train,Regular,Adventure,Budget,32869.02
+Shimla,3,6,4-Star Hotel,Car,Off-season,Relaxation,Premium,60576.95
+Varanasi,4,10,3-Star Hotel,Train,Regular,Sightseeing,Standard,58712.88
+Varanasi,1,2,3-Star Hotel,Car,Regular,Relaxation,Premium,8369.15
+Udaipur,3,6,3-Star Hotel,Train,Peak,Adventure,Standard,59160.75
+Agra,1,2,3-Star Hotel,Train,Off-season,Adventure,Budget,5653.89
+Udaipur,4,2,Budget Hotel,Train,Peak,Culture,Premium,27287.93
+Varanasi,3,7,Hostel,Bus,Peak,Relaxation,Budget,27940.87
+Rishikesh,1,4,Budget Hotel,Car,Regular,Adventure,Premium,14584.33
+Varanasi,2,10,Hostel,Car,Peak,Adventure,Premium,54536.05
+Udaipur,4,7,Budget Hotel,Train,Off-season,Culture,Budget,33519.27
+Manali,4,9,Hostel,Flight,Regular,Adventure,Standard,86137.31
+Goa,2,4,Budget Hotel,Bus,Regular,Culture,Premium,26724.48
+Jaipur,3,9,Budget Hotel,Flight,Peak,Relaxation,Premium,91561.04
+Manali,1,6,3-Star Hotel,Train,Regular,Sightseeing,Standard,24065.88
+Rishikesh,3,4,3-Star Hotel,Train,Peak,Relaxation,Standard,31086.76
+Rishikesh,1,4,3-Star Hotel,Bus,Peak,Relaxation,Standard,17176.93
+Varanasi,1,3,Hostel,Car,Off-season,Relaxation,Budget,4808.67
+Varanasi,5,7,3-Star Hotel,Train,Off-season,Sightseeing,Budget,33543.81
+Manali,2,6,Hostel,Flight,Off-season,Culture,Standard,24135.83
+Rishikesh,1,2,Budget Hotel,Bus,Peak,Culture,Premium,7726.56
+Agra,5,3,Budget Hotel,Flight,Regular,Culture,Budget,30060.62
+Jaipur,5,6,Hostel,Car,Regular,Relaxation,Premium,70031.85
+Varanasi,4,2,4-Star Hotel,Train,Regular,Culture,Budget,15950.9
+Rishikesh,3,7,Budget Hotel,Car,Off-season,Adventure,Standard,34895.8
+Udaipur,1,2,3-Star Hotel,Flight,Peak,Sightseeing,Premium,15087.01
+Agra,5,4,3-Star Hotel,Car,Off-season,Sightseeing,Budget,23198.83
+Jaipur,3,10,Hostel,Train,Off-season,Sightseeing,Premium,54407.92
+Agra,3,10,3-Star Hotel,Flight,Off-season,Adventure,Premium,74234.13
+Shimla,2,10,3-Star Hotel,Flight,Peak,Sightseeing,Premium,93680.71
+Shimla,5,7,Hostel,Bus,Peak,Sightseeing,Standard,67924.46
+Udaipur,4,2,3-Star Hotel,Car,Off-season,Culture,Premium,24542.32
+Jaipur,3,4,3-Star Hotel,Flight,Regular,Culture,Standard,33265.2
+Jaipur,2,3,Hostel,Car,Regular,Relaxation,Budget,10271.77
+Agra,5,9,3-Star Hotel,Flight,Peak,Sightseeing,Budget,82052.85
+Jaipur,3,10,4-Star Hotel,Flight,Off-season,Culture,Standard,72101.59
+Manali,3,2,3-Star Hotel,Car,Peak,Culture,Budget,19512.74
+Shimla,4,8,Budget Hotel,Train,Off-season,Adventure,Standard,59261.83
+Agra,2,9,Hostel,Train,Peak,Culture,Standard,33931.63
+Shimla,2,9,Budget Hotel,Flight,Regular,Sightseeing,Budget,36298.31
+Goa,1,2,Budget Hotel,Bus,Off-season,Sightseeing,Premium,7157.99
+Rishikesh,3,6,Hostel,Bus,Regular,Culture,Standard,25929.72
+Rishikesh,2,7,3-Star Hotel,Bus,Regular,Adventure,Standard,33921.15
+Rishikesh,2,5,Budget Hotel,Bus,Off-season,Adventure,Standard,17341.35
+Manali,1,2,4-Star Hotel,Train,Regular,Sightseeing,Standard,12351.29
+Shimla,1,9,4-Star Hotel,Train,Regular,Culture,Budget,49500.92
+Goa,5,4,4-Star Hotel,Bus,Regular,Sightseeing,Premium,67523.45
+Agra,4,2,Budget Hotel,Car,Peak,Relaxation,Premium,26153.21
+Varanasi,1,10,3-Star Hotel,Car,Off-season,Relaxation,Standard,26087.79
+Manali,1,6,Hostel,Train,Peak,Culture,Budget,16039.15
+Goa,4,10,Hostel,Train,Off-season,Sightseeing,Budget,44237.12
+Shimla,1,10,Hostel,Car,Off-season,Culture,Standard,20125.27
+Varanasi,4,9,4-Star Hotel,Flight,Off-season,Relaxation,Standard,66597.59
+Jaipur,2,6,Budget Hotel,Train,Peak,Relaxation,Standard,31014.92
+Jaipur,3,5,3-Star Hotel,Bus,Off-season,Sightseeing,Budget,21520.03
+Udaipur,2,4,Budget Hotel,Car,Off-season,Culture,Premium,22017.48
+Rishikesh,4,5,Budget Hotel,Train,Peak,Adventure,Standard,45180.1
+Manali,3,5,Budget Hotel,Car,Off-season,Sightseeing,Premium,37236.46
+Agra,4,8,3-Star Hotel,Train,Off-season,Relaxation,Budget,38237.21
+Goa,1,8,4-Star Hotel,Flight,Peak,Sightseeing,Standard,66266.39
+Udaipur,1,6,Budget Hotel,Flight,Regular,Culture,Budget,17151.38
+Shimla,1,10,Budget Hotel,Bus,Regular,Adventure,Budget,27481.1
+Goa,2,4,4-Star Hotel,Bus,Off-season,Relaxation,Budget,25210.85
+Goa,5,5,4-Star Hotel,Bus,Regular,Adventure,Standard,73238.89
+Goa,2,8,3-Star Hotel,Bus,Off-season,Sightseeing,Budget,34261.42
+Goa,5,4,Hostel,Flight,Regular,Relaxation,Standard,57608.54
+Manali,1,5,3-Star Hotel,Flight,Peak,Adventure,Premium,36382.01
+Udaipur,3,2,4-Star Hotel,Flight,Off-season,Sightseeing,Premium,28368.57
+Rishikesh,1,2,Hostel,Flight,Off-season,Adventure,Standard,6127.54
+Udaipur,2,2,4-Star Hotel,Flight,Regular,Culture,Premium,24423.25
+Varanasi,3,4,4-Star Hotel,Train,Off-season,Culture,Standard,23408.72
+Shimla,5,10,Hostel,Train,Peak,Sightseeing,Budget,72749.97
+Shimla,3,4,3-Star Hotel,Train,Regular,Sightseeing,Standard,28276.28
+Manali,3,5,4-Star Hotel,Bus,Regular,Culture,Standard,45538.49
+Varanasi,3,10,3-Star Hotel,Train,Peak,Sightseeing,Premium,82023.26
+Jaipur,2,9,4-Star Hotel,Bus,Regular,Culture,Budget,51868.2
+Goa,2,7,Hostel,Train,Peak,Relaxation,Budget,29375.9
+Goa,1,2,Budget Hotel,Bus,Regular,Sightseeing,Premium,8283.38
+Goa,2,10,Hostel,Train,Regular,Adventure,Budget,39451.87
+Goa,2,8,Budget Hotel,Bus,Off-season,Sightseeing,Standard,30121.78
+Rishikesh,4,6,3-Star Hotel,Bus,Off-season,Culture,Premium,49604.89
+Goa,5,3,4-Star Hotel,Train,Peak,Relaxation,Budget,43364.04
+Udaipur,4,6,Budget Hotel,Flight,Off-season,Adventure,Standard,53212.31
+Goa,3,8,3-Star Hotel,Bus,Peak,Relaxation,Budget,65128.83
+Agra,3,7,Hostel,Bus,Regular,Sightseeing,Standard,25812.01
+Shimla,3,3,4-Star Hotel,Flight,Peak,Adventure,Premium,58875.29
+Varanasi,5,2,4-Star Hotel,Train,Regular,Adventure,Budget,18310.77
+Agra,4,4,3-Star Hotel,Train,Regular,Sightseeing,Budget,21864.66
+Goa,5,8,Hostel,Train,Regular,Culture,Standard,71831.72
+Goa,1,10,Budget Hotel,Car,Peak,Adventure,Standard,44925.14
+Goa,3,10,3-Star Hotel,Bus,Regular,Relaxation,Premium,102818.77
+Manali,4,8,Budget Hotel,Bus,Regular,Sightseeing,Budget,42645.73
+Manali,5,7,4-Star Hotel,Car,Peak,Culture,Standard,109848.49
+Agra,1,7,3-Star Hotel,Flight,Peak,Sightseeing,Budget,28024.79
+Jaipur,1,3,4-Star Hotel,Flight,Regular,Adventure,Standard,18241.78
+Udaipur,3,9,Budget Hotel,Car,Off-season,Culture,Budget,35871.91
+Manali,1,8,Budget Hotel,Bus,Off-season,Sightseeing,Premium,22684.67
+Jaipur,1,8,3-Star Hotel,Train,Off-season,Culture,Budget,20715.84
+Varanasi,2,8,4-Star Hotel,Bus,Peak,Relaxation,Premium,66758.88
+Jaipur,4,6,4-Star Hotel,Train,Regular,Sightseeing,Budget,44842.01
+Goa,5,2,3-Star Hotel,Car,Peak,Culture,Premium,47741.57
+Manali,2,3,4-Star Hotel,Bus,Regular,Sightseeing,Budget,19650.4
+Shimla,5,2,3-Star Hotel,Train,Peak,Relaxation,Budget,25185.33
+Udaipur,2,3,Budget Hotel,Bus,Off-season,Adventure,Premium,18153.57
+Jaipur,1,5,Budget Hotel,Car,Regular,Relaxation,Standard,14856.95
+Goa,2,9,3-Star Hotel,Bus,Regular,Sightseeing,Premium,68505.94
+Agra,4,2,3-Star Hotel,Car,Off-season,Adventure,Budget,16076.43
+Varanasi,5,9,Hostel,Train,Peak,Sightseeing,Budget,47628.9
+Manali,3,9,Budget Hotel,Bus,Off-season,Relaxation,Budget,34030.55
+Rishikesh,5,6,4-Star Hotel,Car,Regular,Adventure,Premium,90072.04
+Varanasi,5,2,Budget Hotel,Flight,Off-season,Culture,Premium,29030.09
+Manali,4,4,Hostel,Flight,Regular,Relaxation,Premium,55058.48
+Manali,3,4,Budget Hotel,Train,Regular,Adventure,Standard,29661.23
+Shimla,5,9,4-Star Hotel,Train,Regular,Sightseeing,Budget,85689.82
+Agra,1,4,Budget Hotel,Bus,Peak,Relaxation,Premium,14904.68
+Agra,1,10,Hostel,Bus,Off-season,Adventure,Premium,22974.32
+Goa,2,8,Hostel,Car,Off-season,Relaxation,Standard,28920.71
+Agra,5,4,Budget Hotel,Bus,Regular,Sightseeing,Premium,38437.41
+Agra,2,9,Budget Hotel,Bus,Regular,Culture,Standard,30237.98
+Rishikesh,3,7,Budget Hotel,Flight,Peak,Sightseeing,Budget,42498.31
+Shimla,5,10,3-Star Hotel,Train,Peak,Culture,Premium,169847.02
+Jaipur,2,4,4-Star Hotel,Car,Regular,Adventure,Budget,27050.99
+Jaipur,1,3,4-Star Hotel,Bus,Peak,Relaxation,Budget,18293.57
+Shimla,1,2,Hostel,Bus,Peak,Relaxation,Premium,7701.19
+Shimla,5,8,Budget Hotel,Car,Peak,Sightseeing,Premium,126270.42
+Rishikesh,1,7,4-Star Hotel,Train,Peak,Sightseeing,Premium,47920.61
+Rishikesh,3,3,3-Star Hotel,Train,Peak,Adventure,Premium,31815.48
+Udaipur,1,2,Budget Hotel,Car,Regular,Relaxation,Standard,6924.53
+Shimla,4,8,4-Star Hotel,Car,Regular,Adventure,Standard,97313.06
+Goa,1,7,4-Star Hotel,Flight,Regular,Relaxation,Standard,47276.63
+Manali,3,8,4-Star Hotel,Train,Regular,Relaxation,Premium,89625.07
+Rishikesh,5,9,Hostel,Car,Off-season,Sightseeing,Premium,77499.56
+Varanasi,5,9,Budget Hotel,Car,Regular,Culture,Standard,60066.8
+Goa,4,3,Budget Hotel,Car,Regular,Adventure,Budget,30270.41
+Jaipur,5,4,4-Star Hotel,Train,Peak,Adventure,Standard,59505.02
+Jaipur,5,8,Hostel,Train,Peak,Relaxation,Standard,74137.79
+Agra,1,5,4-Star Hotel,Bus,Regular,Relaxation,Premium,27142.24
+Varanasi,5,6,4-Star Hotel,Flight,Peak,Culture,Standard,81973.54
+Udaipur,4,8,3-Star Hotel,Flight,Regular,Sightseeing,Budget,63348.07
+Rishikesh,3,10,3-Star Hotel,Flight,Off-season,Relaxation,Budget,47846.49
+Manali,4,5,4-Star Hotel,Car,Regular,Relaxation,Standard,56359.35
+Goa,2,3,3-Star Hotel,Bus,Off-season,Adventure,Premium,20817.51
+Varanasi,2,7,4-Star Hotel,Car,Off-season,Adventure,Budget,33614.0
+Shimla,5,10,Budget Hotel,Car,Peak,Adventure,Budget,111213.25
+Varanasi,4,7,Budget Hotel,Flight,Regular,Culture,Standard,48464.43
+Agra,1,9,Hostel,Bus,Peak,Relaxation,Standard,20558.07
+Goa,1,5,4-Star Hotel,Bus,Regular,Adventure,Standard,35052.46
+Shimla,1,10,Hostel,Bus,Regular,Relaxation,Standard,22684.66
+Agra,2,6,4-Star Hotel,Train,Off-season,Culture,Standard,29487.97
+Shimla,5,2,Budget Hotel,Flight,Off-season,Culture,Premium,37833.33
+Goa,4,8,4-Star Hotel,Train,Off-season,Relaxation,Standard,79909.53
+Jaipur,3,2,3-Star Hotel,Car,Regular,Adventure,Standard,19436.09
+Rishikesh,4,7,Hostel,Car,Peak,Adventure,Budget,51191.13
+Rishikesh,2,8,Budget Hotel,Flight,Regular,Sightseeing,Standard,34740.06
+Varanasi,2,9,Hostel,Bus,Peak,Adventure,Budget,31559.99
+Udaipur,5,5,Budget Hotel,Bus,Off-season,Culture,Standard,35918.78
+Jaipur,4,10,Hostel,Train,Regular,Relaxation,Premium,86542.53
+Shimla,3,2,4-Star Hotel,Bus,Off-season,Culture,Premium,20489.11
+Varanasi,5,8,3-Star Hotel,Flight,Peak,Adventure,Standard,101752.48
+Udaipur,3,7,Budget Hotel,Flight,Off-season,Sightseeing,Budget,31670.76
+Shimla,5,9,Hostel,Car,Regular,Adventure,Premium,125255.97
+Goa,2,3,Hostel,Flight,Off-season,Sightseeing,Standard,18243.69
+Agra,5,10,4-Star Hotel,Flight,Peak,Adventure,Premium,184889.15
+Agra,4,7,4-Star Hotel,Flight,Regular,Sightseeing,Standard,63702.34
+Manali,3,6,3-Star Hotel,Train,Off-season,Relaxation,Budget,31351.76
+Agra,2,6,3-Star Hotel,Car,Regular,Sightseeing,Standard,28058.67
+Jaipur,5,8,Budget Hotel,Flight,Off-season,Culture,Premium,86495.83
+Goa,2,8,Budget Hotel,Flight,Off-season,Relaxation,Premium,50598.47
+Manali,1,5,Hostel,Car,Peak,Sightseeing,Premium,20712.79
+Rishikesh,2,5,Hostel,Car,Regular,Relaxation,Premium,22716.35
+Agra,4,5,4-Star Hotel,Bus,Off-season,Adventure,Premium,49297.24
+Agra,2,10,Hostel,Bus,Regular,Culture,Premium,41469.46
+Udaipur,3,6,Budget Hotel,Car,Regular,Adventure,Standard,42217.0
+Rishikesh,1,6,Budget Hotel,Train,Regular,Sightseeing,Standard,13323.14
+Udaipur,3,9,Hostel,Car,Regular,Culture,Premium,67238.06
+Manali,2,4,3-Star Hotel,Car,Off-season,Relaxation,Premium,25833.34
+Jaipur,2,5,Budget Hotel,Train,Regular,Sightseeing,Premium,25329.79
+Jaipur,5,9,Budget Hotel,Flight,Peak,Sightseeing,Budget,79656.84
+Varanasi,4,6,4-Star Hotel,Train,Peak,Relaxation,Premium,76144.63
+Udaipur,3,10,3-Star Hotel,Flight,Peak,Sightseeing,Standard,93291.94
+Goa,1,4,3-Star Hotel,Bus,Regular,Relaxation,Premium,19591.97
+Manali,3,10,4-Star Hotel,Flight,Off-season,Adventure,Standard,91637.6
+Rishikesh,2,5,3-Star Hotel,Car,Regular,Relaxation,Premium,30933.67
+Rishikesh,2,3,Budget Hotel,Bus,Peak,Relaxation,Premium,18919.47
+Agra,1,6,4-Star Hotel,Flight,Off-season,Culture,Budget,25347.81
+Agra,1,6,3-Star Hotel,Train,Regular,Relaxation,Budget,18900.7
+Manali,3,3,4-Star Hotel,Car,Off-season,Adventure,Premium,34257.44
+Shimla,4,3,Budget Hotel,Train,Peak,Sightseeing,Budget,21289.8
+Varanasi,3,9,4-Star Hotel,Bus,Off-season,Sightseeing,Premium,59939.99
+Agra,3,8,Budget Hotel,Flight,Peak,Relaxation,Premium,74965.75
+Agra,4,2,Budget Hotel,Car,Regular,Relaxation,Premium,20401.16
+Manali,1,8,3-Star Hotel,Bus,Peak,Culture,Standard,40337.15
+Shimla,2,9,Budget Hotel,Flight,Off-season,Adventure,Premium,55864.63
+Jaipur,3,6,3-Star Hotel,Flight,Regular,Culture,Standard,45538.44
+Agra,1,7,Budget Hotel,Bus,Off-season,Relaxation,Budget,12947.67
+Goa,4,6,4-Star Hotel,Bus,Peak,Sightseeing,Premium,105466.92
+Rishikesh,3,8,3-Star Hotel,Train,Peak,Culture,Budget,46660.76
+Shimla,5,5,Hostel,Flight,Regular,Culture,Standard,58015.64
+Shimla,4,2,Budget Hotel,Flight,Peak,Sightseeing,Standard,37296.57
+Agra,3,8,Budget Hotel,Bus,Off-season,Culture,Budget,25291.4
+Varanasi,2,8,Hostel,Bus,Off-season,Sightseeing,Premium,25914.4
+Rishikesh,4,7,Budget Hotel,Bus,Regular,Culture,Budget,31801.67
+Manali,4,2,4-Star Hotel,Flight,Off-season,Culture,Premium,35014.63
+Varanasi,2,3,4-Star Hotel,Flight,Peak,Sightseeing,Standard,26208.8
+Agra,3,6,Hostel,Car,Off-season,Relaxation,Standard,25048.78
+Shimla,3,4,Budget Hotel,Car,Regular,Relaxation,Standard,30626.77
+Agra,3,5,Hostel,Bus,Peak,Adventure,Standard,32460.31
+Shimla,3,2,Budget Hotel,Bus,Regular,Relaxation,Budget,11107.77
+Udaipur,2,9,3-Star Hotel,Train,Regular,Adventure,Standard,54351.63
+Agra,5,5,Budget Hotel,Flight,Peak,Adventure,Standard,69233.05
+Varanasi,3,2,3-Star Hotel,Train,Regular,Sightseeing,Budget,9333.1
+Shimla,2,10,4-Star Hotel,Bus,Regular,Culture,Standard,72835.33
+Shimla,3,4,4-Star Hotel,Car,Regular,Sightseeing,Budget,33078.7
+Varanasi,2,6,Hostel,Bus,Off-season,Sightseeing,Standard,13741.21
+Manali,2,4,Hostel,Bus,Off-season,Adventure,Standard,16301.11
+Goa,2,2,Budget Hotel,Bus,Off-season,Adventure,Premium,12864.51
+Jaipur,4,7,4-Star Hotel,Bus,Peak,Culture,Standard,80507.03
+Udaipur,5,7,Budget Hotel,Bus,Peak,Adventure,Budget,71118.94
+Manali,3,10,Budget Hotel,Train,Peak,Adventure,Budget,69930.36
+Udaipur,3,10,Budget Hotel,Car,Peak,Culture,Budget,57461.25
+Agra,1,8,4-Star Hotel,Car,Off-season,Culture,Standard,32671.79
+Goa,5,2,4-Star Hotel,Bus,Off-season,Adventure,Premium,33100.92
+Shimla,1,8,3-Star Hotel,Flight,Off-season,Relaxation,Budget,27038.39
+Jaipur,3,5,Budget Hotel,Car,Peak,Adventure,Standard,40272.53
+Agra,4,9,3-Star Hotel,Car,Off-season,Relaxation,Standard,55296.67
+Shimla,5,4,3-Star Hotel,Train,Off-season,Culture,Budget,28892.66
+Jaipur,5,3,4-Star Hotel,Flight,Off-season,Sightseeing,Premium,47776.14
+Udaipur,1,10,Hostel,Train,Off-season,Culture,Premium,24565.4
+Varanasi,3,10,Hostel,Bus,Peak,Sightseeing,Budget,34152.36
+Jaipur,2,4,3-Star Hotel,Train,Off-season,Culture,Budget,13926.6
+Jaipur,4,7,3-Star Hotel,Flight,Peak,Relaxation,Budget,69108.26
+Varanasi,1,7,Budget Hotel,Car,Off-season,Relaxation,Budget,12737.39
+Goa,2,10,Hostel,Train,Regular,Adventure,Budget,39268.03
+Rishikesh,2,8,Hostel,Flight,Regular,Culture,Premium,40202.99
+Jaipur,4,7,4-Star Hotel,Car,Off-season,Culture,Budget,49766.36
+Udaipur,5,3,Budget Hotel,Bus,Off-season,Relaxation,Standard,22638.41
+Agra,5,6,4-Star Hotel,Flight,Peak,Sightseeing,Budget,72333.51
+Manali,5,10,4-Star Hotel,Train,Regular,Sightseeing,Budget,94354.12
+Agra,2,8,3-Star Hotel,Flight,Regular,Adventure,Budget,39979.46
+Rishikesh,2,2,3-Star Hotel,Flight,Regular,Culture,Budget,14110.5
+Goa,3,8,Budget Hotel,Train,Peak,Adventure,Premium,99286.47
+Varanasi,3,4,4-Star Hotel,Car,Peak,Sightseeing,Budget,30770.51
+Goa,1,4,3-Star Hotel,Car,Regular,Sightseeing,Standard,18689.92
+Rishikesh,4,5,4-Star Hotel,Train,Peak,Sightseeing,Standard,53295.87
+Rishikesh,1,10,Budget Hotel,Bus,Off-season,Adventure,Budget,18806.92
+Udaipur,3,7,4-Star Hotel,Car,Off-season,Adventure,Budget,51631.08
+Jaipur,2,8,3-Star Hotel,Flight,Peak,Adventure,Standard,59539.89
+Jaipur,4,4,Budget Hotel,Train,Regular,Culture,Premium,37239.24
+Rishikesh,4,7,4-Star Hotel,Bus,Regular,Sightseeing,Premium,74638.13
+Jaipur,2,7,4-Star Hotel,Bus,Off-season,Culture,Budget,34325.91
+Jaipur,1,6,Hostel,Bus,Peak,Adventure,Standard,16497.68
+Udaipur,2,2,Hostel,Bus,Peak,Sightseeing,Standard,10845.37
+Manali,1,10,3-Star Hotel,Flight,Peak,Sightseeing,Premium,62007.17
+Manali,2,3,Hostel,Car,Regular,Relaxation,Budget,14354.04
+Jaipur,3,4,Budget Hotel,Car,Peak,Relaxation,Premium,39952.46
+Rishikesh,2,9,3-Star Hotel,Train,Regular,Relaxation,Premium,52536.54
+Jaipur,5,2,Budget Hotel,Flight,Peak,Sightseeing,Standard,38470.27
+Goa,5,10,3-Star Hotel,Train,Off-season,Sightseeing,Budget,67972.88
+Manali,1,8,3-Star Hotel,Flight,Peak,Adventure,Standard,46474.69
+Udaipur,2,4,Budget Hotel,Car,Off-season,Sightseeing,Premium,20614.6
+Rishikesh,3,7,3-Star Hotel,Car,Regular,Sightseeing,Standard,40897.05
+Shimla,4,3,4-Star Hotel,Car,Off-season,Relaxation,Budget,28299.98
+Shimla,4,3,4-Star Hotel,Train,Regular,Sightseeing,Budget,26453.32
+Goa,1,5,3-Star Hotel,Bus,Peak,Culture,Premium,32131.53
+Agra,3,8,3-Star Hotel,Bus,Off-season,Adventure,Premium,56424.88
+Agra,1,4,Hostel,Bus,Peak,Sightseeing,Standard,9301.73
+Rishikesh,3,7,Hostel,Flight,Off-season,Adventure,Premium,47480.14
+Manali,2,2,Hostel,Car,Peak,Adventure,Budget,11384.68
+Goa,3,4,4-Star Hotel,Train,Off-season,Adventure,Budget,33250.26
+Shimla,4,10,4-Star Hotel,Bus,Peak,Adventure,Budget,123097.67
+Varanasi,1,8,Hostel,Bus,Peak,Sightseeing,Standard,17089.26
+Manali,2,10,3-Star Hotel,Bus,Off-season,Relaxation,Standard,46866.79
+Jaipur,2,2,3-Star Hotel,Car,Peak,Adventure,Premium,20703.06
+Udaipur,4,10,3-Star Hotel,Train,Off-season,Sightseeing,Standard,66036.12
+Shimla,5,2,4-Star Hotel,Train,Off-season,Sightseeing,Budget,20051.32
+Jaipur,2,3,Hostel,Flight,Off-season,Culture,Budget,11970.34
+Jaipur,4,5,Budget Hotel,Car,Peak,Sightseeing,Standard,44181.39
+Agra,3,8,3-Star Hotel,Bus,Off-season,Culture,Premium,49201.55
+Shimla,5,5,3-Star Hotel,Flight,Regular,Culture,Premium,86224.77
+Jaipur,4,5,Hostel,Bus,Off-season,Relaxation,Budget,21486.62
+Varanasi,5,8,4-Star Hotel,Flight,Regular,Culture,Budget,69156.88
+Agra,5,4,4-Star Hotel,Bus,Off-season,Sightseeing,Budget,26609.05
+Manali,4,9,Budget Hotel,Flight,Peak,Sightseeing,Budget,75843.78
+Rishikesh,1,5,Budget Hotel,Bus,Regular,Adventure,Standard,15752.09
+Jaipur,1,3,Budget Hotel,Car,Off-season,Culture,Budget,7013.63
+Jaipur,4,10,Hostel,Train,Regular,Culture,Budget,43311.55
+Udaipur,5,7,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,67787.81
+Goa,1,10,3-Star Hotel,Flight,Peak,Adventure,Standard,64058.03
+Rishikesh,2,9,4-Star Hotel,Train,Regular,Culture,Budget,47135.01
+Shimla,1,2,Budget Hotel,Train,Regular,Sightseeing,Budget,4504.76
+Goa,1,4,Hostel,Bus,Regular,Relaxation,Standard,9810.35
+Varanasi,5,10,Budget Hotel,Flight,Peak,Adventure,Budget,91265.9
+Jaipur,3,9,3-Star Hotel,Car,Peak,Culture,Premium,94112.77
+Rishikesh,4,7,Hostel,Car,Off-season,Relaxation,Budget,30091.2
+Manali,5,7,Hostel,Train,Off-season,Sightseeing,Budget,35269.04
+Jaipur,3,5,Hostel,Train,Off-season,Sightseeing,Standard,18141.64
+Udaipur,1,10,3-Star Hotel,Car,Regular,Sightseeing,Standard,38494.33
+Varanasi,1,10,4-Star Hotel,Train,Regular,Sightseeing,Budget,38808.13
+Rishikesh,2,2,4-Star Hotel,Train,Peak,Sightseeing,Premium,17894.39
+Jaipur,1,10,Budget Hotel,Bus,Regular,Adventure,Budget,23613.74
+Agra,3,2,4-Star Hotel,Car,Regular,Adventure,Budget,16063.57
+Shimla,2,2,Hostel,Bus,Off-season,Relaxation,Budget,6487.34
+Shimla,2,9,Hostel,Car,Peak,Culture,Standard,44780.06
+Manali,1,10,4-Star Hotel,Flight,Regular,Culture,Budget,57252.92
+Udaipur,1,5,Hostel,Bus,Off-season,Adventure,Standard,10495.56
+Agra,1,5,4-Star Hotel,Flight,Off-season,Relaxation,Standard,21638.4
+Goa,3,8,Hostel,Bus,Off-season,Culture,Standard,37757.73
+Jaipur,5,2,4-Star Hotel,Car,Peak,Adventure,Standard,35899.87
+Varanasi,2,5,Hostel,Bus,Off-season,Sightseeing,Standard,11218.31
+Varanasi,5,4,3-Star Hotel,Train,Peak,Sightseeing,Premium,50492.91
+Goa,4,4,4-Star Hotel,Car,Regular,Sightseeing,Budget,41424.35
+Goa,1,10,Budget Hotel,Car,Off-season,Adventure,Standard,29756.56
+Shimla,4,5,Hostel,Flight,Off-season,Adventure,Standard,46567.64
+Udaipur,1,4,3-Star Hotel,Flight,Regular,Adventure,Premium,25769.66
+Rishikesh,3,8,3-Star Hotel,Flight,Regular,Culture,Budget,45846.49
+Varanasi,5,3,3-Star Hotel,Flight,Regular,Sightseeing,Budget,31568.08
+Jaipur,5,10,3-Star Hotel,Flight,Off-season,Sightseeing,Premium,110452.75
+Udaipur,5,2,Hostel,Bus,Peak,Adventure,Standard,27150.34
+Rishikesh,5,9,Budget Hotel,Car,Peak,Sightseeing,Premium,117282.83
+Goa,4,7,4-Star Hotel,Train,Regular,Culture,Budget,66813.09
+Agra,4,4,3-Star Hotel,Car,Off-season,Adventure,Budget,23932.76
+Manali,2,9,3-Star Hotel,Flight,Off-season,Sightseeing,Premium,56414.6
+Goa,2,6,Hostel,Car,Regular,Adventure,Budget,25424.66
+Shimla,4,7,3-Star Hotel,Flight,Peak,Adventure,Premium,128489.36
+Varanasi,1,7,Budget Hotel,Flight,Off-season,Culture,Budget,12016.93
+Rishikesh,2,4,Budget Hotel,Train,Off-season,Culture,Standard,11971.46
+Manali,1,5,4-Star Hotel,Bus,Regular,Sightseeing,Premium,33062.17
+Udaipur,1,8,Budget Hotel,Flight,Off-season,Relaxation,Premium,26103.3
+Udaipur,4,9,Hostel,Bus,Off-season,Sightseeing,Premium,67414.54
+Jaipur,2,6,Hostel,Flight,Off-season,Sightseeing,Premium,27201.48
+Goa,1,9,Budget Hotel,Bus,Off-season,Culture,Premium,28427.39
+Rishikesh,5,5,Budget Hotel,Train,Off-season,Relaxation,Premium,45539.34
+Shimla,4,5,Budget Hotel,Car,Regular,Adventure,Standard,46627.58
+Rishikesh,2,5,Hostel,Flight,Peak,Adventure,Standard,31227.92
+Manali,1,8,4-Star Hotel,Flight,Regular,Culture,Premium,55743.98
+Goa,2,7,4-Star Hotel,Car,Off-season,Culture,Standard,49375.25
+Varanasi,3,9,3-Star Hotel,Flight,Regular,Adventure,Budget,51152.25
+Udaipur,5,5,Budget Hotel,Flight,Regular,Adventure,Premium,86080.55
+Rishikesh,1,7,3-Star Hotel,Bus,Regular,Relaxation,Premium,30470.13
+Rishikesh,3,10,3-Star Hotel,Flight,Peak,Adventure,Budget,80275.76
+Manali,5,8,Hostel,Flight,Peak,Adventure,Premium,155679.92
+Shimla,3,6,Hostel,Bus,Regular,Relaxation,Premium,48255.76
+Shimla,5,5,3-Star Hotel,Bus,Regular,Relaxation,Standard,53392.28
+Varanasi,3,2,Budget Hotel,Bus,Peak,Relaxation,Standard,12381.33
+Manali,2,9,Hostel,Train,Off-season,Culture,Premium,41525.08
+Udaipur,2,9,4-Star Hotel,Car,Off-season,Sightseeing,Budget,48814.77
+Agra,4,6,Budget Hotel,Flight,Off-season,Sightseeing,Budget,31210.61
+Varanasi,3,9,Hostel,Flight,Off-season,Sightseeing,Premium,47947.95
+Goa,1,9,Hostel,Train,Regular,Adventure,Budget,20509.31
+Agra,3,8,3-Star Hotel,Flight,Regular,Adventure,Standard,57706.55
+Manali,2,9,4-Star Hotel,Flight,Off-season,Adventure,Premium,78889.16
+Manali,1,8,3-Star Hotel,Train,Peak,Sightseeing,Budget,35206.47
+Jaipur,3,5,4-Star Hotel,Train,Regular,Adventure,Budget,39646.73
+Rishikesh,1,8,3-Star Hotel,Train,Peak,Sightseeing,Budget,29795.22
+Udaipur,5,9,3-Star Hotel,Train,Peak,Adventure,Premium,165214.12
+Manali,3,9,3-Star Hotel,Train,Peak,Adventure,Budget,75182.66
+Jaipur,3,10,Budget Hotel,Flight,Off-season,Adventure,Budget,48771.08
+Jaipur,1,6,3-Star Hotel,Train,Off-season,Adventure,Budget,18271.14
+Rishikesh,2,4,4-Star Hotel,Flight,Off-season,Culture,Budget,22637.54
+Goa,3,7,Budget Hotel,Bus,Regular,Adventure,Budget,42649.05
+Varanasi,2,3,3-Star Hotel,Car,Peak,Adventure,Standard,20186.63
+Goa,4,6,3-Star Hotel,Flight,Regular,Sightseeing,Budget,57042.25
+Rishikesh,2,8,Budget Hotel,Car,Regular,Relaxation,Premium,40952.24
+Jaipur,3,7,Hostel,Bus,Off-season,Relaxation,Premium,40395.72
+Rishikesh,1,3,Budget Hotel,Car,Off-season,Culture,Premium,9452.21
+Agra,1,9,3-Star Hotel,Car,Off-season,Culture,Budget,21454.68
+Rishikesh,2,5,3-Star Hotel,Bus,Peak,Adventure,Standard,33424.4
+Rishikesh,5,4,4-Star Hotel,Flight,Off-season,Relaxation,Budget,42069.4
+Shimla,5,5,4-Star Hotel,Train,Off-season,Culture,Budget,42908.4
+Agra,3,10,Hostel,Bus,Off-season,Relaxation,Premium,51240.44
+Rishikesh,2,3,Budget Hotel,Bus,Regular,Adventure,Budget,10964.5
+Manali,4,4,4-Star Hotel,Car,Regular,Relaxation,Standard,47074.31
+Varanasi,5,7,4-Star Hotel,Flight,Peak,Adventure,Budget,90025.2
+Varanasi,5,5,Hostel,Bus,Peak,Sightseeing,Budget,26093.96
+Manali,2,10,4-Star Hotel,Bus,Off-season,Culture,Standard,63139.23
+Goa,4,2,3-Star Hotel,Train,Off-season,Sightseeing,Standard,18069.12
+Jaipur,3,2,4-Star Hotel,Flight,Regular,Adventure,Budget,24582.9
+Manali,3,7,3-Star Hotel,Train,Peak,Sightseeing,Budget,50152.28
+Agra,2,8,Hostel,Bus,Off-season,Culture,Budget,15056.48
+Varanasi,5,10,3-Star Hotel,Car,Peak,Sightseeing,Premium,126611.99
+Varanasi,3,9,4-Star Hotel,Flight,Peak,Adventure,Premium,110243.42
+Agra,4,9,Hostel,Train,Regular,Culture,Standard,47075.77
+Udaipur,4,4,4-Star Hotel,Flight,Peak,Relaxation,Premium,83943.3
+Manali,3,7,3-Star Hotel,Flight,Peak,Sightseeing,Premium,92623.13
+Varanasi,3,8,3-Star Hotel,Bus,Peak,Sightseeing,Budget,40892.9
+Shimla,1,9,3-Star Hotel,Train,Off-season,Adventure,Budget,29946.31
+Manali,5,9,Hostel,Bus,Peak,Sightseeing,Budget,64636.42
+Agra,4,6,4-Star Hotel,Bus,Off-season,Culture,Standard,41303.3
+Udaipur,2,4,Budget Hotel,Train,Regular,Adventure,Budget,17414.03
+Jaipur,3,2,Hostel,Bus,Peak,Adventure,Budget,11495.01
+Shimla,2,5,Budget Hotel,Bus,Peak,Relaxation,Standard,29003.82
+Goa,3,8,3-Star Hotel,Car,Peak,Adventure,Premium,114064.8
+Rishikesh,4,2,Budget Hotel,Flight,Regular,Adventure,Premium,31842.95
+Manali,2,10,3-Star Hotel,Flight,Off-season,Adventure,Premium,69750.67
+Goa,3,3,3-Star Hotel,Car,Peak,Sightseeing,Premium,41748.4
+Agra,1,2,Hostel,Car,Off-season,Culture,Budget,3369.76
+Manali,3,9,Hostel,Car,Regular,Culture,Standard,50514.25
+Manali,1,4,Hostel,Train,Off-season,Adventure,Budget,8609.98
+Goa,4,7,Hostel,Bus,Off-season,Adventure,Standard,52795.52
+Goa,5,7,4-Star Hotel,Flight,Regular,Relaxation,Budget,95689.99
+Udaipur,1,4,Budget Hotel,Train,Regular,Relaxation,Standard,12280.22
+Shimla,1,6,3-Star Hotel,Flight,Peak,Adventure,Standard,36504.53
+Agra,1,4,Budget Hotel,Car,Regular,Adventure,Budget,9128.15
+Udaipur,4,5,3-Star Hotel,Car,Regular,Adventure,Standard,50199.92
+Goa,5,2,Hostel,Train,Regular,Culture,Premium,28775.12
+Rishikesh,3,7,Budget Hotel,Train,Peak,Relaxation,Standard,44022.77
+Goa,1,4,3-Star Hotel,Car,Peak,Culture,Budget,22136.57
+Agra,3,7,4-Star Hotel,Train,Regular,Relaxation,Standard,50712.48
+Rishikesh,3,2,Hostel,Flight,Regular,Culture,Premium,20683.24
+Shimla,2,10,4-Star Hotel,Bus,Peak,Sightseeing,Standard,88237.34
+Goa,4,6,Hostel,Car,Off-season,Sightseeing,Standard,38304.07
+Shimla,3,10,Hostel,Bus,Off-season,Relaxation,Budget,35211.24
+Jaipur,5,5,Hostel,Bus,Peak,Sightseeing,Budget,33971.98
+Agra,2,10,Budget Hotel,Flight,Peak,Relaxation,Standard,50564.32
+Agra,3,4,Hostel,Flight,Peak,Relaxation,Premium,40629.05
+Shimla,5,10,Budget Hotel,Car,Regular,Culture,Standard,89493.62
+Udaipur,3,3,Hostel,Train,Regular,Relaxation,Budget,13993.54
+Udaipur,1,5,4-Star Hotel,Flight,Peak,Sightseeing,Standard,38410.72
+Manali,4,9,Budget Hotel,Flight,Peak,Culture,Standard,97867.85
+Manali,3,5,4-Star Hotel,Train,Peak,Adventure,Standard,62378.85
+Rishikesh,4,5,4-Star Hotel,Car,Regular,Adventure,Standard,51237.3
+Shimla,1,3,Hostel,Flight,Regular,Adventure,Premium,15145.49
+Jaipur,1,10,3-Star Hotel,Car,Peak,Sightseeing,Budget,39128.62
+Shimla,4,6,Hostel,Car,Regular,Culture,Budget,35474.4
+Rishikesh,4,2,Budget Hotel,Train,Regular,Adventure,Standard,15610.2
+Varanasi,5,3,4-Star Hotel,Bus,Off-season,Adventure,Standard,26562.0
+Goa,5,4,3-Star Hotel,Bus,Off-season,Relaxation,Premium,53480.33
+Goa,1,2,3-Star Hotel,Flight,Peak,Relaxation,Premium,16807.38
+Jaipur,1,5,Hostel,Flight,Peak,Culture,Budget,14615.95
+Agra,5,5,Hostel,Bus,Peak,Relaxation,Budget,31825.72
+Rishikesh,1,3,3-Star Hotel,Train,Off-season,Sightseeing,Standard,7490.82
+Agra,3,2,4-Star Hotel,Bus,Regular,Culture,Budget,14067.7
+Varanasi,5,7,3-Star Hotel,Bus,Off-season,Culture,Standard,43412.14
+Agra,1,5,Hostel,Train,Regular,Sightseeing,Budget,6395.54
+Rishikesh,3,10,Hostel,Bus,Regular,Sightseeing,Premium,58730.9
+Agra,1,4,3-Star Hotel,Train,Off-season,Relaxation,Budget,9882.4
+Udaipur,1,3,4-Star Hotel,Bus,Regular,Culture,Standard,16193.21
+Goa,2,6,4-Star Hotel,Train,Peak,Adventure,Budget,58186.62
+Manali,2,7,4-Star Hotel,Train,Off-season,Adventure,Budget,43306.99
+Varanasi,3,7,Hostel,Bus,Peak,Culture,Budget,26691.59
+Udaipur,2,8,4-Star Hotel,Train,Regular,Relaxation,Budget,49925.2
+Varanasi,4,9,Budget Hotel,Bus,Off-season,Adventure,Premium,66303.27
+Rishikesh,4,10,3-Star Hotel,Car,Regular,Culture,Standard,72546.29
+Jaipur,5,3,4-Star Hotel,Train,Regular,Sightseeing,Standard,32215.46
+Udaipur,1,9,4-Star Hotel,Train,Peak,Culture,Standard,61157.3
+Agra,4,6,3-Star Hotel,Flight,Off-season,Culture,Premium,54852.13
+Udaipur,1,8,Budget Hotel,Bus,Off-season,Adventure,Standard,20026.37
+Jaipur,4,9,Hostel,Car,Regular,Adventure,Standard,67506.23
+Jaipur,3,9,Budget Hotel,Train,Peak,Sightseeing,Standard,53789.08
+Udaipur,2,3,4-Star Hotel,Car,Off-season,Adventure,Standard,22076.46
+Udaipur,5,3,3-Star Hotel,Train,Peak,Relaxation,Premium,53820.5
+Rishikesh,1,2,3-Star Hotel,Car,Regular,Relaxation,Budget,7127.67
+Rishikesh,5,6,Budget Hotel,Car,Regular,Sightseeing,Budget,35539.68
+Goa,3,6,Budget Hotel,Train,Peak,Sightseeing,Budget,35889.61
+Goa,4,3,Hostel,Car,Regular,Sightseeing,Budget,22922.99
+Udaipur,1,3,3-Star Hotel,Flight,Peak,Adventure,Budget,19436.95
+Jaipur,3,10,Hostel,Car,Regular,Adventure,Premium,75713.78
+Agra,2,10,Budget Hotel,Car,Regular,Adventure,Budget,34430.81
+Varanasi,3,6,Hostel,Car,Peak,Culture,Premium,46126.29
+Agra,2,8,4-Star Hotel,Flight,Peak,Culture,Standard,64135.63
+Shimla,3,6,Budget Hotel,Car,Peak,Relaxation,Budget,40109.0
+Agra,3,10,3-Star Hotel,Flight,Peak,Adventure,Standard,86772.02
+Manali,3,10,4-Star Hotel,Car,Regular,Culture,Premium,114937.71
+Shimla,1,6,Hostel,Car,Regular,Sightseeing,Standard,14302.2
+Manali,1,9,Hostel,Car,Peak,Relaxation,Premium,35936.1
+Manali,3,6,4-Star Hotel,Car,Off-season,Sightseeing,Standard,46698.75
+Manali,1,5,Hostel,Bus,Peak,Relaxation,Standard,15747.2
+Rishikesh,3,10,3-Star Hotel,Train,Regular,Sightseeing,Budget,46438.41
+Udaipur,4,4,Hostel,Train,Off-season,Culture,Standard,22558.5
+Goa,4,2,Hostel,Train,Regular,Sightseeing,Budget,13033.41
+Rishikesh,2,8,3-Star Hotel,Car,Regular,Relaxation,Premium,46441.02
+Goa,2,7,3-Star Hotel,Train,Peak,Sightseeing,Standard,52016.74
+Varanasi,4,3,3-Star Hotel,Car,Peak,Sightseeing,Premium,35505.43
+Goa,4,2,Budget Hotel,Train,Peak,Relaxation,Premium,32211.7
+Jaipur,3,8,4-Star Hotel,Bus,Regular,Sightseeing,Budget,51565.31
+Agra,5,3,4-Star Hotel,Flight,Off-season,Relaxation,Standard,36864.28
+Udaipur,1,9,4-Star Hotel,Bus,Off-season,Culture,Budget,37530.36
+Manali,2,3,Hostel,Car,Peak,Relaxation,Premium,24415.48
+Agra,2,5,3-Star Hotel,Train,Off-season,Relaxation,Premium,25207.37
+Goa,1,8,3-Star Hotel,Bus,Regular,Sightseeing,Budget,31271.88
+Jaipur,2,2,Budget Hotel,Flight,Peak,Adventure,Budget,18409.06
+Rishikesh,4,7,4-Star Hotel,Bus,Off-season,Culture,Premium,64564.21
+Varanasi,4,2,Budget Hotel,Car,Off-season,Culture,Premium,18049.94
+Rishikesh,3,5,3-Star Hotel,Flight,Off-season,Culture,Budget,30856.36
+Udaipur,1,6,3-Star Hotel,Car,Peak,Relaxation,Premium,36158.01
+Agra,2,2,Budget Hotel,Car,Off-season,Adventure,Premium,12019.07
+Agra,1,3,Budget Hotel,Flight,Regular,Adventure,Budget,9820.08
+Manali,3,6,3-Star Hotel,Flight,Off-season,Relaxation,Budget,38203.0
+Varanasi,3,4,3-Star Hotel,Train,Peak,Culture,Premium,34240.54
+Varanasi,3,9,3-Star Hotel,Car,Regular,Adventure,Standard,55626.35
+Manali,1,9,3-Star Hotel,Flight,Peak,Adventure,Standard,51936.18
+Manali,5,9,4-Star Hotel,Bus,Off-season,Culture,Standard,88526.42
+Agra,1,7,4-Star Hotel,Car,Off-season,Relaxation,Standard,28284.69
+Manali,5,3,4-Star Hotel,Flight,Off-season,Relaxation,Premium,58347.91
+Varanasi,1,2,Hostel,Car,Off-season,Adventure,Budget,4906.78
+Agra,1,7,Budget Hotel,Flight,Regular,Sightseeing,Standard,18194.21
+Goa,1,10,4-Star Hotel,Car,Regular,Adventure,Premium,77500.6
+Udaipur,1,5,Hostel,Bus,Off-season,Adventure,Standard,10490.07
+Manali,2,4,Hostel,Car,Regular,Relaxation,Premium,24248.92
+Rishikesh,1,9,Budget Hotel,Car,Peak,Relaxation,Premium,34805.17
+Agra,4,2,4-Star Hotel,Flight,Regular,Sightseeing,Standard,27045.59
+Varanasi,2,9,Budget Hotel,Car,Off-season,Sightseeing,Premium,34096.39
+Varanasi,5,6,3-Star Hotel,Bus,Peak,Adventure,Budget,54709.52
+Udaipur,4,6,Budget Hotel,Bus,Off-season,Relaxation,Budget,30066.61
+Varanasi,1,4,Hostel,Bus,Off-season,Culture,Standard,4966.32
+Goa,4,6,4-Star Hotel,Flight,Peak,Adventure,Premium,138575.73
+Agra,3,2,4-Star Hotel,Bus,Off-season,Culture,Standard,13052.82
+Jaipur,4,6,4-Star Hotel,Car,Peak,Culture,Budget,62730.82
+Udaipur,5,10,4-Star Hotel,Bus,Regular,Relaxation,Standard,114392.39
+Rishikesh,4,5,4-Star Hotel,Train,Regular,Adventure,Budget,42868.38
+Varanasi,5,7,Budget Hotel,Bus,Regular,Sightseeing,Budget,33409.51
+Rishikesh,2,2,3-Star Hotel,Car,Off-season,Culture,Premium,11759.68
+Shimla,1,9,Budget Hotel,Train,Off-season,Sightseeing,Standard,22010.47
+Agra,1,7,3-Star Hotel,Train,Off-season,Relaxation,Premium,21999.43
+Manali,1,5,Budget Hotel,Flight,Regular,Sightseeing,Standard,16715.25
+Agra,5,9,Budget Hotel,Bus,Peak,Adventure,Budget,72868.95
+Shimla,4,6,3-Star Hotel,Car,Off-season,Culture,Budget,38234.83
+Agra,4,3,Budget Hotel,Flight,Regular,Adventure,Premium,40942.5
+Udaipur,4,4,3-Star Hotel,Bus,Peak,Sightseeing,Budget,32599.11
+Varanasi,2,4,Budget Hotel,Bus,Off-season,Culture,Standard,10754.23
+Agra,2,5,Hostel,Car,Off-season,Adventure,Standard,15101.41
+Agra,5,4,Hostel,Bus,Off-season,Adventure,Budget,22265.56
+Shimla,1,7,Hostel,Flight,Regular,Culture,Standard,20756.08
+Rishikesh,3,2,Budget Hotel,Bus,Off-season,Adventure,Budget,8418.3
+Jaipur,5,6,3-Star Hotel,Flight,Peak,Culture,Budget,70458.25
+Rishikesh,1,9,Budget Hotel,Train,Regular,Culture,Budget,16226.97
+Agra,2,5,4-Star Hotel,Car,Regular,Adventure,Standard,33380.04
+Udaipur,4,5,Budget Hotel,Car,Off-season,Culture,Premium,45628.9
+Goa,5,3,Hostel,Train,Peak,Culture,Budget,28514.93
+Goa,1,10,4-Star Hotel,Car,Peak,Relaxation,Budget,75971.56
+Manali,1,7,Hostel,Car,Off-season,Relaxation,Standard,13940.41
+Varanasi,3,6,3-Star Hotel,Bus,Peak,Adventure,Premium,56777.76
+Shimla,4,4,3-Star Hotel,Flight,Off-season,Adventure,Premium,56340.33
+Jaipur,5,6,4-Star Hotel,Bus,Off-season,Relaxation,Standard,54716.15
+Jaipur,1,5,3-Star Hotel,Flight,Off-season,Sightseeing,Budget,14725.25
+Manali,3,2,Hostel,Train,Peak,Sightseeing,Premium,20073.59
+Shimla,3,5,4-Star Hotel,Car,Regular,Sightseeing,Budget,40078.58
+Shimla,4,7,Budget Hotel,Bus,Peak,Sightseeing,Budget,47355.92
+Shimla,2,4,4-Star Hotel,Flight,Off-season,Culture,Budget,29077.93
+Shimla,4,2,3-Star Hotel,Train,Peak,Relaxation,Budget,21239.02
+Varanasi,1,7,4-Star Hotel,Flight,Peak,Adventure,Premium,46692.32
+Varanasi,4,8,4-Star Hotel,Car,Off-season,Relaxation,Standard,54467.74
+Agra,1,2,4-Star Hotel,Car,Regular,Culture,Standard,10839.44
+Rishikesh,5,2,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,26529.31
+Rishikesh,3,4,3-Star Hotel,Flight,Regular,Sightseeing,Standard,29417.08
+Jaipur,2,2,Hostel,Train,Peak,Adventure,Budget,9631.82
+Jaipur,1,8,Budget Hotel,Bus,Peak,Adventure,Budget,23965.3
+Agra,4,10,Budget Hotel,Car,Off-season,Adventure,Premium,79000.35
+Manali,3,7,4-Star Hotel,Train,Peak,Sightseeing,Budget,65131.81
+Jaipur,3,4,3-Star Hotel,Bus,Regular,Relaxation,Standard,25709.17
+Shimla,5,3,3-Star Hotel,Bus,Regular,Adventure,Premium,47164.8
+Varanasi,4,8,4-Star Hotel,Bus,Regular,Culture,Budget,51265.93
+Varanasi,3,8,3-Star Hotel,Flight,Peak,Culture,Premium,77184.77
+Rishikesh,5,4,Hostel,Flight,Regular,Sightseeing,Premium,54866.89
+Varanasi,1,10,Hostel,Car,Off-season,Adventure,Budget,13636.87
+Jaipur,3,7,4-Star Hotel,Bus,Off-season,Sightseeing,Standard,43975.45
+Udaipur,4,4,Budget Hotel,Flight,Regular,Adventure,Premium,59497.05
+Varanasi,1,9,3-Star Hotel,Bus,Off-season,Sightseeing,Premium,27033.2
+Manali,3,4,3-Star Hotel,Car,Regular,Relaxation,Budget,27873.09
+Rishikesh,2,3,3-Star Hotel,Car,Regular,Culture,Standard,16730.96
+Shimla,4,7,4-Star Hotel,Car,Peak,Culture,Budget,82083.68
+Shimla,2,4,Budget Hotel,Train,Off-season,Sightseeing,Budget,13193.18
+Agra,5,2,3-Star Hotel,Train,Off-season,Culture,Standard,16569.2
+Manali,3,3,Hostel,Car,Off-season,Relaxation,Budget,14560.24
+Manali,3,10,Budget Hotel,Train,Off-season,Adventure,Budget,48128.0
+Jaipur,2,9,4-Star Hotel,Bus,Off-season,Relaxation,Standard,49982.49
+Rishikesh,4,9,3-Star Hotel,Bus,Off-season,Culture,Standard,52990.02
+Manali,2,8,4-Star Hotel,Bus,Regular,Adventure,Budget,57707.52
+Rishikesh,1,5,Hostel,Train,Off-season,Adventure,Standard,10160.1
+Varanasi,4,3,Budget Hotel,Train,Peak,Culture,Budget,17072.46
+Varanasi,4,3,4-Star Hotel,Bus,Off-season,Sightseeing,Standard,16965.75
+Rishikesh,4,10,3-Star Hotel,Bus,Off-season,Relaxation,Premium,82039.59
+Goa,2,5,Budget Hotel,Flight,Peak,Relaxation,Premium,50631.8
+Goa,1,6,Budget Hotel,Train,Peak,Relaxation,Premium,28172.68
+Rishikesh,2,8,4-Star Hotel,Car,Peak,Adventure,Standard,68296.36
+Jaipur,3,10,Hostel,Train,Regular,Relaxation,Premium,68126.44
+Shimla,5,4,4-Star Hotel,Train,Regular,Adventure,Budget,49346.31
+Agra,3,9,Budget Hotel,Train,Off-season,Sightseeing,Standard,34148.24
+Goa,1,3,Budget Hotel,Car,Peak,Adventure,Standard,16701.41
+Rishikesh,3,6,Hostel,Car,Regular,Adventure,Budget,27825.89
+Udaipur,4,5,4-Star Hotel,Train,Regular,Relaxation,Budget,43886.1
+Goa,1,4,Hostel,Train,Regular,Relaxation,Standard,10241.76
+Manali,2,8,3-Star Hotel,Train,Off-season,Relaxation,Premium,49172.19
+Jaipur,3,3,Budget Hotel,Bus,Off-season,Adventure,Standard,17593.05
+Rishikesh,2,2,Budget Hotel,Flight,Off-season,Culture,Budget,9430.22
+Agra,5,3,Budget Hotel,Car,Peak,Relaxation,Budget,28336.6
+Manali,2,6,Hostel,Train,Regular,Relaxation,Premium,32425.6
+Udaipur,2,6,Budget Hotel,Flight,Off-season,Relaxation,Premium,34809.38
+Rishikesh,4,4,4-Star Hotel,Flight,Regular,Sightseeing,Standard,44893.38
+Manali,1,7,3-Star Hotel,Car,Off-season,Culture,Premium,29360.64
+Udaipur,4,2,Hostel,Bus,Regular,Relaxation,Budget,11227.56
+Rishikesh,3,4,4-Star Hotel,Bus,Off-season,Relaxation,Standard,28205.54
+Varanasi,5,9,Hostel,Flight,Regular,Adventure,Premium,101759.2
+Udaipur,3,6,Budget Hotel,Car,Off-season,Sightseeing,Premium,41243.64
+Shimla,2,3,4-Star Hotel,Train,Peak,Culture,Budget,24950.33
+Rishikesh,3,5,3-Star Hotel,Train,Peak,Culture,Premium,48083.71
+Rishikesh,5,8,Budget Hotel,Bus,Regular,Adventure,Premium,93257.0
+Udaipur,1,6,Budget Hotel,Car,Regular,Adventure,Standard,18801.19
+Shimla,1,2,Budget Hotel,Car,Peak,Culture,Standard,10049.02
+Udaipur,2,8,4-Star Hotel,Car,Regular,Relaxation,Standard,59377.52
+Rishikesh,2,5,Budget Hotel,Car,Peak,Relaxation,Standard,25072.37
+Varanasi,1,7,4-Star Hotel,Train,Peak,Relaxation,Premium,42510.26
+Manali,4,9,3-Star Hotel,Car,Peak,Sightseeing,Budget,78358.02
+Rishikesh,1,9,4-Star Hotel,Bus,Off-season,Relaxation,Budget,34443.94
+Udaipur,1,4,3-Star Hotel,Train,Regular,Adventure,Standard,17342.37
+Manali,1,3,Budget Hotel,Car,Off-season,Culture,Premium,8415.73
+Manali,1,10,Budget Hotel,Flight,Off-season,Relaxation,Budget,24900.62
+Udaipur,5,6,3-Star Hotel,Car,Off-season,Culture,Budget,43336.84
+Goa,5,3,4-Star Hotel,Train,Peak,Relaxation,Standard,52159.87
+Rishikesh,2,5,Hostel,Bus,Regular,Relaxation,Standard,15172.2
+Agra,2,6,Hostel,Car,Regular,Culture,Standard,18632.72
+Agra,3,3,Budget Hotel,Car,Regular,Relaxation,Standard,19042.98
+Shimla,1,9,Budget Hotel,Car,Regular,Culture,Premium,32021.83
+Manali,2,4,4-Star Hotel,Car,Regular,Culture,Premium,37712.54
+Rishikesh,2,6,3-Star Hotel,Train,Off-season,Culture,Premium,28613.29
+Varanasi,4,6,3-Star Hotel,Car,Peak,Culture,Premium,67001.06
+Varanasi,5,7,4-Star Hotel,Bus,Peak,Sightseeing,Premium,97853.69
+Agra,4,3,Hostel,Bus,Peak,Adventure,Budget,21022.25
+Manali,1,9,4-Star Hotel,Train,Peak,Relaxation,Budget,62865.15
+Agra,4,3,Hostel,Flight,Regular,Relaxation,Standard,28721.41
+Agra,5,3,3-Star Hotel,Flight,Regular,Sightseeing,Standard,38893.03
+Goa,5,7,Budget Hotel,Car,Off-season,Culture,Premium,85621.52
+Goa,4,5,Budget Hotel,Train,Regular,Culture,Budget,34130.29
+Varanasi,2,2,3-Star Hotel,Car,Off-season,Adventure,Premium,10954.92
+Udaipur,1,7,4-Star Hotel,Flight,Regular,Culture,Premium,47005.39
+Shimla,2,8,3-Star Hotel,Car,Peak,Culture,Budget,47582.43
+Varanasi,3,9,3-Star Hotel,Flight,Off-season,Relaxation,Budget,38074.18
+Manali,4,3,3-Star Hotel,Train,Peak,Sightseeing,Budget,26280.62
+Agra,1,5,Hostel,Bus,Off-season,Adventure,Budget,8309.13
+Agra,5,2,3-Star Hotel,Bus,Regular,Culture,Standard,17121.43
+Udaipur,1,6,4-Star Hotel,Flight,Regular,Adventure,Standard,37510.7
+Shimla,4,4,Budget Hotel,Flight,Peak,Sightseeing,Premium,68788.26
+Shimla,4,7,Hostel,Bus,Off-season,Sightseeing,Budget,27821.48
+Jaipur,2,9,Budget Hotel,Flight,Off-season,Adventure,Budget,32887.3
+Rishikesh,5,3,3-Star Hotel,Train,Regular,Adventure,Budget,26825.77
+Varanasi,3,7,3-Star Hotel,Train,Regular,Adventure,Budget,35647.3
+Udaipur,4,8,4-Star Hotel,Bus,Off-season,Culture,Standard,66812.85
+Shimla,4,6,4-Star Hotel,Car,Regular,Sightseeing,Budget,53672.48
+Varanasi,5,6,4-Star Hotel,Car,Off-season,Sightseeing,Budget,39622.37
+Rishikesh,2,9,4-Star Hotel,Car,Regular,Culture,Premium,67166.78
+Rishikesh,4,5,Budget Hotel,Car,Regular,Adventure,Standard,40606.55
+Udaipur,5,9,3-Star Hotel,Car,Off-season,Sightseeing,Budget,59320.36
+Shimla,2,10,Budget Hotel,Car,Regular,Sightseeing,Budget,33921.34
+Agra,2,3,4-Star Hotel,Flight,Peak,Sightseeing,Budget,26794.52
+Agra,3,4,Budget Hotel,Train,Off-season,Sightseeing,Premium,22810.04
+Varanasi,5,5,3-Star Hotel,Bus,Peak,Relaxation,Budget,38293.1
+Shimla,1,6,3-Star Hotel,Bus,Peak,Culture,Budget,27392.67
+Varanasi,4,3,3-Star Hotel,Car,Off-season,Culture,Budget,16068.57
+Rishikesh,5,7,Hostel,Bus,Peak,Adventure,Standard,72674.68
+Rishikesh,3,5,Hostel,Train,Regular,Adventure,Budget,20960.66
+Varanasi,2,6,3-Star Hotel,Car,Peak,Culture,Budget,28217.7
+Manali,3,7,4-Star Hotel,Train,Peak,Relaxation,Budget,69668.14
+Goa,3,9,4-Star Hotel,Bus,Peak,Sightseeing,Standard,103846.32
+Udaipur,1,8,4-Star Hotel,Flight,Off-season,Relaxation,Standard,39942.64
+Rishikesh,1,8,Hostel,Train,Peak,Sightseeing,Standard,18468.36
+Agra,5,4,4-Star Hotel,Flight,Peak,Sightseeing,Standard,62669.99
+Varanasi,5,3,3-Star Hotel,Car,Peak,Sightseeing,Standard,33540.81
+Agra,3,7,3-Star Hotel,Car,Peak,Adventure,Budget,49497.0
+Goa,1,7,Hostel,Flight,Off-season,Sightseeing,Premium,21947.79
+Varanasi,3,4,Budget Hotel,Bus,Regular,Culture,Standard,17529.46
+Goa,4,5,4-Star Hotel,Car,Regular,Culture,Budget,51201.13
+Shimla,5,3,3-Star Hotel,Flight,Peak,Sightseeing,Budget,50588.17
+Goa,3,2,Budget Hotel,Train,Peak,Relaxation,Standard,18583.62
+Shimla,1,7,Budget Hotel,Bus,Peak,Culture,Standard,24317.02
+Udaipur,1,10,Budget Hotel,Flight,Off-season,Adventure,Premium,32233.25
+Agra,1,2,4-Star Hotel,Flight,Off-season,Sightseeing,Standard,11285.2
+Udaipur,3,4,Hostel,Bus,Off-season,Adventure,Budget,15739.63
+Goa,3,10,Hostel,Train,Off-season,Relaxation,Premium,70953.42
+Shimla,3,5,3-Star Hotel,Train,Regular,Adventure,Premium,53387.65
+Jaipur,5,7,4-Star Hotel,Bus,Off-season,Culture,Premium,81125.68
+Varanasi,2,3,3-Star Hotel,Bus,Off-season,Relaxation,Budget,9590.35
+Manali,3,5,4-Star Hotel,Car,Regular,Adventure,Standard,52930.97
+Jaipur,2,2,Budget Hotel,Car,Off-season,Sightseeing,Premium,10418.75
+Rishikesh,2,8,Budget Hotel,Flight,Regular,Culture,Standard,35221.97
+Jaipur,4,5,Hostel,Car,Peak,Sightseeing,Premium,57802.46
+Udaipur,4,3,Hostel,Flight,Regular,Relaxation,Budget,29270.02
+Goa,5,2,Budget Hotel,Train,Off-season,Culture,Budget,16018.93
+Jaipur,5,4,3-Star Hotel,Bus,Off-season,Relaxation,Standard,33277.34
+Shimla,2,5,Budget Hotel,Flight,Regular,Culture,Standard,29294.57
+Goa,2,7,Hostel,Train,Off-season,Adventure,Budget,22880.12
+Rishikesh,5,3,Budget Hotel,Bus,Regular,Relaxation,Standard,24198.53
+Goa,1,10,Hostel,Bus,Off-season,Relaxation,Premium,28996.35
+Goa,4,3,4-Star Hotel,Train,Peak,Culture,Standard,46309.97
+Udaipur,5,4,3-Star Hotel,Train,Regular,Adventure,Budget,39418.59
+Varanasi,1,6,4-Star Hotel,Train,Regular,Relaxation,Standard,26005.34
+Agra,4,2,3-Star Hotel,Bus,Peak,Sightseeing,Standard,17780.75
+Manali,5,7,Budget Hotel,Flight,Peak,Culture,Premium,130201.14
+Shimla,2,7,3-Star Hotel,Train,Off-season,Relaxation,Standard,34258.15
+Shimla,4,4,4-Star Hotel,Flight,Regular,Adventure,Budget,53226.37
+Jaipur,4,9,Hostel,Flight,Regular,Adventure,Premium,96526.39
+Shimla,5,7,Budget Hotel,Flight,Regular,Relaxation,Premium,107760.96
+Udaipur,2,4,3-Star Hotel,Bus,Peak,Relaxation,Premium,32854.48
+Jaipur,1,9,4-Star Hotel,Train,Off-season,Relaxation,Budget,35907.47
+Shimla,4,6,3-Star Hotel,Train,Regular,Culture,Budget,44075.61
+Rishikesh,2,10,4-Star Hotel,Car,Peak,Relaxation,Standard,80763.16
+Goa,1,7,4-Star Hotel,Train,Off-season,Culture,Standard,37387.67
+Agra,1,10,Hostel,Train,Off-season,Adventure,Standard,17712.27
+Varanasi,5,4,4-Star Hotel,Bus,Off-season,Adventure,Standard,35321.36
+Goa,3,2,3-Star Hotel,Car,Regular,Sightseeing,Standard,19988.59
+Manali,4,7,4-Star Hotel,Train,Off-season,Adventure,Budget,59159.42
+Goa,5,7,Budget Hotel,Bus,Off-season,Culture,Budget,42893.0
+Shimla,2,8,Hostel,Train,Regular,Culture,Premium,41327.53
+Rishikesh,2,8,Budget Hotel,Bus,Regular,Adventure,Premium,42350.52
+Goa,4,2,Hostel,Flight,Off-season,Relaxation,Standard,28255.6
+Udaipur,4,8,4-Star Hotel,Car,Off-season,Adventure,Budget,69660.45
+Jaipur,3,8,4-Star Hotel,Car,Off-season,Adventure,Premium,73277.22
+Udaipur,4,7,4-Star Hotel,Car,Peak,Adventure,Premium,127112.58
+Udaipur,1,2,Budget Hotel,Train,Peak,Adventure,Standard,8689.76
+Shimla,2,5,Budget Hotel,Flight,Peak,Adventure,Premium,50303.5
+Manali,3,10,Hostel,Flight,Off-season,Culture,Budget,42044.95
+Agra,2,4,Hostel,Car,Regular,Culture,Premium,19877.69
+Jaipur,5,8,3-Star Hotel,Bus,Peak,Sightseeing,Budget,65500.95
+Varanasi,4,2,Budget Hotel,Bus,Off-season,Sightseeing,Premium,14497.19
+Rishikesh,3,5,Budget Hotel,Train,Peak,Sightseeing,Standard,28613.13
+Manali,2,4,Hostel,Train,Regular,Culture,Standard,16936.51
+Goa,2,3,Hostel,Car,Off-season,Culture,Premium,17371.29
+Udaipur,3,5,Hostel,Bus,Regular,Adventure,Premium,41484.58
+Shimla,1,8,3-Star Hotel,Bus,Peak,Relaxation,Budget,35848.97
+Agra,2,2,3-Star Hotel,Bus,Peak,Adventure,Standard,12129.82
+Rishikesh,5,6,Hostel,Bus,Regular,Relaxation,Standard,42202.45
+Manali,5,10,4-Star Hotel,Bus,Peak,Sightseeing,Standard,139966.75
+Udaipur,1,5,Hostel,Flight,Regular,Sightseeing,Standard,14104.91
+Goa,3,9,Budget Hotel,Train,Peak,Adventure,Budget,67741.6
+Manali,2,9,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,54900.17
+Manali,2,9,Budget Hotel,Car,Peak,Adventure,Budget,48219.82
+Udaipur,1,7,3-Star Hotel,Car,Regular,Sightseeing,Budget,26512.58
+Varanasi,1,3,4-Star Hotel,Bus,Peak,Culture,Standard,16904.86
+Rishikesh,4,2,Hostel,Bus,Off-season,Culture,Premium,15622.6
+Shimla,1,9,Budget Hotel,Car,Off-season,Adventure,Premium,31118.3
+Varanasi,4,2,3-Star Hotel,Car,Off-season,Adventure,Standard,15116.2
+Shimla,5,3,4-Star Hotel,Bus,Peak,Sightseeing,Budget,37695.46
+Agra,1,2,3-Star Hotel,Car,Peak,Relaxation,Budget,9494.38
+Varanasi,4,9,Hostel,Train,Peak,Adventure,Premium,91454.78
+Udaipur,5,7,3-Star Hotel,Train,Peak,Culture,Budget,69049.96
+Shimla,5,10,Budget Hotel,Train,Peak,Adventure,Budget,105612.68
+Jaipur,4,6,3-Star Hotel,Bus,Off-season,Relaxation,Budget,32716.63
+Rishikesh,1,3,Budget Hotel,Car,Peak,Culture,Standard,10132.26
+Shimla,4,6,Hostel,Flight,Regular,Adventure,Budget,53011.42
+Udaipur,4,3,Budget Hotel,Train,Off-season,Sightseeing,Premium,25258.31
+Rishikesh,2,4,3-Star Hotel,Bus,Regular,Culture,Standard,18006.78
+Rishikesh,5,4,Hostel,Car,Off-season,Relaxation,Premium,40423.74
+Udaipur,5,5,Budget Hotel,Train,Peak,Relaxation,Standard,55613.6
+Rishikesh,3,5,Budget Hotel,Flight,Off-season,Sightseeing,Standard,27189.96
+Manali,3,7,3-Star Hotel,Flight,Regular,Sightseeing,Standard,56894.85
+Agra,4,8,Hostel,Train,Peak,Culture,Standard,53782.66
+Varanasi,4,3,4-Star Hotel,Train,Off-season,Adventure,Standard,23103.98
+Goa,2,8,4-Star Hotel,Flight,Off-season,Culture,Budget,54404.02
+Goa,2,3,Budget Hotel,Flight,Regular,Culture,Budget,18703.37
+Shimla,4,3,3-Star Hotel,Bus,Regular,Relaxation,Budget,22781.92
+Manali,2,9,4-Star Hotel,Bus,Off-season,Culture,Standard,56406.72
+Manali,2,9,Hostel,Bus,Peak,Culture,Premium,58669.69
+Rishikesh,5,8,3-Star Hotel,Car,Regular,Culture,Budget,58011.99
+Rishikesh,3,6,Hostel,Flight,Regular,Sightseeing,Budget,28663.88
+Rishikesh,3,2,3-Star Hotel,Train,Peak,Adventure,Standard,17449.42
+Jaipur,1,7,3-Star Hotel,Car,Peak,Sightseeing,Standard,32451.0
+Varanasi,3,10,Budget Hotel,Car,Off-season,Adventure,Premium,58948.8
+Rishikesh,3,5,Hostel,Car,Off-season,Adventure,Standard,25200.62
+Agra,5,7,Budget Hotel,Bus,Peak,Relaxation,Budget,48882.04
+Shimla,5,7,Hostel,Bus,Regular,Sightseeing,Premium,80312.13
+Udaipur,1,7,Budget Hotel,Train,Off-season,Culture,Standard,16224.9
+Varanasi,1,2,Budget Hotel,Car,Peak,Culture,Premium,8621.9
+Jaipur,1,2,3-Star Hotel,Train,Off-season,Relaxation,Standard,5516.66
+Rishikesh,3,2,3-Star Hotel,Car,Off-season,Sightseeing,Premium,14768.61
+Jaipur,1,5,Hostel,Train,Peak,Culture,Premium,15472.41
+Shimla,5,9,4-Star Hotel,Bus,Regular,Adventure,Budget,103287.99
+Udaipur,5,3,Hostel,Car,Regular,Adventure,Budget,28809.54
+Shimla,4,5,Hostel,Flight,Off-season,Relaxation,Premium,54886.39
+Goa,5,8,Hostel,Car,Off-season,Sightseeing,Budget,47560.89
+Agra,5,7,Budget Hotel,Flight,Regular,Culture,Premium,79832.3
+Udaipur,4,10,3-Star Hotel,Train,Regular,Sightseeing,Standard,78092.12
+Varanasi,5,9,Budget Hotel,Car,Peak,Adventure,Standard,92051.09
+Shimla,5,2,3-Star Hotel,Bus,Regular,Relaxation,Standard,23360.73
+Udaipur,2,6,4-Star Hotel,Bus,Peak,Sightseeing,Premium,62883.1
+Jaipur,1,4,3-Star Hotel,Car,Peak,Sightseeing,Premium,24077.83
+Agra,2,9,3-Star Hotel,Flight,Peak,Culture,Budget,48721.38
+Shimla,1,5,4-Star Hotel,Bus,Peak,Culture,Standard,36472.79
+Rishikesh,3,8,4-Star Hotel,Flight,Off-season,Culture,Standard,56792.82
+Goa,3,3,4-Star Hotel,Flight,Peak,Culture,Budget,46718.68
+Jaipur,4,8,Hostel,Flight,Off-season,Relaxation,Budget,41244.12
+Goa,4,9,3-Star Hotel,Bus,Peak,Relaxation,Premium,142668.93
+Varanasi,1,4,Budget Hotel,Train,Peak,Adventure,Budget,10561.85
+Jaipur,3,10,4-Star Hotel,Car,Peak,Relaxation,Budget,88926.71
+Varanasi,2,8,Hostel,Car,Peak,Sightseeing,Standard,28365.44
+Shimla,3,2,Budget Hotel,Flight,Peak,Adventure,Premium,36464.56
+Varanasi,2,2,Budget Hotel,Flight,Peak,Sightseeing,Premium,17509.13
+Goa,2,7,Budget Hotel,Flight,Peak,Sightseeing,Budget,41569.22
+Udaipur,4,2,Budget Hotel,Train,Off-season,Sightseeing,Budget,11151.98
+Goa,4,5,Budget Hotel,Car,Peak,Relaxation,Standard,60241.97
+Shimla,5,9,3-Star Hotel,Car,Regular,Relaxation,Premium,130876.59
+Shimla,2,2,4-Star Hotel,Bus,Regular,Adventure,Budget,15821.34
+Udaipur,2,10,Budget Hotel,Car,Peak,Relaxation,Budget,47010.37
+Jaipur,1,8,Hostel,Train,Peak,Culture,Budget,16489.77
+Varanasi,4,9,4-Star Hotel,Flight,Peak,Relaxation,Standard,99392.28
+Goa,1,7,Hostel,Bus,Off-season,Relaxation,Premium,20241.09
+Agra,5,5,3-Star Hotel,Flight,Regular,Culture,Standard,53720.58
+Udaipur,2,8,3-Star Hotel,Flight,Regular,Culture,Standard,48782.59
+Shimla,5,6,Budget Hotel,Flight,Off-season,Adventure,Premium,86897.67
+Udaipur,4,9,3-Star Hotel,Car,Peak,Adventure,Standard,110489.7
+Rishikesh,3,8,Budget Hotel,Bus,Regular,Adventure,Standard,43993.18
+Rishikesh,3,3,Hostel,Car,Off-season,Adventure,Standard,15424.27
+Udaipur,2,8,Budget Hotel,Bus,Regular,Culture,Premium,45055.02
+Shimla,2,2,Budget Hotel,Train,Regular,Culture,Standard,8262.2
+Varanasi,2,5,4-Star Hotel,Car,Regular,Sightseeing,Budget,24540.81
+Agra,1,10,3-Star Hotel,Train,Regular,Sightseeing,Standard,29995.24
+Varanasi,4,10,3-Star Hotel,Bus,Off-season,Relaxation,Premium,71687.21
+Manali,4,9,4-Star Hotel,Bus,Off-season,Adventure,Budget,76474.71
+Udaipur,3,7,Budget Hotel,Car,Regular,Relaxation,Budget,35635.96
+Goa,3,4,3-Star Hotel,Car,Peak,Relaxation,Premium,55626.21
+Rishikesh,4,7,Hostel,Car,Off-season,Sightseeing,Budget,26417.66
+Agra,1,6,Budget Hotel,Bus,Off-season,Sightseeing,Budget,10587.4
+Rishikesh,2,4,Hostel,Bus,Peak,Relaxation,Budget,13863.65
+Rishikesh,2,2,3-Star Hotel,Flight,Peak,Adventure,Standard,20545.66
+Rishikesh,1,10,3-Star Hotel,Bus,Peak,Relaxation,Budget,36947.67
+Goa,4,8,3-Star Hotel,Car,Peak,Culture,Budget,76682.16
+Jaipur,2,9,Budget Hotel,Flight,Regular,Relaxation,Budget,34092.31
+Udaipur,2,9,4-Star Hotel,Bus,Peak,Relaxation,Standard,80166.41
+Jaipur,4,10,3-Star Hotel,Car,Off-season,Relaxation,Budget,57449.63
+Agra,3,7,3-Star Hotel,Car,Off-season,Culture,Budget,28459.96
+Varanasi,3,6,4-Star Hotel,Flight,Peak,Sightseeing,Budget,50487.47
+Jaipur,3,3,4-Star Hotel,Car,Off-season,Adventure,Standard,26227.27
+Udaipur,1,10,3-Star Hotel,Flight,Peak,Sightseeing,Budget,45065.38
+Shimla,2,6,3-Star Hotel,Train,Off-season,Sightseeing,Budget,22869.48
+Agra,2,8,3-Star Hotel,Train,Regular,Relaxation,Premium,45790.05
+Shimla,3,4,Budget Hotel,Bus,Peak,Relaxation,Budget,24678.87
+Agra,5,5,3-Star Hotel,Car,Regular,Relaxation,Standard,46076.31
+Agra,2,7,4-Star Hotel,Train,Off-season,Culture,Standard,34746.94
+Manali,5,2,Budget Hotel,Bus,Peak,Adventure,Budget,23750.53
+Varanasi,2,4,Hostel,Train,Off-season,Relaxation,Premium,13794.47
+Jaipur,2,5,Budget Hotel,Train,Regular,Culture,Premium,25244.83
+Udaipur,4,3,Budget Hotel,Car,Peak,Sightseeing,Premium,42745.06
+Goa,5,6,4-Star Hotel,Train,Off-season,Sightseeing,Standard,64792.7
+Goa,4,5,3-Star Hotel,Flight,Regular,Culture,Premium,78200.24
+Rishikesh,4,2,3-Star Hotel,Train,Peak,Relaxation,Standard,19329.59
+Udaipur,1,5,Budget Hotel,Flight,Peak,Relaxation,Standard,22834.12
+Varanasi,3,6,Hostel,Flight,Peak,Adventure,Premium,57171.87
+Agra,5,9,Hostel,Bus,Regular,Culture,Standard,57463.42
+Manali,5,2,Budget Hotel,Flight,Peak,Relaxation,Premium,56262.42
+Agra,3,9,3-Star Hotel,Bus,Off-season,Relaxation,Budget,36616.6
+Udaipur,4,3,Budget Hotel,Flight,Peak,Culture,Premium,54794.88
+Jaipur,4,3,Hostel,Flight,Peak,Relaxation,Budget,34769.97
+Jaipur,2,3,Budget Hotel,Bus,Regular,Sightseeing,Standard,11328.91
+Varanasi,1,4,Budget Hotel,Flight,Peak,Adventure,Premium,19462.83
+Shimla,4,9,Budget Hotel,Train,Regular,Relaxation,Budget,53685.58
+Shimla,3,6,3-Star Hotel,Train,Off-season,Adventure,Budget,34411.16
+Jaipur,2,2,Hostel,Car,Peak,Relaxation,Budget,10629.42
+Varanasi,1,9,3-Star Hotel,Bus,Regular,Sightseeing,Premium,31134.1
+Varanasi,5,4,Budget Hotel,Train,Off-season,Relaxation,Standard,26823.87
+Goa,3,3,4-Star Hotel,Train,Off-season,Sightseeing,Budget,22728.23
+Manali,1,9,Budget Hotel,Bus,Off-season,Sightseeing,Budget,17846.93
+Udaipur,1,9,3-Star Hotel,Car,Regular,Relaxation,Budget,33250.45
+Jaipur,5,2,Hostel,Bus,Regular,Culture,Budget,13321.89
+Agra,1,8,Hostel,Train,Off-season,Relaxation,Standard,11807.47
+Manali,1,10,Hostel,Bus,Regular,Sightseeing,Standard,20193.9
+Manali,3,6,Hostel,Car,Regular,Adventure,Budget,34512.49
+Agra,5,10,Budget Hotel,Flight,Peak,Culture,Standard,102544.82
+Manali,4,2,Hostel,Bus,Regular,Relaxation,Standard,15770.51
+Rishikesh,1,8,Hostel,Train,Peak,Culture,Standard,18772.61
+Udaipur,2,2,3-Star Hotel,Bus,Peak,Adventure,Budget,13379.44
+Jaipur,2,4,Hostel,Car,Regular,Relaxation,Budget,12994.06
+Varanasi,2,7,Hostel,Car,Off-season,Sightseeing,Budget,13290.59
+Goa,2,10,Budget Hotel,Train,Off-season,Relaxation,Budget,34059.34
+Shimla,4,3,Hostel,Bus,Regular,Culture,Budget,18230.6
+Rishikesh,2,8,Budget Hotel,Car,Regular,Culture,Standard,31101.64
+Udaipur,2,8,4-Star Hotel,Flight,Peak,Relaxation,Premium,92440.44
+Varanasi,3,6,4-Star Hotel,Train,Regular,Sightseeing,Budget,33977.25
+Goa,1,7,Budget Hotel,Bus,Peak,Sightseeing,Premium,32229.74
+Jaipur,4,7,Budget Hotel,Car,Peak,Relaxation,Standard,62405.46
+Manali,3,5,3-Star Hotel,Car,Peak,Adventure,Standard,54045.62
+Shimla,3,5,Hostel,Train,Peak,Culture,Premium,49398.29
+Varanasi,2,9,Hostel,Train,Off-season,Relaxation,Standard,22601.54
+Udaipur,1,4,Hostel,Bus,Peak,Sightseeing,Premium,13255.04
+Shimla,5,3,Hostel,Car,Peak,Sightseeing,Budget,30408.01
+Shimla,4,3,Hostel,Bus,Regular,Adventure,Premium,33537.65
+Varanasi,2,7,Hostel,Flight,Regular,Adventure,Standard,28545.06
+Goa,1,4,4-Star Hotel,Bus,Peak,Adventure,Standard,33515.72
+Jaipur,2,5,3-Star Hotel,Flight,Off-season,Adventure,Premium,34024.12
+Varanasi,2,8,Budget Hotel,Bus,Off-season,Culture,Standard,20651.74
+Agra,2,7,Budget Hotel,Train,Regular,Relaxation,Budget,20704.55
+Agra,1,4,3-Star Hotel,Car,Off-season,Relaxation,Standard,13619.98
+Rishikesh,5,9,Budget Hotel,Train,Peak,Relaxation,Standard,83989.34
+Rishikesh,5,8,Hostel,Train,Off-season,Culture,Standard,47981.33
+Rishikesh,3,2,4-Star Hotel,Car,Regular,Sightseeing,Budget,15545.29
+Jaipur,4,10,3-Star Hotel,Bus,Off-season,Adventure,Premium,94568.62
+Jaipur,3,5,Hostel,Train,Peak,Sightseeing,Budget,23427.46
+Goa,5,2,3-Star Hotel,Flight,Peak,Relaxation,Standard,55276.07
+Udaipur,4,2,Hostel,Bus,Peak,Adventure,Budget,16968.9
+Udaipur,1,9,Budget Hotel,Train,Peak,Sightseeing,Budget,25184.84
+Jaipur,4,7,4-Star Hotel,Bus,Regular,Sightseeing,Budget,50752.07
+Manali,4,7,Budget Hotel,Bus,Peak,Culture,Budget,50909.27
+Rishikesh,3,2,3-Star Hotel,Flight,Off-season,Relaxation,Standard,16873.82
+Jaipur,2,5,4-Star Hotel,Car,Regular,Sightseeing,Premium,39802.17
+Agra,5,10,4-Star Hotel,Car,Peak,Relaxation,Premium,159289.48
+Manali,4,4,Budget Hotel,Flight,Peak,Relaxation,Standard,54438.02
+Shimla,4,3,4-Star Hotel,Bus,Regular,Relaxation,Standard,32479.21
+Shimla,1,5,Hostel,Bus,Peak,Adventure,Premium,19780.22
+Shimla,5,3,Budget Hotel,Bus,Peak,Sightseeing,Premium,47205.99
+Manali,5,6,Hostel,Car,Regular,Adventure,Premium,88232.84
+Varanasi,2,2,Hostel,Bus,Regular,Culture,Premium,6778.12
+Goa,2,5,4-Star Hotel,Bus,Peak,Culture,Standard,49582.42
+Goa,5,5,Budget Hotel,Car,Regular,Relaxation,Premium,77714.23
+Agra,3,9,Budget Hotel,Train,Off-season,Culture,Premium,48441.43
+Manali,5,7,Budget Hotel,Flight,Regular,Adventure,Budget,76841.96
+Rishikesh,5,8,3-Star Hotel,Car,Regular,Culture,Premium,94019.85
+Manali,5,6,Budget Hotel,Flight,Regular,Relaxation,Budget,59344.01
+Rishikesh,3,5,Hostel,Flight,Regular,Relaxation,Standard,31563.78
+Varanasi,5,5,Budget Hotel,Car,Off-season,Relaxation,Premium,43781.99
+Jaipur,3,9,Budget Hotel,Bus,Regular,Sightseeing,Premium,60284.55
+Goa,4,3,Budget Hotel,Flight,Peak,Relaxation,Budget,44537.18
+Udaipur,3,8,Budget Hotel,Flight,Off-season,Relaxation,Standard,48685.04
+Goa,1,9,Budget Hotel,Car,Peak,Culture,Budget,31009.23
+Jaipur,3,3,4-Star Hotel,Bus,Peak,Adventure,Budget,29259.26
+Varanasi,1,8,Hostel,Train,Off-season,Adventure,Standard,13007.83
+Rishikesh,5,3,Hostel,Bus,Regular,Culture,Premium,32099.12
+Manali,1,8,Hostel,Bus,Regular,Sightseeing,Budget,15493.34
+Manali,3,2,Budget Hotel,Bus,Regular,Sightseeing,Budget,9884.89
+Agra,5,3,Budget Hotel,Train,Peak,Culture,Standard,29197.97
+Goa,1,5,Hostel,Bus,Peak,Culture,Premium,20333.05
+Udaipur,5,2,Budget Hotel,Car,Peak,Adventure,Budget,28392.73
+Jaipur,5,5,Hostel,Train,Regular,Relaxation,Budget,30398.6
+Goa,4,5,3-Star Hotel,Bus,Peak,Culture,Standard,58252.16
+Shimla,4,6,4-Star Hotel,Train,Peak,Sightseeing,Standard,76723.31
+Udaipur,1,3,4-Star Hotel,Flight,Peak,Relaxation,Budget,23140.19
+Agra,1,4,Hostel,Train,Peak,Adventure,Premium,13120.7
+Varanasi,5,8,Budget Hotel,Train,Off-season,Adventure,Premium,69915.22
+Manali,5,4,4-Star Hotel,Car,Regular,Sightseeing,Premium,68745.99
+Goa,3,9,3-Star Hotel,Car,Off-season,Sightseeing,Standard,60481.98
+Shimla,4,10,4-Star Hotel,Flight,Regular,Sightseeing,Standard,112865.02
+Agra,2,5,Hostel,Bus,Off-season,Relaxation,Premium,19810.94
+Rishikesh,5,9,3-Star Hotel,Train,Peak,Sightseeing,Standard,89600.36
+Manali,1,7,3-Star Hotel,Flight,Peak,Relaxation,Budget,36703.24
+Goa,2,9,Budget Hotel,Flight,Off-season,Culture,Standard,42221.56
+Goa,2,6,Hostel,Flight,Off-season,Culture,Standard,25837.86
+Jaipur,2,7,3-Star Hotel,Car,Peak,Sightseeing,Budget,36895.97
+Varanasi,2,2,Hostel,Flight,Off-season,Relaxation,Premium,10738.18
+Varanasi,4,3,4-Star Hotel,Car,Peak,Sightseeing,Budget,28599.91
+Jaipur,5,7,Hostel,Bus,Regular,Culture,Premium,74062.91
+Goa,2,2,Hostel,Train,Peak,Sightseeing,Standard,10759.06
+Manali,2,2,Hostel,Train,Peak,Sightseeing,Budget,8613.11
+Jaipur,2,8,Budget Hotel,Bus,Off-season,Adventure,Premium,37487.09
+Agra,5,7,3-Star Hotel,Train,Off-season,Adventure,Budget,45363.4
+Varanasi,1,10,Budget Hotel,Car,Peak,Sightseeing,Budget,23055.19
+Udaipur,1,7,Hostel,Train,Peak,Relaxation,Budget,15525.08
+Varanasi,1,9,Budget Hotel,Train,Peak,Adventure,Budget,22732.56
+Shimla,4,3,Hostel,Bus,Regular,Adventure,Premium,34605.98
+Udaipur,1,3,Hostel,Bus,Regular,Adventure,Standard,6939.79
+Agra,4,6,4-Star Hotel,Train,Peak,Culture,Standard,60159.08
+Shimla,5,7,Budget Hotel,Flight,Peak,Sightseeing,Standard,93696.47
+Goa,5,8,Hostel,Train,Regular,Sightseeing,Standard,67597.92
+Manali,4,8,Budget Hotel,Flight,Peak,Relaxation,Standard,92331.77
+Goa,1,10,3-Star Hotel,Train,Off-season,Culture,Budget,30824.36
+Goa,3,5,3-Star Hotel,Car,Off-season,Culture,Premium,45052.33
+Varanasi,5,4,4-Star Hotel,Flight,Regular,Relaxation,Budget,42663.49
+Manali,5,4,3-Star Hotel,Train,Off-season,Relaxation,Budget,30243.22
+Shimla,1,3,Hostel,Car,Off-season,Culture,Premium,9513.93
+Goa,3,6,Budget Hotel,Bus,Peak,Adventure,Budget,47721.29
+Jaipur,1,9,3-Star Hotel,Flight,Off-season,Adventure,Standard,32000.38
+Manali,2,2,3-Star Hotel,Train,Peak,Adventure,Budget,14352.1
+Agra,3,7,Hostel,Bus,Peak,Relaxation,Standard,38591.51
+Rishikesh,4,9,3-Star Hotel,Car,Peak,Culture,Budget,66183.45
+Jaipur,5,8,Budget Hotel,Flight,Off-season,Adventure,Budget,62775.04
+Manali,3,3,3-Star Hotel,Train,Off-season,Culture,Premium,24060.3
+Udaipur,2,2,Hostel,Car,Off-season,Sightseeing,Budget,6884.07
+Jaipur,4,8,3-Star Hotel,Train,Regular,Culture,Premium,79335.73
+Goa,4,10,4-Star Hotel,Car,Regular,Sightseeing,Standard,113034.47
+Goa,2,3,Budget Hotel,Train,Off-season,Culture,Premium,15378.63
+Varanasi,5,6,3-Star Hotel,Train,Peak,Relaxation,Premium,80149.44
+Varanasi,4,6,Hostel,Flight,Regular,Sightseeing,Budget,32513.37
+Udaipur,5,10,Hostel,Car,Off-season,Adventure,Standard,83095.78
+Manali,3,7,3-Star Hotel,Train,Regular,Sightseeing,Premium,62103.87
+Agra,5,9,Budget Hotel,Bus,Regular,Sightseeing,Premium,85750.0
+Rishikesh,1,10,3-Star Hotel,Train,Regular,Relaxation,Budget,31318.17
+Goa,3,3,Hostel,Train,Off-season,Culture,Standard,15747.8
+Agra,3,10,4-Star Hotel,Car,Off-season,Adventure,Standard,68207.55
+Goa,3,6,4-Star Hotel,Train,Regular,Adventure,Budget,55597.42
+Rishikesh,5,4,Hostel,Bus,Off-season,Culture,Premium,34444.63
+Manali,3,9,Budget Hotel,Car,Peak,Culture,Premium,94092.96
+Goa,2,5,4-Star Hotel,Train,Regular,Sightseeing,Standard,39839.27
+Goa,2,4,Hostel,Train,Regular,Adventure,Budget,16743.31
+Manali,4,9,3-Star Hotel,Car,Peak,Culture,Standard,100107.57
+Rishikesh,5,7,3-Star Hotel,Bus,Peak,Sightseeing,Budget,53856.73
+Rishikesh,2,2,Budget Hotel,Train,Regular,Sightseeing,Standard,7882.92
+Varanasi,1,6,Budget Hotel,Bus,Off-season,Adventure,Standard,10347.74
+Manali,1,8,Hostel,Car,Off-season,Adventure,Budget,15604.07
+Rishikesh,2,9,4-Star Hotel,Train,Off-season,Adventure,Premium,60342.1
+Varanasi,3,10,4-Star Hotel,Bus,Off-season,Adventure,Standard,60687.86
+Udaipur,2,6,4-Star Hotel,Train,Regular,Sightseeing,Premium,51076.02
+Goa,5,6,Hostel,Train,Regular,Sightseeing,Standard,51258.87
+Manali,1,6,3-Star Hotel,Car,Regular,Relaxation,Standard,23435.31
+Agra,3,7,Budget Hotel,Car,Regular,Sightseeing,Standard,33727.72
+Agra,4,8,Hostel,Car,Regular,Sightseeing,Standard,43217.74
+Jaipur,1,8,Budget Hotel,Flight,Regular,Relaxation,Budget,19843.23
+Jaipur,5,3,Hostel,Car,Regular,Culture,Premium,36873.65
+Varanasi,2,6,Budget Hotel,Bus,Regular,Adventure,Standard,22424.88
+Manali,1,10,Budget Hotel,Flight,Peak,Relaxation,Standard,41204.85
+Shimla,1,5,4-Star Hotel,Flight,Off-season,Culture,Budget,25650.94
+Udaipur,3,3,Budget Hotel,Car,Off-season,Relaxation,Standard,16786.69
+Manali,2,6,Budget Hotel,Flight,Regular,Relaxation,Premium,43241.23
+Shimla,4,9,Budget Hotel,Car,Regular,Culture,Budget,53191.1
+Manali,1,4,4-Star Hotel,Car,Regular,Culture,Standard,24112.45
+Goa,2,7,4-Star Hotel,Train,Off-season,Adventure,Budget,46036.43
+Varanasi,1,8,3-Star Hotel,Flight,Peak,Culture,Premium,40000.97
+Goa,1,5,4-Star Hotel,Car,Off-season,Culture,Budget,26830.0
+Rishikesh,3,8,Budget Hotel,Flight,Peak,Relaxation,Standard,59775.93
+Goa,1,4,Hostel,Bus,Regular,Relaxation,Budget,10143.97
+Jaipur,2,2,Budget Hotel,Bus,Off-season,Relaxation,Premium,10072.81
+Rishikesh,4,2,Budget Hotel,Car,Regular,Adventure,Standard,19087.36
+Udaipur,2,5,3-Star Hotel,Car,Peak,Adventure,Standard,41328.89
+Jaipur,5,4,Budget Hotel,Bus,Regular,Relaxation,Budget,26721.22
+Varanasi,3,5,4-Star Hotel,Bus,Off-season,Relaxation,Standard,28006.47
+Udaipur,4,4,3-Star Hotel,Flight,Peak,Relaxation,Standard,57624.37
+Rishikesh,5,2,Budget Hotel,Car,Regular,Adventure,Budget,19072.81
+Jaipur,3,2,Hostel,Bus,Off-season,Relaxation,Premium,14045.42
+Agra,4,8,Budget Hotel,Flight,Regular,Relaxation,Standard,56655.14
+Manali,5,9,3-Star Hotel,Train,Peak,Adventure,Premium,172037.37
+Udaipur,3,7,Budget Hotel,Train,Peak,Sightseeing,Standard,48759.39
+Manali,1,7,4-Star Hotel,Car,Peak,Relaxation,Standard,52922.1
+Udaipur,3,5,3-Star Hotel,Car,Peak,Sightseeing,Premium,58153.24
+Agra,3,10,Hostel,Train,Off-season,Adventure,Budget,32945.53
+Manali,5,7,3-Star Hotel,Flight,Off-season,Adventure,Premium,105367.6
+Udaipur,5,7,Hostel,Car,Peak,Sightseeing,Premium,104999.07
+Shimla,3,6,Budget Hotel,Train,Peak,Relaxation,Standard,48158.66
+Varanasi,5,8,4-Star Hotel,Train,Peak,Relaxation,Premium,117031.88
+Shimla,2,3,4-Star Hotel,Flight,Regular,Culture,Premium,33948.32
+Rishikesh,5,6,Hostel,Car,Regular,Adventure,Budget,42304.09
+Jaipur,4,7,Budget Hotel,Flight,Regular,Adventure,Budget,54262.14
+Udaipur,5,3,4-Star Hotel,Bus,Regular,Sightseeing,Standard,36145.06
+Shimla,4,4,3-Star Hotel,Car,Peak,Relaxation,Standard,50113.01
+Goa,5,3,4-Star Hotel,Car,Off-season,Culture,Premium,49277.96
+Manali,3,4,3-Star Hotel,Car,Peak,Sightseeing,Premium,50353.98
+Varanasi,5,2,4-Star Hotel,Train,Regular,Sightseeing,Standard,19186.02
+Agra,4,10,4-Star Hotel,Bus,Off-season,Sightseeing,Budget,54887.62
+Shimla,3,5,Hostel,Flight,Peak,Relaxation,Premium,62633.81
+Agra,3,7,Budget Hotel,Car,Peak,Sightseeing,Premium,56647.37
+Manali,1,2,3-Star Hotel,Flight,Regular,Relaxation,Premium,13519.7
+Agra,3,2,3-Star Hotel,Car,Off-season,Relaxation,Premium,17229.54
+Udaipur,3,2,4-Star Hotel,Bus,Peak,Culture,Standard,23249.71
+Manali,5,5,3-Star Hotel,Car,Peak,Culture,Premium,94454.89
+Agra,1,4,Hostel,Bus,Regular,Adventure,Standard,7251.63
+Varanasi,2,3,4-Star Hotel,Flight,Off-season,Culture,Budget,19026.82
+Agra,5,8,3-Star Hotel,Bus,Regular,Sightseeing,Budget,46913.68
+Jaipur,3,2,Hostel,Flight,Regular,Sightseeing,Budget,17241.01
+Manali,2,4,4-Star Hotel,Flight,Peak,Sightseeing,Standard,44870.23
+Rishikesh,3,5,4-Star Hotel,Train,Peak,Adventure,Budget,45102.84
+Manali,5,3,Hostel,Bus,Regular,Adventure,Premium,43380.71
+Goa,1,4,Budget Hotel,Train,Off-season,Relaxation,Budget,8836.91
+Rishikesh,3,10,Hostel,Train,Peak,Relaxation,Premium,78051.84
+Manali,4,4,Hostel,Car,Regular,Relaxation,Budget,26753.99
+Jaipur,3,10,Budget Hotel,Flight,Regular,Relaxation,Budget,51396.6
+Goa,2,9,4-Star Hotel,Flight,Peak,Adventure,Premium,123920.28
+Varanasi,2,4,3-Star Hotel,Car,Peak,Sightseeing,Premium,27240.14
+Varanasi,3,9,Budget Hotel,Train,Regular,Culture,Standard,38463.92
+Varanasi,2,5,Hostel,Car,Off-season,Culture,Standard,12140.09
+Shimla,5,7,4-Star Hotel,Bus,Regular,Relaxation,Budget,69669.32
+Shimla,5,7,Budget Hotel,Train,Off-season,Relaxation,Standard,55899.39
+Rishikesh,4,8,4-Star Hotel,Bus,Peak,Culture,Standard,83944.26
+Shimla,3,8,3-Star Hotel,Flight,Peak,Culture,Standard,80231.72
+Goa,2,10,4-Star Hotel,Car,Regular,Culture,Budget,74447.44
+Jaipur,5,6,4-Star Hotel,Train,Peak,Relaxation,Budget,69134.52
+Rishikesh,5,3,4-Star Hotel,Train,Regular,Adventure,Standard,35225.95
+Manali,3,4,Budget Hotel,Train,Peak,Culture,Budget,26261.41
+Shimla,2,8,3-Star Hotel,Bus,Regular,Adventure,Premium,62364.91
+Shimla,2,8,3-Star Hotel,Flight,Peak,Sightseeing,Standard,62922.57
+Goa,1,10,Hostel,Car,Regular,Sightseeing,Premium,33535.66
+Varanasi,5,10,Hostel,Flight,Peak,Adventure,Premium,139746.48
+Jaipur,1,7,4-Star Hotel,Bus,Regular,Adventure,Standard,36648.9
+Manali,4,3,Hostel,Flight,Regular,Adventure,Premium,48488.04
+Rishikesh,1,8,Hostel,Bus,Regular,Adventure,Standard,16963.41
+Shimla,5,10,Hostel,Train,Off-season,Adventure,Budget,65668.45
+Agra,2,8,Budget Hotel,Train,Off-season,Relaxation,Standard,22545.78
+Jaipur,4,4,Hostel,Bus,Regular,Relaxation,Budget,19213.93
+Agra,4,6,Budget Hotel,Car,Regular,Adventure,Budget,38050.05
+Rishikesh,3,9,Budget Hotel,Flight,Peak,Culture,Budget,53880.59
+Shimla,5,2,Hostel,Car,Regular,Adventure,Standard,28827.41
+Varanasi,1,2,4-Star Hotel,Car,Regular,Culture,Standard,9625.34
+Goa,5,7,3-Star Hotel,Car,Regular,Relaxation,Premium,111642.64
+Agra,5,8,4-Star Hotel,Flight,Off-season,Relaxation,Premium,95586.52
+Jaipur,1,6,Budget Hotel,Bus,Off-season,Adventure,Budget,12579.49
+Agra,2,4,3-Star Hotel,Car,Off-season,Culture,Budget,14742.06
+Shimla,4,3,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,32499.35
+Shimla,3,7,3-Star Hotel,Car,Peak,Relaxation,Standard,67974.82
+Goa,3,8,4-Star Hotel,Flight,Regular,Sightseeing,Budget,75294.8
+Manali,1,3,3-Star Hotel,Train,Peak,Sightseeing,Premium,18425.16
+Varanasi,2,9,3-Star Hotel,Car,Regular,Culture,Standard,35803.93
+Udaipur,2,10,3-Star Hotel,Car,Off-season,Adventure,Standard,52529.71
+Goa,5,6,4-Star Hotel,Bus,Peak,Adventure,Premium,140624.49
+Shimla,2,7,Hostel,Car,Off-season,Relaxation,Budget,19405.1
+Udaipur,2,2,Budget Hotel,Train,Peak,Culture,Premium,16556.99
+Shimla,2,7,Hostel,Car,Peak,Sightseeing,Standard,35464.31
+Rishikesh,4,3,Hostel,Car,Peak,Sightseeing,Budget,20788.17
+Jaipur,5,3,Hostel,Flight,Peak,Adventure,Premium,63928.72
+Shimla,1,9,Hostel,Bus,Regular,Sightseeing,Budget,15976.6
+Agra,1,2,3-Star Hotel,Car,Peak,Culture,Premium,11363.44
+Rishikesh,1,9,Hostel,Car,Regular,Relaxation,Standard,18754.65
+Goa,5,9,4-Star Hotel,Car,Regular,Sightseeing,Budget,96720.07
+Jaipur,1,5,Hostel,Train,Regular,Culture,Budget,10744.45
+Goa,1,10,3-Star Hotel,Train,Off-season,Relaxation,Premium,43303.33
+Udaipur,3,5,Hostel,Train,Off-season,Culture,Budget,16866.62
+Shimla,2,5,3-Star Hotel,Car,Regular,Sightseeing,Premium,36313.75
+Udaipur,3,5,3-Star Hotel,Train,Off-season,Sightseeing,Premium,38153.75
+Agra,5,6,4-Star Hotel,Train,Peak,Sightseeing,Standard,68065.81
+Udaipur,4,9,Hostel,Flight,Regular,Adventure,Budget,68566.32
+Goa,4,6,3-Star Hotel,Train,Regular,Sightseeing,Standard,54147.3
+Goa,3,10,Hostel,Bus,Off-season,Culture,Budget,37770.88
+Manali,2,3,4-Star Hotel,Train,Regular,Relaxation,Premium,27814.05
+Goa,4,10,3-Star Hotel,Car,Regular,Culture,Premium,128417.64
+Rishikesh,5,9,Hostel,Bus,Off-season,Relaxation,Budget,40353.19
+Varanasi,5,6,Budget Hotel,Flight,Off-season,Sightseeing,Premium,57828.05
+Goa,5,10,3-Star Hotel,Car,Off-season,Sightseeing,Budget,74207.38
+Rishikesh,4,10,3-Star Hotel,Train,Regular,Culture,Standard,68711.53
+Agra,4,3,Hostel,Bus,Peak,Adventure,Standard,24817.4
+Rishikesh,1,3,4-Star Hotel,Bus,Off-season,Sightseeing,Budget,10238.24
+Varanasi,4,4,4-Star Hotel,Flight,Peak,Adventure,Standard,57110.67
+Goa,2,6,Hostel,Train,Off-season,Culture,Standard,21448.33
+Manali,3,3,3-Star Hotel,Flight,Regular,Relaxation,Standard,32530.76
+Goa,4,7,3-Star Hotel,Car,Off-season,Sightseeing,Standard,57780.32
+Rishikesh,2,2,Hostel,Bus,Peak,Culture,Standard,9693.27
+Agra,1,8,Hostel,Bus,Off-season,Culture,Standard,12514.66
+Udaipur,5,10,3-Star Hotel,Flight,Off-season,Adventure,Standard,106185.44
+Agra,5,2,3-Star Hotel,Car,Peak,Culture,Budget,22758.97
+Varanasi,3,10,Budget Hotel,Bus,Regular,Sightseeing,Budget,31876.75
+Udaipur,4,2,4-Star Hotel,Flight,Peak,Culture,Budget,39511.56
+Shimla,2,6,Budget Hotel,Car,Regular,Culture,Standard,30069.74
+Udaipur,4,10,Budget Hotel,Train,Regular,Sightseeing,Standard,66964.2
+Agra,2,7,3-Star Hotel,Car,Peak,Relaxation,Budget,34563.22
+Jaipur,3,10,3-Star Hotel,Car,Off-season,Culture,Premium,69929.74
+Udaipur,2,7,Hostel,Bus,Off-season,Relaxation,Premium,30229.96
+Varanasi,2,5,Budget Hotel,Flight,Regular,Relaxation,Standard,22216.01
+Manali,2,10,Budget Hotel,Train,Off-season,Adventure,Standard,42467.54
+Goa,2,4,Hostel,Flight,Regular,Sightseeing,Premium,29675.35
+Rishikesh,1,2,4-Star Hotel,Train,Off-season,Adventure,Budget,6926.21
+Rishikesh,1,10,Budget Hotel,Flight,Peak,Sightseeing,Budget,27046.68
+Varanasi,3,2,3-Star Hotel,Train,Regular,Culture,Standard,11669.05
+Agra,5,6,3-Star Hotel,Car,Off-season,Adventure,Standard,47956.58
+Goa,1,7,3-Star Hotel,Flight,Peak,Culture,Standard,43987.23
+Udaipur,3,8,Budget Hotel,Car,Off-season,Culture,Premium,54923.91
+Manali,4,2,Budget Hotel,Flight,Peak,Relaxation,Standard,39411.19
+Agra,2,3,Hostel,Train,Regular,Relaxation,Budget,7024.55
+Agra,5,3,3-Star Hotel,Flight,Peak,Culture,Standard,45817.41
+Shimla,2,5,Hostel,Bus,Regular,Culture,Budget,16384.97
+Agra,2,4,Budget Hotel,Car,Peak,Sightseeing,Budget,14976.67
+Udaipur,3,6,Hostel,Train,Regular,Adventure,Premium,48992.65
+Rishikesh,4,2,Budget Hotel,Car,Off-season,Adventure,Budget,14283.19
+Agra,4,8,3-Star Hotel,Car,Off-season,Culture,Budget,39663.78
+Manali,2,10,3-Star Hotel,Train,Off-season,Culture,Premium,58534.35
+Manali,1,4,Hostel,Train,Off-season,Sightseeing,Standard,7825.94
+Varanasi,3,10,3-Star Hotel,Bus,Regular,Sightseeing,Premium,65665.79
+Jaipur,1,2,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,7545.19
+Agra,5,5,3-Star Hotel,Flight,Off-season,Culture,Budget,38215.42
+Agra,5,5,4-Star Hotel,Bus,Peak,Adventure,Standard,66821.98
+Agra,1,5,3-Star Hotel,Flight,Regular,Adventure,Standard,19554.21
+Varanasi,5,9,Hostel,Flight,Peak,Sightseeing,Standard,80642.09
+Agra,1,10,3-Star Hotel,Car,Regular,Adventure,Standard,33460.59
+Manali,1,10,Budget Hotel,Car,Regular,Adventure,Premium,40442.88
+Jaipur,3,8,Budget Hotel,Bus,Off-season,Relaxation,Premium,47479.82
+Manali,5,9,Budget Hotel,Car,Regular,Adventure,Standard,98022.51
+Agra,3,4,Hostel,Car,Peak,Relaxation,Premium,32198.59
+Rishikesh,2,2,3-Star Hotel,Bus,Off-season,Relaxation,Standard,7776.02
+Agra,3,6,4-Star Hotel,Flight,Off-season,Adventure,Premium,56060.22
+Varanasi,4,2,3-Star Hotel,Flight,Regular,Adventure,Budget,21356.93
+Shimla,1,2,3-Star Hotel,Flight,Regular,Adventure,Standard,12839.63
+Manali,1,4,3-Star Hotel,Train,Peak,Culture,Premium,24652.7
+Goa,4,9,4-Star Hotel,Train,Off-season,Relaxation,Premium,111413.66
+Rishikesh,2,8,4-Star Hotel,Car,Off-season,Adventure,Budget,42538.46
+Varanasi,4,5,Hostel,Flight,Off-season,Adventure,Standard,35420.71
+Varanasi,4,6,3-Star Hotel,Car,Peak,Adventure,Budget,49208.45
+Rishikesh,3,10,Budget Hotel,Train,Regular,Culture,Standard,47455.72
+Shimla,1,6,3-Star Hotel,Flight,Regular,Adventure,Standard,29405.91
+Agra,2,10,Hostel,Flight,Peak,Culture,Premium,56567.09
+Agra,4,9,3-Star Hotel,Train,Peak,Relaxation,Budget,61174.75
+Goa,1,2,3-Star Hotel,Car,Regular,Adventure,Standard,10576.1
+Agra,2,7,4-Star Hotel,Train,Off-season,Adventure,Budget,33062.62
+Udaipur,5,3,Hostel,Flight,Off-season,Sightseeing,Standard,34492.03
+Varanasi,4,6,4-Star Hotel,Car,Regular,Sightseeing,Standard,48177.95
+Udaipur,1,5,3-Star Hotel,Train,Regular,Adventure,Standard,21547.95
+Udaipur,4,2,Budget Hotel,Train,Off-season,Sightseeing,Budget,11325.07
+Jaipur,3,3,4-Star Hotel,Flight,Peak,Adventure,Standard,45647.13
+Goa,5,5,3-Star Hotel,Bus,Regular,Relaxation,Premium,76093.54
+Goa,4,7,4-Star Hotel,Train,Regular,Adventure,Budget,76471.68
+Jaipur,3,5,3-Star Hotel,Train,Off-season,Sightseeing,Premium,34671.25
+Manali,3,6,Budget Hotel,Train,Off-season,Sightseeing,Standard,29796.24
+Agra,4,7,3-Star Hotel,Flight,Peak,Sightseeing,Premium,89108.64
+Shimla,3,9,Hostel,Car,Off-season,Culture,Premium,59262.6
+Jaipur,1,10,3-Star Hotel,Flight,Peak,Relaxation,Standard,48920.6
+Agra,5,5,Budget Hotel,Bus,Regular,Adventure,Standard,42032.77
+Udaipur,2,2,3-Star Hotel,Train,Off-season,Adventure,Standard,12242.96
+Manali,3,2,Budget Hotel,Train,Peak,Relaxation,Premium,21442.36
+Shimla,5,5,3-Star Hotel,Bus,Peak,Adventure,Premium,95964.68
+Rishikesh,1,8,3-Star Hotel,Flight,Off-season,Culture,Premium,28659.59
+Rishikesh,5,10,4-Star Hotel,Car,Off-season,Adventure,Standard,96947.85
+Varanasi,2,8,3-Star Hotel,Flight,Regular,Relaxation,Budget,33449.61
+Shimla,1,8,4-Star Hotel,Bus,Regular,Relaxation,Standard,48962.53
+Varanasi,5,3,Hostel,Flight,Regular,Sightseeing,Budget,26291.98
+Varanasi,4,8,3-Star Hotel,Train,Regular,Sightseeing,Budget,38666.49
+Udaipur,4,3,Budget Hotel,Train,Peak,Relaxation,Budget,24317.64
+Udaipur,3,4,3-Star Hotel,Car,Off-season,Relaxation,Standard,26542.56
+Goa,4,7,Budget Hotel,Car,Peak,Culture,Standard,74894.55
+Varanasi,4,3,Budget Hotel,Train,Off-season,Culture,Premium,20359.32
+Rishikesh,1,10,Budget Hotel,Bus,Peak,Culture,Budget,24344.61
+Goa,3,5,Budget Hotel,Bus,Peak,Adventure,Standard,46983.25
+Goa,5,9,Budget Hotel,Car,Peak,Adventure,Budget,109393.82
+Udaipur,1,4,Budget Hotel,Bus,Regular,Culture,Budget,9688.25
+Varanasi,2,6,Budget Hotel,Train,Off-season,Sightseeing,Premium,20971.73
+Jaipur,4,9,4-Star Hotel,Car,Regular,Sightseeing,Budget,69563.5
+Goa,4,7,3-Star Hotel,Bus,Peak,Sightseeing,Premium,105376.8
+Udaipur,4,6,4-Star Hotel,Bus,Regular,Sightseeing,Premium,74637.55
+Varanasi,5,2,4-Star Hotel,Bus,Regular,Culture,Premium,25065.26
+Varanasi,5,3,4-Star Hotel,Train,Off-season,Adventure,Standard,27241.15
+Manali,1,4,Hostel,Flight,Peak,Culture,Premium,19313.77
+Manali,4,5,3-Star Hotel,Train,Peak,Sightseeing,Budget,42074.36
+Goa,1,6,Budget Hotel,Bus,Peak,Adventure,Standard,25970.29
+Rishikesh,4,7,3-Star Hotel,Bus,Off-season,Relaxation,Standard,44563.79
+Jaipur,2,5,4-Star Hotel,Bus,Peak,Relaxation,Budget,37584.52
+Shimla,2,3,Budget Hotel,Flight,Regular,Culture,Premium,26182.41
+Varanasi,5,10,Hostel,Flight,Regular,Sightseeing,Standard,69534.82
+Udaipur,4,10,Budget Hotel,Train,Peak,Relaxation,Premium,125891.74
+Agra,3,7,4-Star Hotel,Bus,Peak,Adventure,Standard,67102.93
+Shimla,1,3,4-Star Hotel,Flight,Regular,Sightseeing,Premium,24289.72
+Udaipur,4,4,Hostel,Train,Off-season,Sightseeing,Premium,32562.91
+Shimla,1,4,4-Star Hotel,Bus,Off-season,Adventure,Standard,22029.44
+Shimla,5,3,Hostel,Bus,Off-season,Sightseeing,Standard,21660.38
+Agra,1,5,Hostel,Car,Off-season,Culture,Premium,11402.73
+Rishikesh,2,9,4-Star Hotel,Flight,Regular,Culture,Standard,58930.48
+Agra,3,4,4-Star Hotel,Flight,Peak,Adventure,Standard,49661.16
+Goa,2,8,3-Star Hotel,Flight,Off-season,Adventure,Budget,45201.09
+Rishikesh,3,9,Hostel,Bus,Peak,Culture,Standard,50452.56
+Rishikesh,3,6,Budget Hotel,Bus,Regular,Sightseeing,Budget,21788.48
+Jaipur,3,10,3-Star Hotel,Flight,Peak,Relaxation,Premium,112520.76
+Rishikesh,3,10,3-Star Hotel,Train,Regular,Sightseeing,Premium,72586.39
+Agra,4,10,4-Star Hotel,Flight,Off-season,Relaxation,Premium,98089.07
+Rishikesh,2,2,Hostel,Flight,Regular,Relaxation,Premium,14503.03
+Agra,3,6,Hostel,Bus,Regular,Adventure,Budget,22667.26
+Udaipur,5,4,4-Star Hotel,Flight,Regular,Sightseeing,Premium,75744.42
+Shimla,2,9,Hostel,Flight,Peak,Adventure,Standard,57364.84
+Jaipur,1,8,Budget Hotel,Car,Peak,Culture,Premium,33703.54
+Jaipur,1,8,3-Star Hotel,Bus,Off-season,Culture,Premium,27102.6
+Agra,2,10,3-Star Hotel,Car,Off-season,Culture,Budget,31855.91
+Rishikesh,5,8,4-Star Hotel,Bus,Regular,Culture,Standard,78450.0
+Shimla,1,7,Hostel,Car,Regular,Culture,Standard,16876.52
+Rishikesh,1,6,3-Star Hotel,Bus,Peak,Relaxation,Standard,26220.95
+Jaipur,3,9,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,52506.95
+Rishikesh,2,10,4-Star Hotel,Flight,Off-season,Culture,Premium,65986.5
+Rishikesh,5,10,4-Star Hotel,Car,Regular,Adventure,Premium,146274.84
+Shimla,2,4,Hostel,Flight,Regular,Sightseeing,Standard,20675.27
+Agra,1,6,Hostel,Flight,Regular,Sightseeing,Budget,11155.95
+Rishikesh,3,5,Budget Hotel,Flight,Off-season,Sightseeing,Budget,22916.56
+Goa,5,4,Hostel,Flight,Regular,Sightseeing,Standard,54620.65
+Shimla,5,4,Hostel,Flight,Regular,Relaxation,Budget,43523.84
+Udaipur,2,2,3-Star Hotel,Flight,Off-season,Culture,Standard,15734.45
+Shimla,2,3,3-Star Hotel,Bus,Peak,Relaxation,Premium,29135.64
+Jaipur,1,4,Hostel,Bus,Regular,Culture,Budget,8614.9
+Rishikesh,5,6,Hostel,Bus,Peak,Adventure,Budget,48553.25
+Jaipur,3,8,4-Star Hotel,Flight,Off-season,Culture,Budget,49975.21
+Jaipur,5,9,Budget Hotel,Car,Off-season,Relaxation,Budget,49852.33
+Goa,5,10,3-Star Hotel,Car,Off-season,Culture,Budget,78941.09
+Varanasi,4,5,3-Star Hotel,Bus,Peak,Sightseeing,Standard,37986.05
+Goa,5,8,Budget Hotel,Car,Regular,Relaxation,Standard,86562.42
+Varanasi,4,8,Hostel,Flight,Regular,Adventure,Standard,58441.15
+Varanasi,1,9,4-Star Hotel,Train,Regular,Relaxation,Premium,45063.76
+Shimla,1,2,Hostel,Train,Regular,Adventure,Standard,5736.61
+Goa,2,4,Hostel,Train,Off-season,Adventure,Budget,15387.49
+Shimla,5,3,3-Star Hotel,Car,Regular,Relaxation,Budget,31772.59
+Varanasi,4,7,3-Star Hotel,Bus,Regular,Sightseeing,Standard,41973.27
+Jaipur,4,3,Budget Hotel,Car,Peak,Adventure,Premium,45534.34
+Goa,1,4,3-Star Hotel,Train,Regular,Culture,Standard,19345.49
+Varanasi,3,10,Budget Hotel,Train,Peak,Relaxation,Premium,77681.85
+Jaipur,2,7,4-Star Hotel,Train,Peak,Culture,Premium,67946.45
+Jaipur,2,7,4-Star Hotel,Bus,Peak,Culture,Standard,56078.45
+Goa,5,6,4-Star Hotel,Train,Off-season,Relaxation,Premium,88892.51
+Agra,4,5,Hostel,Train,Peak,Relaxation,Standard,34450.35
+Rishikesh,1,3,Hostel,Flight,Peak,Relaxation,Premium,13882.24
+Shimla,4,3,Hostel,Flight,Regular,Culture,Standard,36272.75
+Varanasi,5,4,Budget Hotel,Bus,Off-season,Sightseeing,Premium,30641.91
+Varanasi,4,5,4-Star Hotel,Train,Regular,Culture,Standard,39190.96
+Goa,4,8,3-Star Hotel,Flight,Regular,Sightseeing,Premium,112234.28
+Jaipur,1,7,Hostel,Bus,Off-season,Culture,Premium,16356.12
+Shimla,2,4,4-Star Hotel,Flight,Off-season,Relaxation,Premium,37558.19
+Jaipur,1,3,Budget Hotel,Train,Off-season,Relaxation,Premium,9044.6
+Rishikesh,4,10,Hostel,Car,Off-season,Culture,Budget,36949.29
+Varanasi,2,6,Hostel,Flight,Off-season,Relaxation,Premium,25440.91
+Shimla,1,10,4-Star Hotel,Train,Off-season,Sightseeing,Premium,54471.81
+Manali,4,2,Budget Hotel,Flight,Off-season,Adventure,Budget,25217.59
+Manali,5,8,3-Star Hotel,Bus,Regular,Sightseeing,Budget,60994.64
+Manali,4,4,4-Star Hotel,Car,Off-season,Culture,Premium,49948.46
+Manali,4,9,3-Star Hotel,Car,Regular,Sightseeing,Budget,61909.23
+Varanasi,5,3,3-Star Hotel,Car,Peak,Culture,Premium,46053.1
+Shimla,2,10,4-Star Hotel,Train,Regular,Adventure,Budget,70978.25
+Varanasi,5,8,3-Star Hotel,Train,Regular,Relaxation,Standard,60540.42
+Shimla,3,5,3-Star Hotel,Train,Regular,Sightseeing,Standard,34714.04
+Agra,2,10,3-Star Hotel,Bus,Off-season,Sightseeing,Standard,36245.25
+Udaipur,1,6,4-Star Hotel,Bus,Peak,Relaxation,Premium,48056.58
+Rishikesh,1,4,4-Star Hotel,Car,Regular,Relaxation,Premium,23156.03
+Manali,5,3,4-Star Hotel,Train,Peak,Sightseeing,Standard,47257.54
+Shimla,3,8,4-Star Hotel,Flight,Off-season,Adventure,Premium,88235.43
+Manali,2,2,4-Star Hotel,Flight,Peak,Adventure,Budget,26851.07
+Varanasi,1,9,3-Star Hotel,Bus,Regular,Adventure,Premium,32527.9
+Shimla,5,2,4-Star Hotel,Train,Off-season,Sightseeing,Standard,21302.59
+Rishikesh,1,7,4-Star Hotel,Flight,Off-season,Relaxation,Premium,35946.76
+Shimla,5,2,Budget Hotel,Train,Off-season,Sightseeing,Standard,16069.66
+Jaipur,2,2,Budget Hotel,Bus,Peak,Adventure,Premium,15533.87
+Rishikesh,2,8,Budget Hotel,Car,Off-season,Sightseeing,Standard,25817.54
+Agra,4,3,Hostel,Flight,Regular,Adventure,Standard,31089.5
+Manali,4,9,3-Star Hotel,Bus,Peak,Adventure,Premium,143874.97
+Agra,5,3,3-Star Hotel,Car,Peak,Sightseeing,Premium,46142.77
+Shimla,3,5,3-Star Hotel,Bus,Peak,Adventure,Standard,51163.88
+Varanasi,3,5,4-Star Hotel,Flight,Off-season,Adventure,Premium,43388.52
+Goa,5,5,Budget Hotel,Train,Regular,Adventure,Budget,47720.48
+Agra,3,5,Hostel,Car,Peak,Sightseeing,Premium,39072.5
+Udaipur,5,4,Hostel,Train,Regular,Adventure,Budget,32721.1
+Goa,3,5,Hostel,Train,Peak,Adventure,Standard,44500.94
+Manali,1,8,Hostel,Car,Regular,Adventure,Standard,21462.2
+Manali,5,10,3-Star Hotel,Car,Regular,Culture,Premium,139801.3
+Rishikesh,3,9,3-Star Hotel,Car,Off-season,Culture,Standard,45211.28
+Varanasi,5,9,Budget Hotel,Flight,Off-season,Adventure,Premium,89524.01
+Varanasi,4,4,Hostel,Car,Regular,Adventure,Standard,26975.55
+Goa,1,5,3-Star Hotel,Flight,Peak,Relaxation,Premium,38428.86
+Jaipur,4,10,Hostel,Train,Peak,Culture,Standard,74223.69
+Goa,3,10,3-Star Hotel,Car,Peak,Culture,Budget,80996.18
+Jaipur,3,7,Hostel,Bus,Off-season,Adventure,Premium,44015.5
+Udaipur,3,10,Budget Hotel,Flight,Regular,Adventure,Premium,96069.73
+Udaipur,3,5,3-Star Hotel,Flight,Off-season,Sightseeing,Budget,32541.82
+Shimla,2,2,Hostel,Bus,Regular,Culture,Premium,10570.43
+Varanasi,2,10,3-Star Hotel,Flight,Off-season,Relaxation,Budget,34132.51
+Agra,3,7,Budget Hotel,Bus,Peak,Adventure,Premium,62616.35
+Manali,2,9,Budget Hotel,Flight,Regular,Culture,Standard,45692.68
+Agra,4,6,Hostel,Car,Regular,Sightseeing,Standard,35061.61
+Goa,4,2,Hostel,Train,Peak,Relaxation,Standard,22882.21
+Rishikesh,1,4,3-Star Hotel,Bus,Peak,Adventure,Standard,17334.5
+Manali,4,6,4-Star Hotel,Bus,Off-season,Culture,Premium,67821.54
+Udaipur,2,9,3-Star Hotel,Flight,Peak,Relaxation,Budget,58776.26
+Goa,1,9,3-Star Hotel,Bus,Peak,Relaxation,Standard,51100.62
+Udaipur,1,7,Hostel,Car,Off-season,Sightseeing,Premium,17650.34
+Varanasi,5,7,4-Star Hotel,Bus,Peak,Relaxation,Budget,64951.15
+Goa,2,10,Budget Hotel,Train,Regular,Culture,Budget,36915.34
+Goa,2,10,Budget Hotel,Train,Regular,Relaxation,Standard,48672.64
+Manali,5,6,3-Star Hotel,Car,Peak,Sightseeing,Budget,64364.47
+Rishikesh,3,5,Hostel,Car,Regular,Culture,Premium,33940.19
+Manali,5,8,Hostel,Flight,Peak,Sightseeing,Premium,136062.33
+Agra,5,10,Budget Hotel,Car,Off-season,Relaxation,Budget,49133.58
+Udaipur,4,3,4-Star Hotel,Bus,Off-season,Sightseeing,Premium,32751.76
+Manali,5,10,3-Star Hotel,Bus,Off-season,Adventure,Budget,81415.32
+Agra,5,8,4-Star Hotel,Car,Peak,Relaxation,Standard,100750.57
+Goa,3,8,Budget Hotel,Car,Regular,Adventure,Premium,82339.52
+Shimla,3,4,Budget Hotel,Bus,Peak,Relaxation,Premium,40286.12
+Rishikesh,3,5,4-Star Hotel,Bus,Peak,Sightseeing,Budget,37896.84
+Udaipur,1,9,4-Star Hotel,Flight,Regular,Relaxation,Premium,60491.27
+Udaipur,3,10,4-Star Hotel,Flight,Peak,Culture,Standard,116903.43
+Udaipur,1,3,3-Star Hotel,Bus,Off-season,Adventure,Standard,11720.57
+Manali,3,9,Budget Hotel,Train,Regular,Adventure,Budget,48778.54
+Rishikesh,5,7,Hostel,Bus,Regular,Culture,Standard,47715.44
+Agra,2,2,Budget Hotel,Bus,Peak,Adventure,Standard,10363.49
+Varanasi,1,5,4-Star Hotel,Car,Regular,Culture,Standard,22209.58
+Shimla,3,7,Hostel,Bus,Off-season,Adventure,Premium,50106.25
+Varanasi,5,3,Hostel,Bus,Peak,Culture,Budget,18981.14
+Jaipur,4,3,3-Star Hotel,Car,Regular,Relaxation,Budget,23591.09
+Shimla,5,8,Budget Hotel,Car,Peak,Relaxation,Budget,78214.82
+Jaipur,4,5,Hostel,Car,Off-season,Culture,Premium,40033.47
+Shimla,5,9,3-Star Hotel,Train,Peak,Adventure,Standard,130476.21
+Goa,3,2,Budget Hotel,Car,Off-season,Relaxation,Standard,16524.99
+Udaipur,1,2,3-Star Hotel,Train,Regular,Sightseeing,Standard,8401.96
+Agra,2,4,Hostel,Flight,Off-season,Sightseeing,Budget,12267.2
+Udaipur,1,7,Hostel,Car,Off-season,Adventure,Standard,16439.41
+Agra,2,5,4-Star Hotel,Flight,Peak,Adventure,Budget,43996.33
+Jaipur,5,5,3-Star Hotel,Bus,Regular,Sightseeing,Standard,42062.07
+Rishikesh,5,2,4-Star Hotel,Train,Peak,Adventure,Premium,39059.74
+Rishikesh,2,10,Budget Hotel,Train,Peak,Adventure,Standard,52180.96
+Manali,2,3,3-Star Hotel,Train,Peak,Adventure,Budget,21923.68
+Manali,4,8,Hostel,Flight,Peak,Relaxation,Premium,116794.63
+Rishikesh,3,4,3-Star Hotel,Car,Peak,Adventure,Premium,46458.0
+Rishikesh,1,9,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,36278.55
+Agra,1,9,Hostel,Train,Off-season,Culture,Budget,9623.51
+Jaipur,2,3,Budget Hotel,Bus,Regular,Culture,Budget,9473.27
+Jaipur,2,6,Budget Hotel,Car,Off-season,Culture,Standard,21711.22
+Agra,1,5,3-Star Hotel,Bus,Off-season,Culture,Budget,11101.57
+Rishikesh,2,2,Budget Hotel,Bus,Peak,Sightseeing,Premium,12384.04
+Goa,5,2,3-Star Hotel,Bus,Off-season,Sightseeing,Standard,20569.94
+Goa,4,6,4-Star Hotel,Train,Peak,Adventure,Premium,120988.79
+Shimla,5,5,3-Star Hotel,Flight,Regular,Sightseeing,Budget,56955.34
+Manali,5,8,3-Star Hotel,Car,Regular,Culture,Standard,84910.54
+Shimla,4,7,4-Star Hotel,Car,Regular,Sightseeing,Premium,95298.8
+Udaipur,5,7,3-Star Hotel,Car,Off-season,Culture,Premium,82471.71
+Udaipur,4,6,4-Star Hotel,Car,Peak,Sightseeing,Premium,100090.95
+Rishikesh,2,3,4-Star Hotel,Train,Peak,Sightseeing,Premium,29612.59
+Jaipur,2,3,Budget Hotel,Train,Off-season,Sightseeing,Standard,11298.75
+Manali,5,5,4-Star Hotel,Bus,Off-season,Sightseeing,Standard,48736.42
+Manali,4,2,4-Star Hotel,Flight,Peak,Sightseeing,Standard,43101.12
+Goa,1,8,3-Star Hotel,Flight,Peak,Adventure,Premium,59199.37
+Agra,1,4,Hostel,Train,Peak,Adventure,Premium,11935.85
+Rishikesh,3,8,3-Star Hotel,Bus,Peak,Sightseeing,Budget,46951.72
+Jaipur,5,9,Hostel,Car,Regular,Adventure,Budget,65447.88
+Jaipur,3,7,Hostel,Flight,Off-season,Culture,Premium,44227.04
+Rishikesh,2,5,3-Star Hotel,Train,Regular,Adventure,Budget,22577.68
+Varanasi,2,9,3-Star Hotel,Train,Off-season,Relaxation,Budget,27058.2
+Shimla,5,9,Hostel,Bus,Peak,Adventure,Premium,153133.22
+Rishikesh,3,10,Budget Hotel,Flight,Regular,Sightseeing,Premium,71606.08
+Agra,4,10,3-Star Hotel,Flight,Peak,Sightseeing,Premium,121248.54
+Manali,5,9,4-Star Hotel,Train,Regular,Relaxation,Premium,142860.4
+Manali,4,10,3-Star Hotel,Car,Peak,Culture,Budget,88564.84
+Udaipur,5,5,3-Star Hotel,Car,Off-season,Culture,Standard,46783.24
+Agra,3,8,Budget Hotel,Car,Peak,Relaxation,Budget,40183.06
+Rishikesh,2,9,Budget Hotel,Bus,Off-season,Relaxation,Standard,27439.77
+Udaipur,1,10,Hostel,Flight,Regular,Relaxation,Premium,33146.89
+Jaipur,2,6,Budget Hotel,Bus,Off-season,Culture,Standard,19129.53
+Goa,2,3,Hostel,Flight,Peak,Relaxation,Budget,21790.9
+Shimla,1,2,4-Star Hotel,Train,Peak,Adventure,Standard,16859.8
+Rishikesh,3,7,4-Star Hotel,Bus,Regular,Adventure,Standard,57306.77
+Jaipur,2,2,Budget Hotel,Flight,Off-season,Sightseeing,Premium,13715.09
+Varanasi,2,6,Hostel,Flight,Peak,Culture,Budget,24190.25
+Goa,1,6,4-Star Hotel,Flight,Regular,Sightseeing,Budget,39401.41
+Udaipur,3,2,Budget Hotel,Bus,Regular,Relaxation,Premium,17769.77
+Manali,1,5,3-Star Hotel,Car,Peak,Sightseeing,Budget,22485.65
+Agra,5,3,3-Star Hotel,Bus,Off-season,Relaxation,Budget,17470.26
+Rishikesh,2,10,Hostel,Flight,Peak,Culture,Standard,46353.04
+Varanasi,4,4,Hostel,Train,Peak,Relaxation,Standard,26490.08
+Goa,4,5,Budget Hotel,Car,Regular,Culture,Standard,44993.08
+Udaipur,5,8,4-Star Hotel,Car,Off-season,Sightseeing,Premium,101961.45
+Udaipur,4,5,Budget Hotel,Car,Off-season,Sightseeing,Standard,32058.06
+Goa,4,5,3-Star Hotel,Car,Peak,Relaxation,Standard,68388.68
+Shimla,4,9,Hostel,Train,Off-season,Culture,Premium,75440.52
+Varanasi,2,10,4-Star Hotel,Bus,Off-season,Culture,Standard,45677.47
+Goa,3,8,Budget Hotel,Bus,Peak,Relaxation,Premium,90383.26
+Varanasi,2,4,Budget Hotel,Car,Regular,Adventure,Budget,14457.29
+Rishikesh,4,5,Hostel,Train,Peak,Culture,Standard,37426.6
+Shimla,3,4,3-Star Hotel,Car,Off-season,Culture,Standard,27162.62
+Goa,1,3,Budget Hotel,Car,Regular,Culture,Standard,10952.84
+Rishikesh,3,9,3-Star Hotel,Train,Peak,Relaxation,Standard,66846.78
+Varanasi,4,2,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,20577.96
+Jaipur,4,6,3-Star Hotel,Flight,Peak,Adventure,Standard,79863.59
+Goa,5,8,4-Star Hotel,Car,Peak,Adventure,Standard,153524.92
+Varanasi,1,9,Hostel,Flight,Off-season,Sightseeing,Standard,14904.17
+Shimla,5,10,4-Star Hotel,Bus,Regular,Sightseeing,Standard,114032.5
+Goa,4,9,Hostel,Train,Peak,Relaxation,Standard,87164.77
+Manali,4,8,Budget Hotel,Train,Off-season,Culture,Budget,40033.79
+Shimla,4,6,4-Star Hotel,Car,Peak,Culture,Budget,71718.19
+Manali,1,9,Hostel,Flight,Off-season,Sightseeing,Premium,24674.56
+Manali,3,4,3-Star Hotel,Train,Peak,Relaxation,Premium,50527.04
+Agra,2,6,Budget Hotel,Flight,Regular,Relaxation,Premium,33463.41
+Manali,2,5,4-Star Hotel,Flight,Off-season,Culture,Budget,34175.06
+Rishikesh,1,4,Hostel,Train,Peak,Adventure,Standard,11465.0
+Goa,5,2,4-Star Hotel,Car,Regular,Adventure,Budget,33144.16
+Udaipur,1,2,3-Star Hotel,Train,Regular,Sightseeing,Budget,7473.52
+Manali,3,2,Budget Hotel,Train,Peak,Culture,Standard,15950.82
+Manali,2,10,3-Star Hotel,Flight,Peak,Adventure,Premium,103362.05
+Jaipur,5,9,Hostel,Flight,Off-season,Adventure,Premium,102884.15
+Rishikesh,2,7,Hostel,Train,Peak,Adventure,Budget,25566.94
+Goa,4,3,3-Star Hotel,Car,Peak,Sightseeing,Standard,41524.33
+Udaipur,3,3,Hostel,Car,Peak,Sightseeing,Premium,32514.78
+Rishikesh,4,6,3-Star Hotel,Car,Off-season,Relaxation,Standard,41481.32
+Shimla,1,2,4-Star Hotel,Bus,Off-season,Relaxation,Budget,10005.68
+Agra,5,7,Hostel,Flight,Regular,Culture,Standard,58131.92
+Varanasi,5,6,Hostel,Bus,Off-season,Relaxation,Standard,32458.74
+Jaipur,5,6,Budget Hotel,Car,Peak,Adventure,Budget,62148.04
+Goa,2,3,3-Star Hotel,Car,Peak,Relaxation,Premium,33824.48
+Goa,1,5,4-Star Hotel,Flight,Regular,Culture,Premium,38360.35
+Shimla,1,3,Hostel,Train,Regular,Adventure,Premium,11536.87
+Varanasi,2,10,4-Star Hotel,Car,Peak,Culture,Standard,67829.37
+Varanasi,4,4,Hostel,Train,Peak,Adventure,Premium,43013.16
+Rishikesh,1,8,Hostel,Train,Regular,Sightseeing,Budget,12559.79
+Manali,1,6,Hostel,Car,Off-season,Adventure,Premium,18180.26
+Shimla,1,10,4-Star Hotel,Train,Off-season,Culture,Standard,48356.26
+Manali,3,4,3-Star Hotel,Car,Off-season,Relaxation,Premium,34074.92
+Manali,2,5,Hostel,Train,Off-season,Sightseeing,Standard,15892.69
+Jaipur,4,6,3-Star Hotel,Flight,Regular,Sightseeing,Premium,68214.86
+Goa,5,9,Hostel,Bus,Regular,Sightseeing,Budget,56749.43
+Varanasi,5,7,Budget Hotel,Car,Regular,Sightseeing,Standard,45644.06
+Udaipur,3,2,Budget Hotel,Train,Off-season,Adventure,Premium,16596.64
+Rishikesh,1,6,4-Star Hotel,Flight,Peak,Sightseeing,Standard,39069.72
+Goa,4,5,Budget Hotel,Bus,Regular,Culture,Budget,30489.84
+Jaipur,4,7,Hostel,Flight,Peak,Adventure,Premium,98928.3
+Rishikesh,5,6,3-Star Hotel,Car,Regular,Sightseeing,Budget,42425.97
+Udaipur,2,4,Hostel,Train,Off-season,Adventure,Standard,14557.29
+Udaipur,4,6,Budget Hotel,Train,Off-season,Culture,Premium,48587.24
+Manali,5,5,4-Star Hotel,Bus,Peak,Relaxation,Standard,75518.48
+Jaipur,4,3,Hostel,Car,Peak,Relaxation,Standard,28206.16
+Manali,5,10,4-Star Hotel,Bus,Peak,Relaxation,Premium,197193.36
+Udaipur,1,5,Hostel,Bus,Peak,Relaxation,Budget,10984.66
+Rishikesh,1,8,4-Star Hotel,Bus,Peak,Relaxation,Premium,54652.67
+Goa,4,7,4-Star Hotel,Train,Off-season,Culture,Premium,86664.89
+Shimla,2,8,Hostel,Bus,Off-season,Adventure,Standard,30481.89
+Udaipur,3,2,Hostel,Flight,Off-season,Relaxation,Standard,18297.53
+Varanasi,5,5,Hostel,Train,Regular,Adventure,Standard,39412.02
+Jaipur,3,8,Hostel,Flight,Off-season,Sightseeing,Standard,37497.25
+Goa,2,10,Hostel,Flight,Off-season,Adventure,Standard,46582.27
+Agra,4,8,Budget Hotel,Train,Peak,Adventure,Budget,54183.14
+Rishikesh,4,9,Hostel,Bus,Peak,Sightseeing,Standard,58518.77
+Goa,5,10,Budget Hotel,Flight,Off-season,Culture,Premium,130826.29
+Udaipur,1,2,Hostel,Car,Off-season,Culture,Premium,7011.3
+Varanasi,3,6,3-Star Hotel,Flight,Peak,Sightseeing,Premium,60203.64
+Jaipur,1,7,Hostel,Train,Off-season,Culture,Premium,15424.95
+Jaipur,5,8,4-Star Hotel,Bus,Regular,Sightseeing,Premium,104186.09
+Jaipur,4,10,3-Star Hotel,Bus,Regular,Relaxation,Budget,61409.74
+Agra,1,4,Budget Hotel,Bus,Peak,Relaxation,Standard,10658.7
+Rishikesh,3,10,4-Star Hotel,Bus,Regular,Culture,Premium,89376.05
+Varanasi,1,4,4-Star Hotel,Car,Off-season,Culture,Standard,16865.13
+Shimla,5,5,Hostel,Bus,Peak,Adventure,Premium,86628.43
+Jaipur,3,3,Hostel,Bus,Peak,Sightseeing,Budget,14093.33
+Varanasi,5,2,3-Star Hotel,Train,Regular,Adventure,Standard,18679.24
+Varanasi,5,5,Hostel,Car,Regular,Adventure,Budget,33048.11
+Rishikesh,5,6,Hostel,Car,Peak,Adventure,Standard,66404.4
+Udaipur,3,9,Hostel,Train,Off-season,Relaxation,Budget,32000.03
+Udaipur,2,9,Hostel,Car,Regular,Sightseeing,Standard,31932.37
+Udaipur,4,5,Hostel,Bus,Peak,Adventure,Standard,47420.75
+Jaipur,1,7,Hostel,Car,Off-season,Relaxation,Premium,17853.74
+Shimla,1,7,3-Star Hotel,Bus,Off-season,Sightseeing,Standard,23631.69
+Manali,3,9,Hostel,Flight,Off-season,Adventure,Premium,73589.64
+Manali,1,8,Hostel,Flight,Peak,Relaxation,Budget,24843.29
+Agra,1,3,4-Star Hotel,Car,Off-season,Culture,Premium,15626.33
+Jaipur,5,6,4-Star Hotel,Bus,Regular,Adventure,Standard,71380.76
+Manali,2,9,3-Star Hotel,Train,Regular,Relaxation,Premium,66297.77
+Varanasi,2,6,Budget Hotel,Bus,Regular,Adventure,Premium,29891.68
+Jaipur,5,9,Hostel,Car,Peak,Adventure,Standard,100929.03
+Varanasi,3,6,Hostel,Car,Regular,Culture,Standard,26658.51
+Shimla,4,3,Budget Hotel,Car,Regular,Relaxation,Standard,26923.42
+Varanasi,1,4,3-Star Hotel,Car,Regular,Culture,Standard,11908.12
+Shimla,3,10,Budget Hotel,Train,Peak,Culture,Standard,71922.17
+Rishikesh,2,7,Budget Hotel,Bus,Regular,Adventure,Budget,23921.48
+Agra,2,9,Hostel,Bus,Regular,Sightseeing,Premium,34427.66
+Udaipur,5,8,4-Star Hotel,Bus,Regular,Culture,Standard,89141.67
+Varanasi,3,3,3-Star Hotel,Train,Peak,Adventure,Standard,23376.95
+Jaipur,3,8,3-Star Hotel,Flight,Peak,Adventure,Budget,69246.86
+Jaipur,2,5,3-Star Hotel,Car,Regular,Adventure,Budget,25922.41
+Goa,1,6,3-Star Hotel,Train,Peak,Adventure,Premium,42030.39
+Agra,2,10,Hostel,Bus,Off-season,Relaxation,Standard,25644.89
+Goa,2,10,Hostel,Bus,Off-season,Sightseeing,Budget,28357.02
+Varanasi,3,4,4-Star Hotel,Bus,Regular,Relaxation,Standard,26469.36
+Varanasi,5,5,Hostel,Bus,Off-season,Relaxation,Budget,20529.47
+Udaipur,5,8,4-Star Hotel,Car,Peak,Culture,Budget,101391.95
+Agra,4,8,4-Star Hotel,Train,Peak,Sightseeing,Standard,78445.12
+Varanasi,4,10,Hostel,Car,Regular,Sightseeing,Premium,71709.4
+Rishikesh,4,2,Hostel,Flight,Peak,Adventure,Standard,32382.6
+Shimla,3,3,3-Star Hotel,Bus,Off-season,Relaxation,Premium,26248.54
+Udaipur,5,7,3-Star Hotel,Car,Regular,Sightseeing,Budget,55698.64
+Rishikesh,1,2,3-Star Hotel,Car,Off-season,Adventure,Premium,7228.33
+Jaipur,3,3,Hostel,Train,Off-season,Sightseeing,Premium,17799.83
+Shimla,5,3,Budget Hotel,Flight,Regular,Adventure,Budget,43536.29
+Shimla,5,2,4-Star Hotel,Car,Off-season,Relaxation,Standard,26024.48
+Manali,1,4,Hostel,Car,Off-season,Culture,Premium,12126.7
+Manali,1,10,Budget Hotel,Car,Peak,Adventure,Standard,38811.69
+Rishikesh,2,2,Budget Hotel,Flight,Off-season,Sightseeing,Premium,15333.39
+Shimla,1,7,Budget Hotel,Flight,Regular,Adventure,Standard,25901.08
+Goa,3,3,4-Star Hotel,Car,Peak,Adventure,Standard,46719.87
+Jaipur,4,3,Hostel,Bus,Regular,Sightseeing,Budget,14084.16
+Udaipur,3,8,Budget Hotel,Train,Regular,Sightseeing,Standard,42608.48
+Jaipur,5,7,3-Star Hotel,Bus,Off-season,Adventure,Standard,59502.35
+Rishikesh,1,7,3-Star Hotel,Bus,Peak,Adventure,Budget,27575.86
+Manali,4,2,Budget Hotel,Car,Regular,Adventure,Premium,28984.95
+Agra,4,2,Hostel,Bus,Peak,Adventure,Budget,12538.19
+Jaipur,5,9,4-Star Hotel,Bus,Off-season,Culture,Premium,103607.93
+Manali,5,3,Hostel,Train,Regular,Relaxation,Premium,40392.84
+Rishikesh,5,6,Hostel,Bus,Peak,Adventure,Standard,61916.72
+Shimla,1,6,3-Star Hotel,Train,Peak,Culture,Standard,31203.59
+Jaipur,3,10,4-Star Hotel,Car,Regular,Relaxation,Budget,70114.69
+Jaipur,4,10,3-Star Hotel,Car,Peak,Sightseeing,Standard,91348.6
+Varanasi,1,5,Budget Hotel,Car,Off-season,Adventure,Budget,9557.36
+Jaipur,4,8,4-Star Hotel,Car,Peak,Sightseeing,Budget,76003.73
+Varanasi,5,4,3-Star Hotel,Car,Peak,Sightseeing,Premium,54032.55
+Goa,4,10,Budget Hotel,Flight,Regular,Relaxation,Premium,130460.97
+Udaipur,5,7,Budget Hotel,Train,Regular,Adventure,Budget,58319.82
+Udaipur,1,3,4-Star Hotel,Car,Off-season,Relaxation,Premium,17249.88
+Varanasi,3,5,4-Star Hotel,Bus,Peak,Relaxation,Standard,42213.22
+Jaipur,5,9,Hostel,Bus,Regular,Sightseeing,Premium,89339.67
+Agra,1,5,Hostel,Car,Peak,Adventure,Premium,17014.06
+Udaipur,2,8,3-Star Hotel,Flight,Regular,Culture,Standard,48222.28
+Rishikesh,2,10,3-Star Hotel,Flight,Off-season,Relaxation,Premium,54943.38
+Shimla,3,10,3-Star Hotel,Flight,Off-season,Sightseeing,Premium,84748.08
+Manali,2,8,3-Star Hotel,Train,Off-season,Sightseeing,Standard,37045.42
+Manali,5,10,3-Star Hotel,Train,Regular,Adventure,Budget,95813.85
+Agra,4,9,4-Star Hotel,Bus,Off-season,Adventure,Premium,88711.46
+Manali,3,8,Hostel,Bus,Regular,Sightseeing,Budget,30798.79
+Varanasi,2,5,Budget Hotel,Car,Regular,Relaxation,Standard,18224.96
+Goa,2,10,Budget Hotel,Bus,Off-season,Culture,Budget,31902.37
+Agra,3,10,Budget Hotel,Train,Off-season,Adventure,Premium,60606.05
+Rishikesh,1,9,3-Star Hotel,Car,Peak,Culture,Standard,38855.02
+Udaipur,4,2,3-Star Hotel,Bus,Regular,Sightseeing,Budget,14858.03
+Manali,1,6,Hostel,Bus,Peak,Relaxation,Premium,21591.02
+Goa,2,4,4-Star Hotel,Car,Peak,Sightseeing,Budget,39183.83
+Udaipur,4,10,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,76669.96
+Manali,3,3,3-Star Hotel,Bus,Regular,Culture,Budget,15816.07
+Goa,1,7,Budget Hotel,Car,Regular,Adventure,Standard,24982.3
+Udaipur,5,10,Hostel,Flight,Peak,Sightseeing,Standard,113088.42
+Agra,2,4,Hostel,Bus,Peak,Relaxation,Premium,21899.45
+Varanasi,1,6,3-Star Hotel,Car,Regular,Relaxation,Premium,22142.14
+Udaipur,1,8,3-Star Hotel,Bus,Peak,Adventure,Budget,37969.9
+Varanasi,5,7,Hostel,Train,Regular,Relaxation,Budget,34082.1
+Rishikesh,1,8,4-Star Hotel,Bus,Regular,Culture,Premium,43101.9
+Rishikesh,2,7,Hostel,Flight,Off-season,Adventure,Budget,22235.84
+Goa,2,7,Budget Hotel,Flight,Off-season,Relaxation,Standard,32931.45
+Manali,3,5,Hostel,Car,Regular,Adventure,Budget,27908.23
+Udaipur,2,2,3-Star Hotel,Flight,Off-season,Relaxation,Budget,13886.54
+Agra,1,4,Hostel,Bus,Regular,Relaxation,Budget,7196.26
+Jaipur,1,8,Budget Hotel,Train,Off-season,Culture,Standard,18167.57
+Goa,2,2,Hostel,Bus,Peak,Culture,Premium,16031.11
+Goa,4,7,4-Star Hotel,Flight,Off-season,Adventure,Standard,88220.84
+Goa,4,2,Budget Hotel,Flight,Off-season,Sightseeing,Budget,23794.67
+Manali,4,6,3-Star Hotel,Flight,Peak,Relaxation,Premium,103889.55
+Jaipur,3,6,Budget Hotel,Train,Off-season,Relaxation,Premium,38709.17
+Udaipur,4,8,Budget Hotel,Car,Peak,Sightseeing,Budget,57205.87
+Manali,3,6,Budget Hotel,Flight,Off-season,Culture,Budget,33091.96
+Agra,5,3,Budget Hotel,Flight,Regular,Relaxation,Budget,31649.68
+Agra,3,5,3-Star Hotel,Bus,Regular,Relaxation,Premium,37387.81
+Manali,4,5,4-Star Hotel,Bus,Off-season,Adventure,Premium,62926.49
+Rishikesh,2,7,3-Star Hotel,Bus,Off-season,Relaxation,Standard,27861.4
+Jaipur,2,2,Hostel,Car,Off-season,Culture,Standard,7381.78
+Udaipur,2,9,4-Star Hotel,Bus,Regular,Culture,Budget,55298.48
+Varanasi,4,3,Budget Hotel,Flight,Regular,Adventure,Budget,25531.08
+Jaipur,2,5,3-Star Hotel,Flight,Peak,Culture,Budget,34676.06
+Udaipur,2,4,4-Star Hotel,Bus,Regular,Adventure,Standard,33156.72
+Jaipur,1,10,3-Star Hotel,Car,Peak,Relaxation,Budget,42022.05
+Shimla,2,6,Hostel,Car,Off-season,Culture,Premium,28334.08
+Agra,2,10,4-Star Hotel,Car,Peak,Adventure,Premium,95489.47
+Goa,4,7,3-Star Hotel,Bus,Peak,Relaxation,Standard,84311.46
+Manali,5,9,4-Star Hotel,Car,Peak,Culture,Budget,116645.94
+Agra,5,4,4-Star Hotel,Car,Peak,Sightseeing,Budget,42689.09
+Rishikesh,4,10,Budget Hotel,Car,Regular,Adventure,Budget,61868.19
+Udaipur,1,2,3-Star Hotel,Car,Regular,Culture,Budget,7847.08
+Udaipur,3,6,3-Star Hotel,Car,Off-season,Sightseeing,Premium,48264.24
+Shimla,2,9,Budget Hotel,Car,Regular,Sightseeing,Budget,32762.95
+Jaipur,2,8,Hostel,Train,Off-season,Culture,Premium,30910.44
+Shimla,3,4,3-Star Hotel,Bus,Peak,Adventure,Standard,41480.12
+Udaipur,1,6,3-Star Hotel,Flight,Off-season,Sightseeing,Standard,22070.74
+Agra,2,8,Budget Hotel,Flight,Peak,Relaxation,Standard,41096.62
+Jaipur,1,5,Hostel,Car,Off-season,Sightseeing,Standard,11208.02
+Shimla,4,2,3-Star Hotel,Train,Off-season,Sightseeing,Premium,20934.98
+Manali,1,6,3-Star Hotel,Train,Regular,Relaxation,Budget,23222.38
+Udaipur,4,7,4-Star Hotel,Bus,Peak,Culture,Standard,84395.51
+Agra,4,3,Budget Hotel,Car,Peak,Sightseeing,Budget,21899.26
+Udaipur,5,7,Budget Hotel,Bus,Peak,Adventure,Standard,86412.29
+Agra,3,5,3-Star Hotel,Flight,Peak,Culture,Standard,45025.45
+Rishikesh,2,5,3-Star Hotel,Train,Regular,Adventure,Budget,23537.06
+Manali,2,6,3-Star Hotel,Train,Off-season,Sightseeing,Standard,25978.03
+Jaipur,4,4,3-Star Hotel,Car,Off-season,Adventure,Budget,28024.61
+Goa,3,4,Hostel,Train,Peak,Adventure,Budget,27571.81
+Manali,2,10,Hostel,Car,Off-season,Sightseeing,Budget,26965.5
+Varanasi,3,8,3-Star Hotel,Car,Peak,Adventure,Budget,53324.67
+Varanasi,3,3,4-Star Hotel,Train,Off-season,Sightseeing,Premium,21341.03
+Jaipur,2,7,Hostel,Flight,Off-season,Relaxation,Premium,31871.71
+Goa,4,10,4-Star Hotel,Flight,Peak,Relaxation,Budget,139709.01
+Goa,2,6,4-Star Hotel,Flight,Regular,Culture,Standard,55567.14
+Jaipur,1,4,Budget Hotel,Train,Regular,Adventure,Standard,9974.72
+Udaipur,1,8,Budget Hotel,Car,Regular,Relaxation,Premium,29117.28
+Udaipur,5,9,Budget Hotel,Bus,Peak,Relaxation,Standard,96606.54
+Udaipur,3,10,4-Star Hotel,Bus,Regular,Relaxation,Premium,106944.91
+Manali,2,7,4-Star Hotel,Train,Peak,Adventure,Budget,62989.05
+Manali,2,2,Budget Hotel,Train,Peak,Sightseeing,Budget,9675.63
+Agra,3,3,Budget Hotel,Flight,Off-season,Adventure,Premium,24040.52
+Jaipur,4,8,3-Star Hotel,Car,Off-season,Sightseeing,Premium,68646.88
+Varanasi,1,7,3-Star Hotel,Bus,Off-season,Sightseeing,Premium,20081.81
+Agra,1,6,4-Star Hotel,Car,Peak,Culture,Budget,33536.37
+Shimla,1,9,Hostel,Bus,Off-season,Culture,Standard,17391.83
+Shimla,2,4,4-Star Hotel,Bus,Peak,Relaxation,Budget,35189.37
+Shimla,5,7,Budget Hotel,Flight,Peak,Relaxation,Premium,134568.84
+Shimla,2,5,Hostel,Train,Peak,Adventure,Premium,36092.07
+Rishikesh,3,2,4-Star Hotel,Train,Off-season,Adventure,Premium,17674.91
+Udaipur,3,4,Hostel,Flight,Regular,Adventure,Standard,35721.4
+Agra,2,3,Budget Hotel,Bus,Off-season,Sightseeing,Budget,6670.57
+Goa,2,5,Hostel,Bus,Peak,Culture,Budget,20548.77
+Shimla,2,7,Budget Hotel,Bus,Regular,Culture,Premium,41799.31
+Goa,5,2,Budget Hotel,Car,Peak,Culture,Standard,34283.41
+Rishikesh,4,6,3-Star Hotel,Flight,Off-season,Relaxation,Budget,39214.12
+Shimla,4,8,Hostel,Bus,Off-season,Adventure,Standard,53063.11
+Shimla,3,5,Budget Hotel,Flight,Off-season,Sightseeing,Standard,34672.28
+Goa,5,8,Hostel,Train,Peak,Adventure,Budget,85774.79
+Manali,1,2,Budget Hotel,Car,Regular,Culture,Standard,7842.54
+Shimla,1,3,Budget Hotel,Flight,Peak,Relaxation,Premium,18455.89
+Varanasi,2,3,4-Star Hotel,Train,Peak,Relaxation,Budget,18752.83
+Rishikesh,3,7,3-Star Hotel,Bus,Peak,Adventure,Budget,47005.59
+Goa,2,2,4-Star Hotel,Car,Off-season,Adventure,Budget,17088.69
+Udaipur,3,3,4-Star Hotel,Car,Regular,Adventure,Budget,29447.76
+Udaipur,4,2,3-Star Hotel,Bus,Off-season,Sightseeing,Standard,14469.06
+Rishikesh,1,9,Budget Hotel,Bus,Peak,Relaxation,Standard,27548.42
+Varanasi,4,8,Hostel,Flight,Regular,Culture,Standard,50479.57
+Manali,1,5,Budget Hotel,Car,Off-season,Relaxation,Budget,11723.22
+Rishikesh,1,8,4-Star Hotel,Train,Off-season,Sightseeing,Standard,33594.22
+Manali,1,8,3-Star Hotel,Car,Off-season,Adventure,Budget,28378.61
+Goa,4,8,3-Star Hotel,Car,Regular,Relaxation,Premium,104746.52
+Shimla,1,5,3-Star Hotel,Car,Off-season,Adventure,Budget,17782.51
+Varanasi,5,9,Budget Hotel,Flight,Regular,Culture,Budget,57663.59
+Agra,2,2,3-Star Hotel,Train,Regular,Relaxation,Budget,9861.6
+Shimla,5,2,Hostel,Train,Off-season,Culture,Premium,22772.89
+Shimla,1,10,3-Star Hotel,Bus,Peak,Sightseeing,Premium,58353.57
+Varanasi,1,9,Budget Hotel,Train,Peak,Sightseeing,Budget,20173.19
+Rishikesh,1,10,4-Star Hotel,Train,Peak,Culture,Premium,67751.18
+Manali,1,6,4-Star Hotel,Bus,Off-season,Relaxation,Standard,30827.4
+Agra,2,9,3-Star Hotel,Flight,Off-season,Culture,Premium,45134.28
+Goa,1,8,Budget Hotel,Train,Off-season,Adventure,Budget,22104.44
+Rishikesh,2,9,4-Star Hotel,Bus,Peak,Culture,Premium,82570.67
+Udaipur,2,10,3-Star Hotel,Flight,Off-season,Adventure,Budget,48448.14
+Goa,1,8,3-Star Hotel,Train,Off-season,Sightseeing,Budget,25432.8
+Shimla,3,8,4-Star Hotel,Train,Off-season,Adventure,Standard,67420.04
+Goa,2,7,4-Star Hotel,Car,Peak,Relaxation,Budget,65621.75
+Varanasi,1,6,Budget Hotel,Car,Peak,Adventure,Standard,20928.18
+Jaipur,3,6,Hostel,Car,Off-season,Sightseeing,Budget,18510.14
+Agra,2,5,Hostel,Flight,Peak,Sightseeing,Premium,32099.73
+Rishikesh,4,6,Hostel,Flight,Regular,Relaxation,Premium,60614.82
+Shimla,4,4,Budget Hotel,Car,Off-season,Culture,Budget,23136.46
+Rishikesh,1,9,Hostel,Train,Peak,Relaxation,Standard,22611.69
+Agra,3,7,Budget Hotel,Bus,Off-season,Culture,Premium,37020.95
+Manali,3,10,Budget Hotel,Train,Peak,Adventure,Premium,113252.61
+Varanasi,3,6,Hostel,Flight,Regular,Relaxation,Premium,42453.34
+Udaipur,2,6,Budget Hotel,Train,Peak,Adventure,Budget,30017.12
+Shimla,4,6,Hostel,Car,Regular,Culture,Premium,63371.38
+Jaipur,3,6,4-Star Hotel,Car,Peak,Adventure,Premium,81778.34
+Shimla,5,9,3-Star Hotel,Car,Off-season,Relaxation,Budget,67878.87
+Manali,5,2,Hostel,Train,Peak,Culture,Budget,20085.48
+Manali,4,7,Budget Hotel,Bus,Peak,Relaxation,Premium,92559.35
+Varanasi,3,7,3-Star Hotel,Car,Off-season,Adventure,Premium,47174.13
+Varanasi,1,7,Budget Hotel,Flight,Peak,Sightseeing,Budget,20894.32
+Udaipur,5,10,4-Star Hotel,Bus,Off-season,Culture,Premium,125623.62
+Rishikesh,1,2,3-Star Hotel,Car,Regular,Culture,Standard,8154.04
+Agra,5,3,3-Star Hotel,Flight,Peak,Culture,Premium,58409.84
+Varanasi,1,9,Hostel,Car,Off-season,Sightseeing,Budget,9922.11
+Varanasi,4,2,Budget Hotel,Car,Off-season,Relaxation,Standard,13363.42
+Udaipur,5,6,Budget Hotel,Car,Off-season,Culture,Premium,63953.41
+Varanasi,4,3,Budget Hotel,Bus,Peak,Relaxation,Budget,17474.57
+Agra,3,3,4-Star Hotel,Train,Regular,Adventure,Standard,23861.27
+Rishikesh,5,7,4-Star Hotel,Train,Regular,Adventure,Budget,66485.3
+Jaipur,2,4,4-Star Hotel,Train,Off-season,Culture,Premium,26051.33
+Agra,3,5,4-Star Hotel,Flight,Regular,Sightseeing,Budget,36443.0
+Goa,4,9,4-Star Hotel,Car,Regular,Culture,Budget,90426.32
+Jaipur,4,10,4-Star Hotel,Bus,Off-season,Culture,Standard,75078.0
+Goa,5,6,Hostel,Bus,Regular,Culture,Premium,78618.72
+Varanasi,4,7,4-Star Hotel,Train,Regular,Relaxation,Premium,70890.77
+Agra,1,5,3-Star Hotel,Car,Off-season,Culture,Premium,16372.42
+Goa,2,7,3-Star Hotel,Train,Off-season,Relaxation,Budget,31808.8
+Udaipur,3,6,Budget Hotel,Flight,Regular,Relaxation,Budget,37975.61
+Udaipur,2,2,4-Star Hotel,Bus,Peak,Sightseeing,Premium,22494.67
+Shimla,1,3,4-Star Hotel,Car,Off-season,Relaxation,Standard,17392.52
+Goa,4,6,Hostel,Flight,Regular,Relaxation,Budget,51029.59
+Udaipur,2,5,4-Star Hotel,Train,Peak,Relaxation,Premium,55001.41
+Shimla,4,2,3-Star Hotel,Car,Peak,Sightseeing,Standard,27414.16
+Shimla,2,7,4-Star Hotel,Car,Peak,Culture,Premium,80317.92
+Goa,3,9,3-Star Hotel,Bus,Peak,Sightseeing,Standard,82284.4
+Manali,4,2,Budget Hotel,Train,Peak,Adventure,Budget,20447.48
+Goa,4,8,Budget Hotel,Car,Peak,Adventure,Premium,131660.41
+Udaipur,4,10,Budget Hotel,Train,Peak,Adventure,Standard,102476.67
+Manali,5,2,3-Star Hotel,Bus,Regular,Sightseeing,Premium,28557.94
+Rishikesh,1,8,Hostel,Car,Off-season,Relaxation,Standard,13718.22
+Manali,2,6,Budget Hotel,Car,Peak,Culture,Premium,45978.73
+Varanasi,2,7,3-Star Hotel,Flight,Off-season,Relaxation,Premium,35092.48
+Jaipur,1,3,3-Star Hotel,Car,Regular,Culture,Premium,12401.71
+Manali,2,5,Hostel,Bus,Peak,Culture,Premium,34328.36
+Varanasi,5,6,Hostel,Flight,Peak,Adventure,Standard,71471.53
+Udaipur,5,3,3-Star Hotel,Bus,Regular,Adventure,Standard,36081.1
+Varanasi,3,6,Budget Hotel,Train,Peak,Adventure,Standard,37889.22
+Rishikesh,3,8,3-Star Hotel,Train,Peak,Culture,Premium,77086.4
+Manali,5,5,3-Star Hotel,Train,Off-season,Sightseeing,Premium,57903.7
+Shimla,1,7,Hostel,Train,Regular,Adventure,Premium,22484.81
+Udaipur,1,9,4-Star Hotel,Bus,Regular,Culture,Budget,48307.76
+Varanasi,5,4,Budget Hotel,Train,Peak,Sightseeing,Standard,32614.06
+Manali,3,8,Budget Hotel,Bus,Peak,Sightseeing,Premium,78938.08
+Udaipur,4,10,Budget Hotel,Bus,Regular,Relaxation,Premium,100341.15
+Agra,1,3,4-Star Hotel,Bus,Off-season,Sightseeing,Premium,14688.98
+Manali,3,10,Hostel,Train,Off-season,Sightseeing,Premium,60910.99
+Varanasi,3,7,3-Star Hotel,Train,Regular,Culture,Premium,48851.5
+Jaipur,2,9,3-Star Hotel,Car,Off-season,Culture,Budget,34207.85
+Agra,2,7,4-Star Hotel,Bus,Off-season,Relaxation,Premium,41926.29
+Rishikesh,5,6,3-Star Hotel,Bus,Peak,Sightseeing,Premium,82167.86
+Udaipur,3,10,3-Star Hotel,Car,Peak,Relaxation,Premium,115802.55
+Jaipur,2,4,4-Star Hotel,Train,Regular,Culture,Premium,30161.06
+Agra,3,3,Budget Hotel,Car,Regular,Sightseeing,Premium,22735.74
+Shimla,4,6,4-Star Hotel,Train,Peak,Sightseeing,Premium,99715.31
+Agra,2,9,Budget Hotel,Bus,Peak,Culture,Premium,48897.76
+Varanasi,1,3,3-Star Hotel,Car,Off-season,Relaxation,Budget,8777.08
+Shimla,1,8,3-Star Hotel,Bus,Peak,Relaxation,Budget,37258.09
+Jaipur,4,2,Hostel,Car,Regular,Sightseeing,Premium,21136.1
+Udaipur,5,9,Budget Hotel,Train,Peak,Culture,Premium,133731.88
+Agra,4,6,Hostel,Car,Peak,Culture,Premium,60468.54
+Udaipur,4,4,3-Star Hotel,Flight,Regular,Sightseeing,Budget,38843.55
+Agra,2,9,Budget Hotel,Bus,Regular,Sightseeing,Standard,28483.9
+Manali,2,8,4-Star Hotel,Flight,Regular,Adventure,Budget,65002.48
+Manali,3,7,3-Star Hotel,Car,Peak,Relaxation,Standard,66564.01
+Jaipur,5,3,4-Star Hotel,Flight,Regular,Adventure,Standard,52027.92
+Udaipur,1,2,Hostel,Train,Regular,Culture,Premium,6865.56
+Manali,5,3,Budget Hotel,Bus,Off-season,Culture,Budget,17589.58
+Udaipur,2,8,Hostel,Flight,Peak,Sightseeing,Standard,42733.36
+Rishikesh,5,10,3-Star Hotel,Car,Off-season,Adventure,Premium,110730.06
+Rishikesh,1,8,Budget Hotel,Train,Regular,Relaxation,Standard,19496.51
+Udaipur,3,9,4-Star Hotel,Flight,Peak,Culture,Budget,93004.83
+Varanasi,4,5,Hostel,Car,Regular,Adventure,Premium,44396.99
+Manali,3,3,Hostel,Train,Off-season,Relaxation,Premium,21186.11
+Agra,4,10,3-Star Hotel,Train,Peak,Culture,Standard,82682.5
+Agra,5,9,4-Star Hotel,Bus,Peak,Adventure,Budget,99850.37
+Manali,3,9,3-Star Hotel,Train,Off-season,Culture,Standard,54490.7
+Jaipur,5,7,Budget Hotel,Bus,Off-season,Sightseeing,Standard,42974.01
+Manali,2,8,4-Star Hotel,Train,Peak,Sightseeing,Standard,71623.54
+Shimla,5,4,4-Star Hotel,Train,Regular,Culture,Budget,42264.52
+Agra,1,2,3-Star Hotel,Flight,Peak,Sightseeing,Budget,10055.23
+Manali,5,10,Budget Hotel,Flight,Peak,Relaxation,Standard,133673.6
+Goa,2,10,4-Star Hotel,Car,Off-season,Sightseeing,Budget,59238.43
+Manali,1,2,4-Star Hotel,Bus,Off-season,Sightseeing,Standard,10448.23
+Agra,3,4,Hostel,Car,Off-season,Adventure,Budget,15643.4
+Udaipur,1,8,Budget Hotel,Train,Regular,Culture,Budget,18231.35
+Udaipur,1,4,3-Star Hotel,Bus,Peak,Sightseeing,Premium,24283.29
+Varanasi,3,5,4-Star Hotel,Flight,Off-season,Sightseeing,Budget,29566.3
+Jaipur,5,7,3-Star Hotel,Car,Peak,Adventure,Standard,94720.39
+Manali,1,8,Budget Hotel,Flight,Off-season,Sightseeing,Budget,18501.83
+Manali,5,3,4-Star Hotel,Bus,Regular,Sightseeing,Premium,46274.92
+Goa,4,9,Budget Hotel,Flight,Regular,Sightseeing,Budget,67821.22
+Agra,4,9,3-Star Hotel,Flight,Peak,Adventure,Budget,84462.03
+Jaipur,2,8,Hostel,Train,Regular,Sightseeing,Standard,25479.46
+Jaipur,5,8,Hostel,Train,Regular,Sightseeing,Premium,82058.6
+Agra,2,3,Budget Hotel,Train,Peak,Relaxation,Budget,13057.64
+Udaipur,2,8,Hostel,Train,Off-season,Sightseeing,Budget,17569.79
+Agra,3,4,4-Star Hotel,Train,Off-season,Culture,Premium,31263.96
+Jaipur,1,5,Hostel,Car,Off-season,Relaxation,Standard,9520.9
+Varanasi,4,9,Hostel,Bus,Peak,Relaxation,Premium,82995.66
+Varanasi,1,5,Hostel,Bus,Regular,Relaxation,Premium,10945.35
+Udaipur,1,6,Hostel,Train,Off-season,Culture,Premium,15225.44
+Shimla,3,2,Budget Hotel,Flight,Off-season,Adventure,Premium,26463.7
+Varanasi,2,6,3-Star Hotel,Bus,Off-season,Culture,Standard,18711.9
+Jaipur,4,9,3-Star Hotel,Bus,Peak,Culture,Budget,67344.81
+Goa,5,7,Budget Hotel,Car,Regular,Adventure,Standard,85716.35
+Manali,4,9,4-Star Hotel,Flight,Regular,Culture,Standard,105441.14
+Jaipur,3,5,4-Star Hotel,Car,Regular,Sightseeing,Premium,49770.26
+Agra,2,10,Budget Hotel,Bus,Regular,Culture,Premium,43455.18
+Jaipur,1,6,3-Star Hotel,Train,Peak,Culture,Premium,30970.85
+Varanasi,5,5,4-Star Hotel,Bus,Peak,Culture,Standard,55831.2
+Manali,3,6,Budget Hotel,Car,Peak,Relaxation,Standard,48657.24
+Goa,3,6,3-Star Hotel,Flight,Peak,Culture,Premium,90638.98
+Manali,3,8,4-Star Hotel,Train,Peak,Culture,Standard,89052.78
+Shimla,1,6,Hostel,Flight,Peak,Culture,Standard,22378.42
+Goa,2,8,4-Star Hotel,Bus,Off-season,Relaxation,Premium,66644.32
+Udaipur,5,7,3-Star Hotel,Bus,Regular,Culture,Premium,91787.62
+Manali,5,5,Budget Hotel,Car,Peak,Relaxation,Premium,87660.83
+Rishikesh,3,6,3-Star Hotel,Train,Regular,Relaxation,Budget,29441.02
+Manali,4,3,4-Star Hotel,Train,Off-season,Adventure,Budget,26358.64
+Varanasi,2,4,Budget Hotel,Bus,Off-season,Adventure,Premium,16571.15
+Agra,3,3,4-Star Hotel,Car,Peak,Culture,Standard,28795.32
+Manali,1,6,3-Star Hotel,Flight,Regular,Sightseeing,Premium,31800.68
+Jaipur,2,10,3-Star Hotel,Flight,Off-season,Culture,Premium,55017.45
+Goa,4,5,Budget Hotel,Bus,Peak,Culture,Standard,50490.09
+Agra,4,4,3-Star Hotel,Car,Peak,Relaxation,Premium,52235.07
+Jaipur,2,3,3-Star Hotel,Car,Regular,Relaxation,Standard,17559.99
+Agra,5,8,Budget Hotel,Train,Peak,Culture,Premium,99152.99
+Udaipur,2,6,3-Star Hotel,Car,Off-season,Relaxation,Premium,38063.4
+Jaipur,5,6,Budget Hotel,Train,Off-season,Culture,Premium,55259.51
+Goa,1,6,Budget Hotel,Flight,Regular,Adventure,Standard,25913.02
+Rishikesh,1,4,Budget Hotel,Flight,Off-season,Sightseeing,Premium,14148.49
+Agra,1,5,4-Star Hotel,Flight,Peak,Culture,Standard,32169.57
+Udaipur,2,5,Hostel,Bus,Regular,Sightseeing,Premium,23941.98
+Varanasi,4,10,Hostel,Car,Off-season,Sightseeing,Budget,31829.69
+Manali,3,4,Budget Hotel,Train,Regular,Sightseeing,Budget,18548.21
+Manali,2,5,Budget Hotel,Train,Peak,Relaxation,Standard,28799.97
+Shimla,3,4,Budget Hotel,Flight,Off-season,Sightseeing,Premium,35028.31
+Rishikesh,1,4,4-Star Hotel,Train,Off-season,Relaxation,Standard,16940.01
+Jaipur,4,8,4-Star Hotel,Car,Peak,Culture,Budget,79035.27
+Varanasi,3,9,Hostel,Flight,Peak,Culture,Standard,51658.32
+Udaipur,5,5,4-Star Hotel,Car,Off-season,Relaxation,Premium,70306.19
+Varanasi,3,3,Budget Hotel,Flight,Off-season,Culture,Premium,22054.49
+Udaipur,5,7,3-Star Hotel,Flight,Off-season,Relaxation,Premium,92341.48
+Jaipur,4,5,Hostel,Bus,Peak,Sightseeing,Standard,37844.91
+Manali,4,5,3-Star Hotel,Train,Regular,Culture,Budget,35699.18
+Jaipur,1,5,Budget Hotel,Train,Off-season,Relaxation,Standard,11287.8
+Udaipur,5,2,Hostel,Flight,Regular,Adventure,Premium,43440.69
+Rishikesh,1,2,Hostel,Train,Regular,Sightseeing,Budget,3028.28
+Varanasi,2,10,Budget Hotel,Bus,Off-season,Culture,Budget,21532.09
+Jaipur,2,6,3-Star Hotel,Flight,Peak,Culture,Premium,52688.34
+Shimla,1,2,Hostel,Train,Off-season,Adventure,Premium,6044.4
+Rishikesh,2,2,3-Star Hotel,Car,Off-season,Culture,Budget,8402.19
+Udaipur,4,8,Budget Hotel,Bus,Off-season,Adventure,Budget,46425.55
+Manali,3,3,4-Star Hotel,Bus,Peak,Sightseeing,Premium,41766.5
+Shimla,5,10,Hostel,Bus,Peak,Adventure,Budget,95929.86
+Shimla,1,8,4-Star Hotel,Car,Off-season,Sightseeing,Premium,44863.35
+Udaipur,5,10,Budget Hotel,Bus,Peak,Relaxation,Premium,151364.93
+Goa,2,10,4-Star Hotel,Car,Regular,Relaxation,Premium,99972.49
+Jaipur,2,9,4-Star Hotel,Bus,Off-season,Adventure,Standard,53523.68
+Goa,3,3,Hostel,Train,Peak,Adventure,Standard,28900.25
+Manali,2,7,3-Star Hotel,Train,Off-season,Relaxation,Standard,33912.02
+Jaipur,3,3,Hostel,Car,Off-season,Adventure,Budget,16191.84
+Varanasi,5,3,Hostel,Car,Off-season,Relaxation,Premium,26497.74
+Rishikesh,4,9,Hostel,Bus,Regular,Relaxation,Standard,51660.92
+Goa,2,2,4-Star Hotel,Car,Peak,Culture,Budget,21344.89
+Varanasi,3,6,Budget Hotel,Bus,Peak,Relaxation,Standard,33802.07
+Agra,4,6,Budget Hotel,Train,Regular,Relaxation,Budget,30353.47
+Goa,2,8,Hostel,Bus,Off-season,Relaxation,Premium,41549.63
+Jaipur,5,9,Budget Hotel,Bus,Peak,Culture,Budget,66665.17
+Jaipur,4,8,4-Star Hotel,Car,Regular,Sightseeing,Premium,93785.09
+Manali,2,7,4-Star Hotel,Flight,Off-season,Culture,Standard,48500.93
+Jaipur,3,4,4-Star Hotel,Train,Off-season,Relaxation,Standard,27937.87
+Agra,4,3,Hostel,Train,Peak,Adventure,Budget,21454.99
+Shimla,1,6,4-Star Hotel,Bus,Off-season,Relaxation,Standard,30077.7
+Udaipur,1,4,3-Star Hotel,Car,Peak,Adventure,Standard,23016.85
+Goa,2,2,4-Star Hotel,Bus,Regular,Culture,Premium,19404.3
+Goa,1,3,4-Star Hotel,Train,Off-season,Sightseeing,Premium,18050.11
+Varanasi,2,5,4-Star Hotel,Train,Off-season,Culture,Budget,21954.17
+Shimla,4,2,Budget Hotel,Bus,Regular,Adventure,Standard,20822.69
+Shimla,5,5,Budget Hotel,Train,Peak,Relaxation,Premium,84015.73
+Goa,4,6,Budget Hotel,Flight,Regular,Relaxation,Budget,56528.42
+Agra,5,8,4-Star Hotel,Flight,Peak,Culture,Premium,137367.01
+Jaipur,5,9,Budget Hotel,Car,Peak,Culture,Premium,127573.76
+Goa,3,2,Budget Hotel,Car,Off-season,Relaxation,Premium,20586.04
+Varanasi,3,3,Hostel,Train,Regular,Relaxation,Standard,14316.34
+Varanasi,1,8,Hostel,Bus,Regular,Sightseeing,Budget,9307.48
+Udaipur,3,9,Budget Hotel,Train,Regular,Relaxation,Standard,52256.45
+Jaipur,3,9,Hostel,Train,Peak,Adventure,Budget,51205.33
+Varanasi,5,5,4-Star Hotel,Car,Peak,Culture,Standard,61618.7
+Agra,3,6,Hostel,Bus,Off-season,Culture,Standard,21411.56
+Rishikesh,2,3,Budget Hotel,Car,Off-season,Sightseeing,Budget,8062.35
+Shimla,3,5,Hostel,Car,Peak,Sightseeing,Budget,29687.2
+Manali,3,3,3-Star Hotel,Bus,Regular,Relaxation,Budget,17619.1
+Udaipur,2,3,4-Star Hotel,Bus,Regular,Adventure,Premium,29595.45
+Shimla,1,4,4-Star Hotel,Flight,Regular,Culture,Premium,30065.59
+Udaipur,3,7,Budget Hotel,Flight,Off-season,Sightseeing,Premium,53575.41
+Jaipur,2,10,3-Star Hotel,Bus,Regular,Relaxation,Budget,40778.19
+Shimla,1,7,Hostel,Bus,Peak,Sightseeing,Budget,15355.31
+Goa,2,6,Budget Hotel,Car,Off-season,Adventure,Standard,29311.42
+Shimla,4,3,Budget Hotel,Train,Off-season,Culture,Premium,28465.39
+Shimla,5,5,Budget Hotel,Train,Regular,Relaxation,Premium,65010.3
+Agra,3,3,4-Star Hotel,Car,Peak,Adventure,Premium,41575.32
+Varanasi,2,3,4-Star Hotel,Flight,Regular,Relaxation,Budget,21870.94
+Varanasi,2,6,Budget Hotel,Train,Peak,Culture,Standard,23268.01
+Manali,1,6,Hostel,Bus,Off-season,Sightseeing,Premium,15513.37
+Jaipur,4,9,3-Star Hotel,Car,Peak,Culture,Standard,86204.42
+Varanasi,5,3,4-Star Hotel,Car,Off-season,Culture,Standard,25917.87
+Goa,2,2,Budget Hotel,Car,Peak,Relaxation,Budget,14434.67
+Agra,1,9,Hostel,Bus,Off-season,Adventure,Premium,20337.17
+Udaipur,2,8,Budget Hotel,Car,Regular,Adventure,Budget,34667.14
+Goa,4,2,Hostel,Train,Off-season,Culture,Budget,12048.24
+Rishikesh,3,8,Budget Hotel,Bus,Peak,Relaxation,Budget,39143.27
+Goa,2,2,3-Star Hotel,Flight,Peak,Relaxation,Standard,24729.45
+Shimla,4,2,3-Star Hotel,Bus,Off-season,Sightseeing,Premium,19933.01
+Udaipur,4,9,4-Star Hotel,Train,Regular,Culture,Budget,75648.6
+Varanasi,2,8,4-Star Hotel,Train,Regular,Sightseeing,Premium,51683.94
+Udaipur,2,2,4-Star Hotel,Train,Off-season,Sightseeing,Budget,11648.85
+Shimla,4,9,4-Star Hotel,Bus,Peak,Culture,Premium,147069.97
+Rishikesh,4,4,Budget Hotel,Car,Off-season,Relaxation,Premium,33268.11
+Manali,1,8,4-Star Hotel,Flight,Peak,Adventure,Budget,62237.39
+Udaipur,3,8,4-Star Hotel,Bus,Off-season,Relaxation,Budget,49910.82
+Varanasi,3,5,Budget Hotel,Bus,Peak,Adventure,Standard,31761.95
+Udaipur,5,9,4-Star Hotel,Car,Regular,Relaxation,Standard,108588.64
+Goa,4,4,Budget Hotel,Train,Off-season,Relaxation,Premium,40342.58
+Goa,5,4,4-Star Hotel,Flight,Regular,Sightseeing,Budget,59960.06
+Rishikesh,3,7,3-Star Hotel,Flight,Regular,Adventure,Budget,47844.85
+Udaipur,3,10,4-Star Hotel,Bus,Peak,Culture,Budget,90991.92
+Shimla,3,7,Hostel,Bus,Peak,Relaxation,Premium,67330.72
+Jaipur,2,4,4-Star Hotel,Bus,Peak,Sightseeing,Budget,29007.39
+Udaipur,4,2,3-Star Hotel,Flight,Peak,Relaxation,Premium,46338.56
+Udaipur,4,7,3-Star Hotel,Flight,Regular,Relaxation,Premium,92754.84
+Rishikesh,1,9,Budget Hotel,Train,Regular,Adventure,Budget,20599.99
+Varanasi,4,3,4-Star Hotel,Bus,Peak,Culture,Standard,28379.27
+Goa,5,6,4-Star Hotel,Car,Regular,Adventure,Premium,119676.95
+Rishikesh,4,6,Budget Hotel,Bus,Off-season,Culture,Standard,32011.21
+Jaipur,1,10,3-Star Hotel,Train,Regular,Sightseeing,Premium,39504.88
+Jaipur,4,5,3-Star Hotel,Flight,Peak,Relaxation,Budget,55165.33
+Manali,5,8,3-Star Hotel,Car,Regular,Adventure,Standard,96661.01
+Shimla,4,8,4-Star Hotel,Train,Peak,Sightseeing,Premium,132317.61
+Varanasi,2,4,4-Star Hotel,Bus,Off-season,Relaxation,Standard,19313.76
+Shimla,5,5,3-Star Hotel,Car,Regular,Relaxation,Budget,47204.41
+Udaipur,5,3,4-Star Hotel,Car,Off-season,Sightseeing,Premium,42618.06
+Varanasi,2,7,3-Star Hotel,Flight,Off-season,Relaxation,Budget,25765.65
+Shimla,2,6,Budget Hotel,Bus,Off-season,Culture,Budget,18505.3
+Shimla,5,5,Hostel,Flight,Peak,Adventure,Budget,71325.33
+Varanasi,3,5,3-Star Hotel,Train,Off-season,Relaxation,Premium,29260.63
+Varanasi,3,3,Hostel,Car,Peak,Sightseeing,Budget,12817.39
+Jaipur,1,6,Budget Hotel,Train,Peak,Culture,Premium,22477.46
+Shimla,1,8,Hostel,Bus,Regular,Culture,Standard,17110.17
+Jaipur,3,2,Budget Hotel,Flight,Peak,Adventure,Premium,31925.84
+Jaipur,2,7,Hostel,Car,Regular,Sightseeing,Budget,20342.97
+Goa,4,6,Budget Hotel,Train,Peak,Culture,Standard,59669.21
+Jaipur,5,5,4-Star Hotel,Car,Off-season,Sightseeing,Standard,46415.87
+Udaipur,1,5,Budget Hotel,Bus,Peak,Relaxation,Premium,22426.48
+Shimla,5,8,Hostel,Train,Peak,Relaxation,Standard,86414.46
+Goa,1,7,3-Star Hotel,Train,Peak,Adventure,Standard,41268.98
+Rishikesh,2,4,Budget Hotel,Flight,Off-season,Culture,Budget,16019.89
+Goa,5,6,4-Star Hotel,Car,Regular,Relaxation,Standard,84806.7
+Shimla,5,3,Hostel,Flight,Peak,Adventure,Premium,74642.49
+Goa,1,8,Budget Hotel,Car,Regular,Culture,Budget,21230.39
+Agra,5,8,Hostel,Train,Off-season,Culture,Premium,63338.5
+Rishikesh,4,9,Budget Hotel,Flight,Peak,Relaxation,Standard,84884.11
+Varanasi,1,6,Hostel,Car,Off-season,Culture,Standard,10061.66
+Goa,5,2,4-Star Hotel,Train,Regular,Sightseeing,Standard,29401.95
+Agra,5,4,3-Star Hotel,Train,Peak,Relaxation,Premium,55298.04
+Jaipur,1,6,3-Star Hotel,Car,Peak,Sightseeing,Budget,23420.93
+Jaipur,4,6,Budget Hotel,Train,Off-season,Relaxation,Budget,27840.54
+Rishikesh,5,5,Hostel,Car,Off-season,Adventure,Premium,50891.47
+Agra,1,9,Hostel,Bus,Peak,Relaxation,Premium,26056.03
+Varanasi,2,5,Hostel,Train,Peak,Sightseeing,Standard,18868.93
+Rishikesh,5,4,4-Star Hotel,Train,Regular,Sightseeing,Premium,52182.64
+Agra,1,3,3-Star Hotel,Train,Peak,Sightseeing,Premium,13288.64
+Varanasi,2,10,Budget Hotel,Car,Peak,Relaxation,Premium,55793.62
+Goa,5,6,Hostel,Train,Regular,Culture,Standard,55242.69
+Varanasi,3,7,Hostel,Bus,Peak,Culture,Budget,26035.54
+Udaipur,2,6,3-Star Hotel,Bus,Off-season,Culture,Standard,27354.45
+Varanasi,5,2,Budget Hotel,Car,Off-season,Culture,Budget,15006.21
+Udaipur,1,6,Hostel,Train,Peak,Relaxation,Budget,15526.61
+Manali,1,7,Budget Hotel,Car,Regular,Adventure,Budget,19845.82
+Manali,5,7,Hostel,Flight,Off-season,Adventure,Premium,95082.22
+Shimla,2,6,Hostel,Bus,Peak,Relaxation,Premium,41913.43
+Udaipur,5,5,Budget Hotel,Bus,Off-season,Adventure,Premium,57933.37
+Varanasi,4,7,3-Star Hotel,Car,Peak,Adventure,Premium,86787.65
+Udaipur,5,6,4-Star Hotel,Bus,Peak,Culture,Premium,112661.66
+Manali,2,7,Hostel,Flight,Regular,Relaxation,Premium,45123.13
+Varanasi,1,4,4-Star Hotel,Bus,Regular,Sightseeing,Premium,19296.26
+Rishikesh,5,6,Hostel,Car,Peak,Culture,Budget,45475.13
+Varanasi,5,3,3-Star Hotel,Bus,Off-season,Sightseeing,Budget,16493.17
+Manali,5,6,Budget Hotel,Train,Off-season,Culture,Premium,65443.57
+Manali,2,9,4-Star Hotel,Car,Off-season,Culture,Premium,69008.04
+Udaipur,5,8,Budget Hotel,Car,Regular,Culture,Standard,72123.23
+Jaipur,2,4,Budget Hotel,Bus,Off-season,Relaxation,Budget,10465.37
+Udaipur,4,4,Hostel,Flight,Off-season,Adventure,Budget,33487.21
+Rishikesh,5,10,4-Star Hotel,Car,Regular,Adventure,Premium,146020.75
+Varanasi,5,5,3-Star Hotel,Flight,Regular,Culture,Standard,49121.63
+Shimla,2,7,4-Star Hotel,Bus,Off-season,Relaxation,Budget,40579.31
+Rishikesh,5,9,3-Star Hotel,Bus,Regular,Culture,Standard,72439.47
+Jaipur,5,9,3-Star Hotel,Bus,Regular,Adventure,Standard,90569.91
+Agra,4,10,4-Star Hotel,Flight,Off-season,Relaxation,Standard,77835.81
+Jaipur,1,3,Hostel,Flight,Off-season,Adventure,Standard,8196.83
+Udaipur,5,5,Budget Hotel,Bus,Regular,Culture,Budget,32019.05
+Agra,2,4,3-Star Hotel,Bus,Regular,Adventure,Standard,19507.42
+Rishikesh,1,5,Hostel,Car,Regular,Relaxation,Premium,12584.76
+Goa,1,4,Hostel,Flight,Peak,Adventure,Premium,21624.88
+Udaipur,5,10,3-Star Hotel,Flight,Peak,Culture,Premium,181273.29
+Udaipur,5,8,4-Star Hotel,Car,Peak,Relaxation,Premium,156755.93
+Varanasi,3,8,4-Star Hotel,Train,Regular,Adventure,Premium,71114.72
+Rishikesh,3,7,Budget Hotel,Flight,Regular,Culture,Budget,35243.89
+Rishikesh,3,5,Hostel,Car,Peak,Relaxation,Premium,42814.71
+Jaipur,3,4,3-Star Hotel,Car,Regular,Adventure,Budget,26722.92
+Rishikesh,3,6,Budget Hotel,Car,Off-season,Relaxation,Standard,27732.45
+Shimla,3,10,4-Star Hotel,Flight,Regular,Adventure,Budget,95220.4
+Shimla,1,8,3-Star Hotel,Car,Peak,Sightseeing,Budget,35807.39
+Manali,4,4,Budget Hotel,Train,Off-season,Sightseeing,Premium,35519.76
+Rishikesh,5,6,4-Star Hotel,Bus,Peak,Relaxation,Budget,64896.55
+Shimla,1,4,3-Star Hotel,Flight,Off-season,Culture,Premium,20957.49
+Varanasi,4,4,Hostel,Bus,Off-season,Relaxation,Standard,18520.92
+Udaipur,1,3,Hostel,Car,Off-season,Culture,Standard,7370.79
+Agra,4,10,Budget Hotel,Train,Off-season,Culture,Budget,38069.63
+Shimla,4,5,3-Star Hotel,Flight,Off-season,Culture,Premium,60815.7
+Rishikesh,2,9,3-Star Hotel,Flight,Off-season,Relaxation,Standard,38411.74
+Varanasi,2,10,3-Star Hotel,Car,Regular,Relaxation,Budget,36045.12
+Rishikesh,1,8,3-Star Hotel,Train,Off-season,Adventure,Premium,27442.9
+Udaipur,3,2,Budget Hotel,Flight,Off-season,Relaxation,Premium,22773.32
+Rishikesh,3,7,Budget Hotel,Bus,Peak,Sightseeing,Premium,58179.63
+Varanasi,4,2,Budget Hotel,Train,Regular,Culture,Budget,10566.31
+Agra,3,5,3-Star Hotel,Car,Peak,Sightseeing,Standard,36890.78
+Agra,1,3,Budget Hotel,Bus,Regular,Adventure,Premium,8726.29
+Shimla,4,8,Budget Hotel,Flight,Regular,Adventure,Standard,82179.51
+Goa,2,2,3-Star Hotel,Bus,Peak,Culture,Premium,19313.31
+Manali,4,6,Budget Hotel,Car,Regular,Culture,Standard,47800.45
+Rishikesh,1,5,3-Star Hotel,Car,Off-season,Sightseeing,Budget,12775.77
+Shimla,5,5,Hostel,Car,Regular,Relaxation,Premium,67971.2
+Manali,2,9,Hostel,Bus,Peak,Sightseeing,Premium,57221.52
+Jaipur,1,2,3-Star Hotel,Train,Off-season,Culture,Premium,7956.2
+Varanasi,5,2,3-Star Hotel,Car,Off-season,Culture,Standard,16887.48
+Varanasi,1,3,3-Star Hotel,Flight,Regular,Adventure,Premium,13792.42
+Rishikesh,1,8,Budget Hotel,Flight,Peak,Sightseeing,Budget,22818.21
+Jaipur,1,2,Hostel,Flight,Regular,Culture,Budget,7213.7
+Manali,2,5,4-Star Hotel,Car,Off-season,Culture,Budget,32433.36
+Jaipur,1,9,3-Star Hotel,Train,Regular,Culture,Budget,27174.31
+Udaipur,3,7,4-Star Hotel,Bus,Regular,Relaxation,Standard,61678.56
+Varanasi,2,4,Hostel,Car,Peak,Sightseeing,Budget,13199.9
+Shimla,2,3,Hostel,Train,Regular,Culture,Premium,16751.2
+Varanasi,4,2,Hostel,Train,Regular,Adventure,Premium,16962.05
+Agra,4,10,3-Star Hotel,Train,Peak,Adventure,Budget,78912.35
+Jaipur,5,2,4-Star Hotel,Flight,Off-season,Sightseeing,Standard,29746.82
+Manali,1,9,Hostel,Car,Off-season,Adventure,Budget,16931.02
+Jaipur,1,9,3-Star Hotel,Car,Regular,Adventure,Premium,40755.51
+Rishikesh,1,3,3-Star Hotel,Train,Regular,Relaxation,Premium,12558.06
+Agra,5,3,Hostel,Bus,Regular,Culture,Premium,29177.88
+Agra,3,6,Budget Hotel,Bus,Peak,Sightseeing,Premium,47737.17
+Udaipur,3,3,Budget Hotel,Bus,Peak,Sightseeing,Premium,28121.7
+Manali,4,8,Hostel,Bus,Regular,Relaxation,Budget,43954.43
+Rishikesh,4,4,Hostel,Bus,Regular,Relaxation,Premium,33213.3
+Jaipur,2,6,4-Star Hotel,Car,Peak,Sightseeing,Budget,45134.07
+Varanasi,4,4,Budget Hotel,Train,Regular,Sightseeing,Premium,30900.72
+Jaipur,1,7,Hostel,Train,Peak,Culture,Premium,25346.7
+Varanasi,1,3,Hostel,Train,Off-season,Adventure,Budget,2899.88
+Rishikesh,4,5,Budget Hotel,Car,Off-season,Culture,Budget,21678.23
+Goa,3,6,3-Star Hotel,Bus,Off-season,Culture,Budget,32100.84
+Agra,3,10,Budget Hotel,Flight,Peak,Adventure,Standard,76178.43
+Jaipur,3,4,Hostel,Car,Regular,Sightseeing,Budget,16562.42
+Udaipur,5,9,Budget Hotel,Flight,Off-season,Sightseeing,Premium,101262.32
+Jaipur,2,10,4-Star Hotel,Bus,Regular,Adventure,Standard,68683.35
+Rishikesh,1,8,Budget Hotel,Car,Regular,Sightseeing,Premium,24639.57
+Agra,2,9,Budget Hotel,Bus,Off-season,Culture,Standard,27120.18
+Jaipur,4,2,3-Star Hotel,Car,Peak,Culture,Budget,22055.12
+Shimla,5,10,Budget Hotel,Flight,Peak,Culture,Budget,104185.73
+Rishikesh,5,9,3-Star Hotel,Car,Off-season,Sightseeing,Standard,62319.87
+Goa,3,6,Budget Hotel,Car,Regular,Culture,Premium,57003.5
+Agra,5,2,4-Star Hotel,Bus,Off-season,Relaxation,Premium,22927.63
+Rishikesh,4,4,4-Star Hotel,Flight,Peak,Relaxation,Budget,52072.64
+Udaipur,2,3,3-Star Hotel,Train,Regular,Culture,Standard,18137.61
+Shimla,2,2,Hostel,Bus,Regular,Culture,Budget,7094.48
+Udaipur,1,3,Budget Hotel,Flight,Off-season,Relaxation,Budget,8212.75
+Rishikesh,3,6,Budget Hotel,Train,Peak,Culture,Standard,36738.05
+Shimla,3,4,4-Star Hotel,Bus,Peak,Culture,Premium,56317.96
+Jaipur,1,10,Budget Hotel,Bus,Regular,Sightseeing,Premium,29167.74
+Goa,5,7,Hostel,Car,Peak,Culture,Budget,66534.81
+Rishikesh,3,3,Budget Hotel,Flight,Peak,Relaxation,Budget,26489.83
+Agra,4,6,3-Star Hotel,Bus,Regular,Relaxation,Premium,55597.16
+Jaipur,5,7,4-Star Hotel,Train,Off-season,Sightseeing,Premium,79686.23
+Goa,1,6,4-Star Hotel,Flight,Regular,Adventure,Budget,41025.02
+Shimla,1,6,Hostel,Train,Peak,Relaxation,Standard,16143.86
+Agra,4,5,Budget Hotel,Train,Regular,Sightseeing,Budget,22415.91
+Varanasi,3,4,Hostel,Bus,Regular,Relaxation,Budget,12238.95
+Udaipur,1,4,Budget Hotel,Train,Regular,Adventure,Premium,15645.43
+Jaipur,1,7,4-Star Hotel,Bus,Regular,Culture,Premium,37475.54
+Agra,5,3,3-Star Hotel,Flight,Peak,Culture,Standard,47248.79
+Udaipur,5,6,4-Star Hotel,Flight,Off-season,Culture,Premium,88941.85
+Shimla,3,10,Budget Hotel,Car,Off-season,Culture,Standard,53468.24
+Varanasi,2,6,Budget Hotel,Flight,Peak,Sightseeing,Budget,25897.55
+Shimla,2,10,3-Star Hotel,Car,Peak,Sightseeing,Premium,88933.5
+Jaipur,4,3,3-Star Hotel,Car,Off-season,Adventure,Premium,32221.48
+Rishikesh,1,2,3-Star Hotel,Bus,Off-season,Sightseeing,Budget,3833.62
+Goa,1,5,3-Star Hotel,Flight,Off-season,Sightseeing,Premium,25278.54
+Varanasi,2,3,Budget Hotel,Train,Regular,Culture,Standard,9709.75
+Udaipur,2,6,3-Star Hotel,Flight,Peak,Culture,Standard,47727.14
+Jaipur,1,4,Budget Hotel,Bus,Off-season,Sightseeing,Standard,10301.75
+Udaipur,2,7,3-Star Hotel,Car,Peak,Sightseeing,Premium,60061.14
+Udaipur,5,3,4-Star Hotel,Flight,Peak,Culture,Standard,64901.39
+Agra,4,10,4-Star Hotel,Car,Peak,Sightseeing,Premium,129915.29
+Manali,5,2,4-Star Hotel,Car,Peak,Culture,Premium,48500.41
+Agra,5,6,4-Star Hotel,Bus,Off-season,Adventure,Budget,45807.29
+Varanasi,2,10,4-Star Hotel,Bus,Off-season,Relaxation,Standard,44829.83
+Agra,1,3,Hostel,Train,Off-season,Sightseeing,Premium,4997.2
+Varanasi,4,2,Hostel,Car,Regular,Relaxation,Budget,12197.43
+Varanasi,3,5,4-Star Hotel,Train,Peak,Adventure,Standard,44653.98
+Manali,3,7,4-Star Hotel,Train,Off-season,Adventure,Premium,72882.03
+Varanasi,3,8,Budget Hotel,Train,Off-season,Adventure,Premium,44741.05
+Udaipur,5,5,4-Star Hotel,Car,Peak,Sightseeing,Budget,62972.65
+Agra,5,3,Hostel,Bus,Peak,Relaxation,Standard,26073.98
+Udaipur,2,3,3-Star Hotel,Flight,Peak,Adventure,Budget,29379.35
+Shimla,4,3,Hostel,Bus,Peak,Culture,Budget,20716.74
+Agra,2,7,Budget Hotel,Car,Peak,Adventure,Standard,36892.3
+Goa,5,2,Budget Hotel,Train,Peak,Relaxation,Standard,29825.77
+Udaipur,4,5,4-Star Hotel,Car,Regular,Relaxation,Budget,47871.82
+Shimla,4,6,Budget Hotel,Bus,Off-season,Relaxation,Budget,29214.85
+Shimla,2,5,Hostel,Car,Peak,Sightseeing,Standard,25017.25
+Agra,1,4,4-Star Hotel,Bus,Peak,Adventure,Budget,22999.98
+Manali,5,6,Budget Hotel,Car,Off-season,Culture,Premium,68364.77
+Jaipur,3,4,4-Star Hotel,Car,Off-season,Relaxation,Budget,25605.66
+Rishikesh,1,4,Budget Hotel,Car,Peak,Relaxation,Standard,12685.51
+Jaipur,3,10,4-Star Hotel,Bus,Regular,Relaxation,Standard,76989.69
+Goa,3,2,Hostel,Car,Off-season,Sightseeing,Premium,17779.45
+Udaipur,2,5,4-Star Hotel,Bus,Off-season,Culture,Standard,29313.3
+Udaipur,1,6,3-Star Hotel,Train,Peak,Sightseeing,Budget,25087.81
+Goa,1,2,Hostel,Car,Off-season,Sightseeing,Standard,5825.53
+Goa,2,3,Budget Hotel,Train,Peak,Adventure,Premium,29667.77
+Udaipur,5,7,Budget Hotel,Train,Regular,Sightseeing,Standard,56927.57
+Rishikesh,2,4,4-Star Hotel,Flight,Regular,Relaxation,Budget,29013.76
+Rishikesh,5,8,3-Star Hotel,Train,Off-season,Adventure,Standard,66633.79
+Udaipur,4,5,3-Star Hotel,Train,Off-season,Sightseeing,Standard,35450.25
+Varanasi,5,7,Hostel,Train,Peak,Culture,Premium,79558.24
