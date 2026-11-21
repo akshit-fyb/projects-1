@@ -23,7 +23,7 @@ with st.sidebar:
     generate=st.button('Generate AI Travel Plan',type='primary',use_container_width=True)
 
 if generate:
-    model=Path('ml/models/travel_cost_model.joblib')
+    model = Path(__file__).resolve().parent / "ml" / "models" / "travel_cost_model.joblib"
     if not model.exists(): st.error('ML model is missing. Run: python ml/generate_dataset.py && python ml/train.py'); st.stop()
     trip=TripRequest(origin,destination,int(days),int(travellers),float(budget),transport,accommodation,meal,activity,season)
     result=TravelPlannerOrchestrator().run(trip)
